@@ -1,1 +1,0 @@
-import{c as n,F as e,m as u,t as s}from"./q-b1c41f58.js";const m=l=>n("details",null,{open:e(r=>r.open,[l]),class:e(r=>r.border==null||r.border==!0?"border":"",[l])},[n("summary",null,null,e(r=>r.summary,[l]),3,null),u(s,null,3,"W0_0")],1,"W0_1");export{m as s_0gKylkwi8jU};

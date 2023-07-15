@@ -1,0 +1,4 @@
+import{m as o,N as a,$ as t,S as l}from"./q-69b48860.js";import{B as i}from"./q-c733db98.js";import{B as r}from"./q-19fb5679.js";import{B as c}from"./q-e1bbe8f2.js";import{N as m}from"./q-f9a7318d.js";const B={title:"История",meta:[],styles:[],links:[],frontmatter:{}},j={title:"История"};function s(e){return t(l,{children:[t(i,{title:"Свежие Новости",href:"news",src:"news/pic.jpg",short:!0}),`
+`,t(m,{}),`
+`,t(c,{columns:3,children:[t(r,{title:"Иссякающая Эпоха",href:"outgoing-age",src:"outgoing-age.jpg"}),t(r,{title:"Старое время",href:"old-time",src:"old-time/red-dawn/pic.png"}),t(r,{title:"Ветхие эпохи",href:"elder-ages",src:"elder-ages.jpg"})]}),`
+`,t(i,{title:"Таймлайн",href:"timeline",src:"timeline/pic.jpg",shorter:!0})]})}function p(e={}){const{wrapper:n}=e.components||{};return n?t(n,Object.assign({},e,{children:t(s,e)})):s()}const N=()=>o(a,{children:o(p,{},3,null)},3,"OqhOoVNp");export{N as default,j as frontmatter,B as head};

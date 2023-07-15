@@ -1,0 +1,13 @@
+import{m as t,N as a,$ as n,S as d}from"./q-69b48860.js";import{B as c}from"./q-c733db98.js";const o=[{text:"Внешний вид",id:"внешний-вид",level:2},{text:"Свойства",id:"свойства",level:2},{text:"Обитание",id:"обитание",level:2},{text:"Рецепты",id:"рецепты",level:2},{text:"Припарка на удавнике",id:"припарка-на-удавнике",level:3},{text:"Экстракт Удавника",id:"экстракт-удавника",level:3}],p={title:"Удавник",meta:[],styles:[],links:[],frontmatter:{}},u={title:"Удавник"};function r(i){const e=Object.assign({h2:"h2",a:"a",span:"span",p:"p",h3:"h3"},i.components);return n(d,{children:[n(c,{src:"/menu/guidebook/books/herbarium/herbs/strangler/pic.jpg",title:"Удавник"}),`
+`,n(e.h2,{id:"внешний-вид",children:[n(e.a,{"aria-hidden":"true",tabindex:"-1",href:"#внешний-вид",children:n(e.span,{class:"icon icon-link"})}),"Внешний вид"]}),`
+`,n(e.p,{children:"Узловатое серо-зелёное растение без листьев."}),`
+`,n(e.h2,{id:"свойства",children:[n(e.a,{"aria-hidden":"true",tabindex:"-1",href:"#свойства",children:n(e.span,{class:"icon icon-link"})}),"Свойства"]}),`
+`,n(e.p,{children:"Корни удавника слабоядовиты, обладают сильным обеззараживающим действием."}),`
+`,n(e.h2,{id:"обитание",children:[n(e.a,{"aria-hidden":"true",tabindex:"-1",href:"#обитание",children:n(e.span,{class:"icon icon-link"})}),"Обитание"]}),`
+`,n(e.p,{children:"Произрастает на берегах рек и озёр, чаще всего в тени и иле."}),`
+`,n(e.h2,{id:"рецепты",children:[n(e.a,{"aria-hidden":"true",tabindex:"-1",href:"#рецепты",children:n(e.span,{class:"icon icon-link"})}),"Рецепты"]}),`
+`,n(e.h3,{id:"припарка-на-удавнике",children:[n(e.a,{"aria-hidden":"true",tabindex:"-1",href:"#припарка-на-удавнике",children:n(e.span,{class:"icon icon-link"})}),"Припарка на удавнике"]}),`
+`,n(e.p,{children:"Пареные корни удавника с большим количеством воды могут вывести большое количество яда из открытой раны и обеззаразить ее."}),`
+`,n(e.h3,{id:"экстракт-удавника",children:[n(e.a,{"aria-hidden":"true",tabindex:"-1",href:"#экстракт-удавника",children:n(e.span,{class:"icon icon-link"})}),"Экстракт Удавника"]}),`
+`,n(e.p,{children:"Экстракт удавника может нанести серьезный удар почкам, если его регулярно принимать на протяжении месяца в составе любого напитка или блюда."}),`
+`,n(e.p,{children:["Применяется в ",n(e.a,{href:"../bloodrink#%D0%BA%D1%80%D0%BE%D0%B2%D1%8C-%D1%8D%D1%80%D1%84%D0%B5%D0%BC%D0%BE%D0%BD%D1%8B",children:"«Крови Эфремоны»"})]})]})}function l(i={}){const{wrapper:e}=i.components||{};return e?n(e,Object.assign({},i,{children:n(r,i)})):r(i)}const D=()=>t(a,{children:t(l,{},3,null)},3,"KDnzmK96");export{D as default,u as frontmatter,p as head,o as headings};
