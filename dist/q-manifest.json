@@ -1,0 +1,6993 @@
+{
+  "symbols": {
+    "s_02wMImzEAbk": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "QwikCityProvider_component_useTask",
+      "canonicalFilename": "s_02wmimzeabk",
+      "hash": "02wMImzEAbk",
+      "ctxKind": "function",
+      "ctxName": "useTask$",
+      "captures": true,
+      "parent": "s_TxCFOy819ag"
+    },
+    "s_4mEUMIxFebY": {
+      "origin": "components/side-toc/side-toc.tsx",
+      "displayName": "side_toc_component_useVisibleTask",
+      "canonicalFilename": "s_4meumixfeby",
+      "hash": "4mEUMIxFebY",
+      "ctxKind": "function",
+      "ctxName": "useVisibleTask$",
+      "captures": true,
+      "parent": "s_wwMJ0vPgO6E"
+    },
+    "s_0GMi02DRjzk": {
+      "origin": "components/content-menu/menu-element/menu-element.tsx",
+      "displayName": "MenuElement_component",
+      "canonicalFilename": "s_0gmi02drjzk",
+      "hash": "0GMi02DRjzk",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_0XGxKEM1rI8": {
+      "origin": "components/tools/map/map.tsx",
+      "displayName": "map_component",
+      "canonicalFilename": "s_0xgxkem1ri8",
+      "hash": "0XGxKEM1rI8",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_0g8Pix2dOVM": {
+      "origin": "components/visuals/quest-tags/quest-tags.tsx",
+      "displayName": "quest_tags_component",
+      "canonicalFilename": "s_0g8pix2dovm",
+      "hash": "0g8Pix2dOVM",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_0gKylkwi8jU": {
+      "origin": "components/containers/details/details.tsx",
+      "displayName": "details_component",
+      "canonicalFilename": "s_0gkylkwi8ju",
+      "hash": "0gKylkwi8jU",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_0i3pkMpkAYg": {
+      "origin": "components/visuals/cover-heading/cover-heading.tsx",
+      "displayName": "cover_heading_component",
+      "canonicalFilename": "s_0i3pkmpkayg",
+      "hash": "0i3pkMpkAYg",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_1fL4yNLID70": {
+      "origin": "components/visuals/news-title/news-url.tsx",
+      "displayName": "news_url_component",
+      "canonicalFilename": "s_1fl4ynlid70",
+      "hash": "1fL4yNLID70",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_3sccYCDd1Z0": {
+      "origin": "root.tsx",
+      "displayName": "root_component",
+      "canonicalFilename": "s_3sccycdd1z0",
+      "hash": "3sccYCDd1Z0",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_40rP0fKqiMs": {
+      "origin": "components/starter/page-header/page-header.tsx",
+      "displayName": "page_header_component",
+      "canonicalFilename": "s_40rp0fkqims",
+      "hash": "40rP0fKqiMs",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_41psjJmjZ8Q": {
+      "origin": "components/controls/button-lore/button-lore.tsx",
+      "displayName": "button_lore_component",
+      "canonicalFilename": "s_41psjjmjz8q",
+      "hash": "41psjJmjZ8Q",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_5ShkEvrIS4c": {
+      "origin": "components/content-menu/content-menu.tsx",
+      "displayName": "content_menu_component",
+      "canonicalFilename": "s_5shkevris4c",
+      "hash": "5ShkEvrIS4c",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_6YGUXSTUwCI": {
+      "origin": "components/tools/timeline/timeline.tsx",
+      "displayName": "timeline_component",
+      "canonicalFilename": "s_6yguxstuwci",
+      "hash": "6YGUXSTUwCI",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_6fM1GhwWgvo": {
+      "origin": "components/content-menu/sidebar-button/sidebar-button.tsx",
+      "displayName": "sidebar_button_component",
+      "canonicalFilename": "s_6fm1ghwwgvo",
+      "hash": "6fM1GhwWgvo",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_6szaI07YYmE": {
+      "origin": "components/controls/button-header/button-header.tsx",
+      "displayName": "button_header_component",
+      "canonicalFilename": "s_6szai07yyme",
+      "hash": "6szaI07YYmE",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_7jo00vM998E": {
+      "origin": "components/visuals/niheria-ruler/niheria-ruler.tsx",
+      "displayName": "niheria_ruler_component",
+      "canonicalFilename": "s_7jo00vm998e",
+      "hash": "7jo00vM998E",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_8qNLsplq0lA": {
+      "origin": "components/side-toc/side-toc.tsx",
+      "displayName": "Child_component",
+      "canonicalFilename": "s_8qnlsplq0la",
+      "hash": "8qNLsplq0lA",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_AKetNByE5TM": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "RouterOutlet_component",
+      "canonicalFilename": "s_aketnbye5tm",
+      "hash": "AKetNByE5TM",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_AuuuDnhPszk": {
+      "origin": "components/containers/blockquote-box/blockquote-box.tsx",
+      "displayName": "blockquote_box_component",
+      "canonicalFilename": "s_auuudnhpszk",
+      "hash": "AuuuDnhPszk",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_C0628t0nWCU": {
+      "origin": "components/controls/button-book/button-book.tsx",
+      "displayName": "button_book_component",
+      "canonicalFilename": "s_c0628t0nwcu",
+      "hash": "C0628t0nWCU",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_DWutUT700AY": {
+      "origin": "components/containers/timestamp/timestamp.tsx",
+      "displayName": "timestamp_component",
+      "canonicalFilename": "s_dwutut700ay",
+      "hash": "DWutUT700AY",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_FGlnQqXZB0g": {
+      "origin": "components/containers/author-pic/author-pic.tsx",
+      "displayName": "author_pic_component",
+      "canonicalFilename": "s_fglnqqxzb0g",
+      "hash": "FGlnQqXZB0g",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_IzUwqIIPuoI": {
+      "origin": "components/controls/button-lore/button-bestiary.tsx",
+      "displayName": "button_bestiary_component",
+      "canonicalFilename": "s_izuwqiipuoi",
+      "hash": "IzUwqIIPuoI",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_JE2DZR4cPTw": {
+      "origin": "components/containers/board/board.tsx",
+      "displayName": "board_component",
+      "canonicalFilename": "s_je2dzr4cptw",
+      "hash": "JE2DZR4cPTw",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_KNC4O24MC1k": {
+      "origin": "components/visuals/niheria-heading/niheria-heading.tsx",
+      "displayName": "niheria_heading_component",
+      "canonicalFilename": "s_knc4o24mc1k",
+      "hash": "KNC4O24MC1k",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_MWFFafAZuSA": {
+      "origin": "components/tools/magic/magic-spell.tsx",
+      "displayName": "constructRunes_div_div_onClick_1",
+      "canonicalFilename": "s_mwffafazusa",
+      "hash": "MWFFafAZuSA",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": null
+    },
+    "s_NwanT5sLZ0w": {
+      "origin": "components/visuals/calendar/calendar.tsx",
+      "displayName": "calendar_component",
+      "canonicalFilename": "s_nwant5slz0w",
+      "hash": "NwanT5sLZ0w",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_PfrrxRyvipc": {
+      "origin": "components/character-list/character-card.tsx",
+      "displayName": "character_card_component",
+      "canonicalFilename": "s_pfrrxryvipc",
+      "hash": "PfrrxRyvipc",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_QE0VBbcWVTM": {
+      "origin": "components/controls/button-rect/button-rect.tsx",
+      "displayName": "button_rect_component",
+      "canonicalFilename": "s_qe0vbbcwvtm",
+      "hash": "QE0VBbcWVTM",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_RMB0Ez3ZXsw": {
+      "origin": "components/tools/magic/magic.tsx",
+      "displayName": "magic_component",
+      "canonicalFilename": "s_rmb0ez3zxsw",
+      "hash": "RMB0Ez3ZXsw",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_RvcZ3CzIi5o": {
+      "origin": "components/character-list/character-list.tsx",
+      "displayName": "Character_component",
+      "canonicalFilename": "s_rvcz3czii5o",
+      "hash": "RvcZ3CzIi5o",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_TQvtL1P1keI": {
+      "origin": "components/containers/table/table.tsx",
+      "displayName": "table_component",
+      "canonicalFilename": "s_tqvtl1p1kei",
+      "hash": "TQvtL1P1keI",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_TxCFOy819ag": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "QwikCityProvider_component",
+      "canonicalFilename": "s_txcfoy819ag",
+      "hash": "TxCFOy819ag",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_U8b5IqDAV14": {
+      "origin": "components/controls/button-text/button-text.tsx",
+      "displayName": "button_text_component",
+      "canonicalFilename": "s_u8b5iqdav14",
+      "hash": "U8b5IqDAV14",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_VkLNXphUh5s": {
+      "origin": "routes/layout.tsx",
+      "displayName": "layout_component",
+      "canonicalFilename": "s_vklnxphuh5s",
+      "hash": "VkLNXphUh5s",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_WQoU3M9U0g0": {
+      "origin": "components/tools/magic/magic-rune.tsx",
+      "displayName": "magic_rune_component",
+      "canonicalFilename": "s_wqou3m9u0g0",
+      "hash": "WQoU3M9U0g0",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_cMALS9m2FUo": {
+      "origin": "components/locked-data/locked-data.tsx",
+      "displayName": "locked_data_component",
+      "canonicalFilename": "s_cmals9m2fuo",
+      "hash": "cMALS9m2FUo",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_e3JP1BHNJbg": {
+      "origin": "components/tools/age/age.tsx",
+      "displayName": "age_component",
+      "canonicalFilename": "s_e3jp1bhnjbg",
+      "hash": "e3JP1BHNJbg",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_eRsZoOQSGHI": {
+      "origin": "components/controls/button-lore/button-herbarium.tsx",
+      "displayName": "button_herbarium_component",
+      "canonicalFilename": "s_erszooqsghi",
+      "hash": "eRsZoOQSGHI",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_eSRvUM9gkLY": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component",
+      "canonicalFilename": "s_esrvum9gkly",
+      "hash": "eSRvUM9gkLY",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_gYNp2iMJBTY": {
+      "origin": "components/tools/magic/magic-spell.tsx",
+      "displayName": "constructRunes_div_div_onClick",
+      "canonicalFilename": "s_gynp2imjbty",
+      "hash": "gYNp2iMJBTY",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": null
+    },
+    "s_i3JjzylBU58": {
+      "origin": "components/controls/button-cover/button-cover.tsx",
+      "displayName": "button_cover_component",
+      "canonicalFilename": "s_i3jjzylbu58",
+      "hash": "i3JjzylBU58",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_jROooPQh9jI": {
+      "origin": "components/audio/audio.tsx",
+      "displayName": "audio_component",
+      "canonicalFilename": "s_jrooopqh9ji",
+      "hash": "jROooPQh9jI",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_kUj8a4RvXzM": {
+      "origin": "components/visuals/news-title/news-title.tsx",
+      "displayName": "news_title_component",
+      "canonicalFilename": "s_kuj8a4rvxzm",
+      "hash": "kUj8a4RvXzM",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_l08YGbLzmEM": {
+      "origin": "routes/menu/guidebook/races/gallery/index.tsx",
+      "displayName": "gallery_component",
+      "canonicalFilename": "s_l08ygblzmem",
+      "hash": "l08YGbLzmEM",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_mBt9fIl89mc": {
+      "origin": "components/starter/header/header.tsx",
+      "displayName": "header_component",
+      "canonicalFilename": "s_mbt9fil89mc",
+      "hash": "mBt9fIl89mc",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_n4GRrVEBwI4": {
+      "origin": "components/tools/magic/spell-duration.tsx",
+      "displayName": "spell_duration_component",
+      "canonicalFilename": "s_n4grrvebwi4",
+      "hash": "n4GRrVEBwI4",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_o0IU2gWy190": {
+      "origin": "components/tools/magic/magic-spell.tsx",
+      "displayName": "magic_spell_component",
+      "canonicalFilename": "s_o0iu2gwy190",
+      "hash": "o0IU2gWy190",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_pKcK3kbV3Lo": {
+      "origin": "components/visuals/glitchy-text/glitchy-text.tsx",
+      "displayName": "glitchy_text_component",
+      "canonicalFilename": "s_pkck3kbv3lo",
+      "hash": "pKcK3kbV3Lo",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_tiOuaZ8D28A": {
+      "origin": "components/containers/copy-box/copy-box.tsx",
+      "displayName": "copy_box_component",
+      "canonicalFilename": "s_tiouaz8d28a",
+      "hash": "tiOuaZ8D28A",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_u0bwM0i5dA8": {
+      "origin": "components/starter/footer/footer.tsx",
+      "displayName": "footer_component",
+      "canonicalFilename": "s_u0bwm0i5da8",
+      "hash": "u0bwM0i5dA8",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_v15a6cG9Ez4": {
+      "origin": "components/character-list/character-list.tsx",
+      "displayName": "character_list_component",
+      "canonicalFilename": "s_v15a6cg9ez4",
+      "hash": "v15a6cG9Ez4",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_wwMJ0vPgO6E": {
+      "origin": "components/side-toc/side-toc.tsx",
+      "displayName": "side_toc_component",
+      "canonicalFilename": "s_wwmj0vpgo6e",
+      "hash": "wwMJ0vPgO6E",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_x4GSGEFIg3Y": {
+      "origin": "components/side-toc/disable-toc.tsx",
+      "displayName": "disable_toc_component",
+      "canonicalFilename": "s_x4gsgefig3y",
+      "hash": "x4GSGEFIg3Y",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_xgjdktVuUuQ": {
+      "origin": "components/tools/magic/rune-list.tsx",
+      "displayName": "rune_list_component",
+      "canonicalFilename": "s_xgjdktvuuuq",
+      "hash": "xgjdktVuUuQ",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_zXEQ3aOIUVk": {
+      "origin": "components/visuals/background-pictures/background-pictures.tsx",
+      "displayName": "background_pictures_component",
+      "canonicalFilename": "s_zxeq3aoiuvk",
+      "hash": "zXEQ3aOIUVk",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_zrbrqoaqXSY": {
+      "origin": "components/router-head/router-head.tsx",
+      "displayName": "RouterHead_component",
+      "canonicalFilename": "s_zrbrqoaqxsy",
+      "hash": "zrbrqoaqXSY",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_04C8IJ60KR8": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_14",
+      "canonicalFilename": "s_04c8ij60kr8",
+      "hash": "04C8IJ60KR8",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_05sQ4A5nFxM": {
+      "origin": "components/character-list/character-list.tsx",
+      "displayName": "character_list_component_div_div_div_span_onClick",
+      "canonicalFilename": "s_05sq4a5nfxm",
+      "hash": "05sQ4A5nFxM",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_v15a6cG9Ez4"
+    },
+    "s_0HmqAsJk7sc": {
+      "origin": "components/audio/audio.tsx",
+      "displayName": "audio_component_div_div_div_span_input_onInput",
+      "canonicalFilename": "s_0hmqasjk7sc",
+      "hash": "0HmqAsJk7sc",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_jROooPQh9jI"
+    },
+    "s_0Mc7aH8eBmI": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_19",
+      "canonicalFilename": "s_0mc7ah8ebmi",
+      "hash": "0Mc7aH8eBmI",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_0OrdnzkCFY8": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_15",
+      "canonicalFilename": "s_0ordnzkcfy8",
+      "hash": "0OrdnzkCFY8",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_0P0vZ8ihHrY": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_8",
+      "canonicalFilename": "s_0p0vz8ihhry",
+      "hash": "0P0vZ8ihHrY",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_0Q9po0kgG0E": {
+      "origin": "components/side-toc/side-toc.tsx",
+      "displayName": "Child_component_a_onClick",
+      "canonicalFilename": "s_0q9po0kgg0e",
+      "hash": "0Q9po0kgG0E",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_8qNLsplq0lA"
+    },
+    "s_0QNOfV6cTiM": {
+      "origin": "components/audio/audio.tsx",
+      "displayName": "audio_component_div_div_div_onClick",
+      "canonicalFilename": "s_0qnofv6ctim",
+      "hash": "0QNOfV6cTiM",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_jROooPQh9jI"
+    },
+    "s_0s0Pcr03RCM": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_14",
+      "canonicalFilename": "s_0s0pcr03rcm",
+      "hash": "0s0Pcr03RCM",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_0xMx9IHjvmE": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_11",
+      "canonicalFilename": "s_0xmx9ihjvme",
+      "hash": "0xMx9IHjvmE",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_125CEFNwo0U": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_18",
+      "canonicalFilename": "s_125cefnwo0u",
+      "hash": "125CEFNwo0U",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_21AOfJBo0CA": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component__Fragment_div_div_div_button_onClick_1",
+      "canonicalFilename": "s_21aofjbo0ca",
+      "hash": "21AOfJBo0CA",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_2VaDxddNZTs": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_18",
+      "canonicalFilename": "s_2vadxddnzts",
+      "hash": "2VaDxddNZTs",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_2v6MeLD910M": {
+      "origin": "components/containers/copy-box/copy-box.tsx",
+      "displayName": "copy_box_component_div_button_onClick",
+      "canonicalFilename": "s_2v6meld910m",
+      "hash": "2v6MeLD910M",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_tiOuaZ8D28A"
+    },
+    "s_3A71c5N61ZQ": {
+      "origin": "components/character-list/character-list.tsx",
+      "displayName": "character_list_component_div_div_div_span_onClick_2",
+      "canonicalFilename": "s_3a71c5n61zq",
+      "hash": "3A71c5N61ZQ",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_v15a6cG9Ez4"
+    },
+    "s_3GAQEbAkSrs": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_16",
+      "canonicalFilename": "s_3gaqebaksrs",
+      "hash": "3GAQEbAkSrs",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_5IGrxm0FVSc": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component__Fragment_div_div_div_button_onClick_3",
+      "canonicalFilename": "s_5igrxm0fvsc",
+      "hash": "5IGrxm0FVSc",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_5nTpQ4q2jrk": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_20",
+      "canonicalFilename": "s_5ntpq4q2jrk",
+      "hash": "5nTpQ4q2jrk",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_66v1eShhK0U": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_11",
+      "canonicalFilename": "s_66v1eshhk0u",
+      "hash": "66v1eShhK0U",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_7pFNwzmcp6M": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_12",
+      "canonicalFilename": "s_7pfnwzmcp6m",
+      "hash": "7pFNwzmcp6M",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_80478c0pbgQ": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick",
+      "canonicalFilename": "s_80478c0pbgq",
+      "hash": "80478c0pbgQ",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_8OY9BGD6aKY": {
+      "origin": "components/tools/magic/magic-spell.tsx",
+      "displayName": "magic_spell_component_div_div_button_onClick",
+      "canonicalFilename": "s_8oy9bgd6aky",
+      "hash": "8OY9BGD6aKY",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_o0IU2gWy190"
+    },
+    "s_96nMvP00sdw": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_13",
+      "canonicalFilename": "s_96nmvp00sdw",
+      "hash": "96nMvP00sdw",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_9UoUulziEGc": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_9",
+      "canonicalFilename": "s_9uouulziegc",
+      "hash": "9UoUulziEGc",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_9deb9JX0j88": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_5",
+      "canonicalFilename": "s_9deb9jx0j88",
+      "hash": "9deb9JX0j88",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_A82GFhSiHjk": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_16",
+      "canonicalFilename": "s_a82gfhsihjk",
+      "hash": "A82GFhSiHjk",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_BOfJMN2n0qw": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_6",
+      "canonicalFilename": "s_bofjmn2n0qw",
+      "hash": "BOfJMN2n0qw",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_EYYiArHOFQY": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_1",
+      "canonicalFilename": "s_eyyiarhofqy",
+      "hash": "EYYiArHOFQY",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_Ec2KbO6Qw0Y": {
+      "origin": "components/tools/magic/magic.tsx",
+      "displayName": "magic_component_div_div_div_button_onClick",
+      "canonicalFilename": "s_ec2kbo6qw0y",
+      "hash": "Ec2KbO6Qw0Y",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_RMB0Ez3ZXsw"
+    },
+    "s_Fmz0BKiwin4": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_17",
+      "canonicalFilename": "s_fmz0bkiwin4",
+      "hash": "Fmz0BKiwin4",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_G1mIOUAOqSw": {
+      "origin": "components/side-toc/side-toc.tsx",
+      "displayName": "side_toc_component__Fragment_div_onClick",
+      "canonicalFilename": "s_g1miouaoqsw",
+      "hash": "G1mIOUAOqSw",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_wwMJ0vPgO6E"
+    },
+    "s_GD6iXlgT5BY": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_19",
+      "canonicalFilename": "s_gd6ixlgt5by",
+      "hash": "GD6iXlgT5BY",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_GiwhasQ4vps": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_12",
+      "canonicalFilename": "s_giwhasq4vps",
+      "hash": "GiwhasQ4vps",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_HNs1MX29Klc": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_15",
+      "canonicalFilename": "s_hns1mx29klc",
+      "hash": "HNs1MX29Klc",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_HSG3uHbn498": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component__Fragment_div_div_div_button_onClick_2",
+      "canonicalFilename": "s_hsg3uhbn498",
+      "hash": "HSG3uHbn498",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_Hv79esw0cqo": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_3",
+      "canonicalFilename": "s_hv79esw0cqo",
+      "hash": "Hv79esw0cqo",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_Hy5mxwKR3dM": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_13",
+      "canonicalFilename": "s_hy5mxwkr3dm",
+      "hash": "Hy5mxwKR3dM",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_JSFBPTqqYpU": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_17",
+      "canonicalFilename": "s_jsfbptqqypu",
+      "hash": "JSFBPTqqYpU",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_JW0XA7LPP1w": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_15",
+      "canonicalFilename": "s_jw0xa7lpp1w",
+      "hash": "JW0XA7LPP1w",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_JsB2rBi8vZw": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_4",
+      "canonicalFilename": "s_jsb2rbi8vzw",
+      "hash": "JsB2rBi8vZw",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_KSVGPnTx0vA": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_4",
+      "canonicalFilename": "s_ksvgpntx0va",
+      "hash": "KSVGPnTx0vA",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_KqDtuChSypI": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_10",
+      "canonicalFilename": "s_kqdtuchsypi",
+      "hash": "KqDtuChSypI",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_Kue9010D3mA": {
+      "origin": "routes/menu/guidebook/races/gallery/index.tsx",
+      "displayName": "gallery_component__Fragment_div_span_onClick",
+      "canonicalFilename": "s_kue9010d3ma",
+      "hash": "Kue9010D3mA",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_l08YGbLzmEM"
+    },
+    "s_Kw61S0wJQ0M": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component__Fragment_div_div_div_button_onClick",
+      "canonicalFilename": "s_kw61s0wjq0m",
+      "hash": "Kw61S0wJQ0M",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_Lp1KCCRMOqw": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_9",
+      "canonicalFilename": "s_lp1kccrmoqw",
+      "hash": "Lp1KCCRMOqw",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_OEcGIjcfYuw": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_18",
+      "canonicalFilename": "s_oecgijcfyuw",
+      "hash": "OEcGIjcfYuw",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_OtmAWkvvMzY": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout",
+      "canonicalFilename": "s_otmawkvvmzy",
+      "hash": "OtmAWkvvMzY",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_P0xFjdFs0GA": {
+      "origin": "components/tools/magic/magic.tsx",
+      "displayName": "magic_component_div_onClick",
+      "canonicalFilename": "s_p0xfjdfs0ga",
+      "hash": "P0xFjdFs0GA",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_RMB0Ez3ZXsw"
+    },
+    "s_PYXrZkfaw04": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_19",
+      "canonicalFilename": "s_pyxrzkfaw04",
+      "hash": "PYXrZkfaw04",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_PiqH7zSWZdk": {
+      "origin": "components/content-menu/sidebar-button/sidebar-button.tsx",
+      "displayName": "sidebar_button_component__Fragment_button_onClick",
+      "canonicalFilename": "s_piqh7zswzdk",
+      "hash": "PiqH7zSWZdk",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_6fM1GhwWgvo"
+    },
+    "s_TzFX8HjIgYU": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_20",
+      "canonicalFilename": "s_tzfx8hjigyu",
+      "hash": "TzFX8HjIgYU",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_U2O2o9hs2mM": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_17",
+      "canonicalFilename": "s_u2o2o9hs2mm",
+      "hash": "U2O2o9hs2mM",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_UHVEHuwnqpU": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_8",
+      "canonicalFilename": "s_uhvehuwnqpu",
+      "hash": "UHVEHuwnqpU",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_UWCn4TAspWg": {
+      "origin": "components/character-list/character-list.tsx",
+      "displayName": "character_list_component_div_div_div_span_onClick_4",
+      "canonicalFilename": "s_uwcn4taspwg",
+      "hash": "UWCn4TAspWg",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_v15a6cG9Ez4"
+    },
+    "s_UksgrkdNX9k": {
+      "origin": "components/tools/magic/magic.tsx",
+      "displayName": "magic_component_div_div_div_button_onClick_2",
+      "canonicalFilename": "s_uksgrkdnx9k",
+      "hash": "UksgrkdNX9k",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_RMB0Ez3ZXsw"
+    },
+    "s_Uxw0l4wEAOk": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_2",
+      "canonicalFilename": "s_uxw0l4weaok",
+      "hash": "Uxw0l4wEAOk",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_XlOX1MHlk9s": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_5",
+      "canonicalFilename": "s_xlox1mhlk9s",
+      "hash": "XlOX1MHlk9s",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_boKH9Z6x0BY": {
+      "origin": "components/tools/magic/magic.tsx",
+      "displayName": "magic_component_div_div_div_button_onClick_1",
+      "canonicalFilename": "s_bokh9z6x0by",
+      "hash": "boKH9Z6x0BY",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_RMB0Ez3ZXsw"
+    },
+    "s_degNJ87Iqx4": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_1",
+      "canonicalFilename": "s_degnj87iqx4",
+      "hash": "degNJ87Iqx4",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_e6inwsWJWBM": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_6",
+      "canonicalFilename": "s_e6inwswjwbm",
+      "hash": "e6inwsWJWBM",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_ffo2RXislCI": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_2",
+      "canonicalFilename": "s_ffo2rxislci",
+      "hash": "ffo2RXislCI",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_hfWKIjdPDxU": {
+      "origin": "components/tools/map/map.tsx",
+      "displayName": "map_component_useVisibleTask",
+      "canonicalFilename": "s_hfwkijdpdxu",
+      "hash": "hfWKIjdPDxU",
+      "ctxKind": "function",
+      "ctxName": "useVisibleTask$",
+      "captures": true,
+      "parent": "s_0XGxKEM1rI8"
+    },
+    "s_fX0bDjeJa0E": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "QwikCityProvider_component_goto",
+      "canonicalFilename": "s_fx0bdjeja0e",
+      "hash": "fX0bDjeJa0E",
+      "ctxKind": "function",
+      "ctxName": "goto",
+      "captures": true,
+      "parent": "s_TxCFOy819ag"
+    },
+    "s_ftz9i0B0Dwo": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_3",
+      "canonicalFilename": "s_ftz9i0b0dwo",
+      "hash": "ftz9i0B0Dwo",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_iUNLqrp9DSw": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_8",
+      "canonicalFilename": "s_iunlqrp9dsw",
+      "hash": "iUNLqrp9DSw",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_mI1MxS6RkxY": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_14",
+      "canonicalFilename": "s_mi1mxs6rkxy",
+      "hash": "mI1MxS6RkxY",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_n0kYPxEwAl4": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_21",
+      "canonicalFilename": "s_n0kypxewal4",
+      "hash": "n0kYPxEwAl4",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_ppbGCw79IS0": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_21",
+      "canonicalFilename": "s_ppbgcw79is0",
+      "hash": "ppbGCw79IS0",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_rHR4oWDZmS0": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_2",
+      "canonicalFilename": "s_rhr4owdzms0",
+      "hash": "rHR4oWDZmS0",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_w8XUqGrS0Ek": {
+      "origin": "components/audio/audio.tsx",
+      "displayName": "audio_component_useVisibleTask",
+      "canonicalFilename": "s_w8xuqgrs0ek",
+      "hash": "w8XUqGrS0Ek",
+      "ctxKind": "function",
+      "ctxName": "useVisibleTask$",
+      "captures": true,
+      "parent": "s_jROooPQh9jI"
+    },
+    "s_Y6SivJMVuFY": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_calcCoins",
+      "canonicalFilename": "s_y6sivjmvufy",
+      "hash": "Y6SivJMVuFY",
+      "ctxKind": "function",
+      "ctxName": "$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_ZssmQvVjpvo": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_7",
+      "canonicalFilename": "s_zssmqvvjpvo",
+      "hash": "ZssmQvVjpvo",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_bNm1848mU38": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_calcTokens",
+      "canonicalFilename": "s_bnm1848mu38",
+      "hash": "bNm1848mU38",
+      "ctxKind": "function",
+      "ctxName": "$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_bRqgfgyzHpk": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_12",
+      "canonicalFilename": "s_brqgfgyzhpk",
+      "hash": "bRqgfgyzHpk",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_fBFjnImzscg": {
+      "origin": "components/character-list/character-list.tsx",
+      "displayName": "character_list_component_div_div_div_span_onClick_1",
+      "canonicalFilename": "s_fbfjnimzscg",
+      "hash": "fBFjnImzscg",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_v15a6cG9Ez4"
+    },
+    "s_fcvKIdQTQJo": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_21",
+      "canonicalFilename": "s_fcvkidqtqjo",
+      "hash": "fcvKIdQTQJo",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_g0aAPtTplsg": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_9",
+      "canonicalFilename": "s_g0aapttplsg",
+      "hash": "g0aAPtTplsg",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_iiHT5E9Zcek": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_10",
+      "canonicalFilename": "s_iiht5e9zcek",
+      "hash": "iiHT5E9Zcek",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_lFWtWnpsbbs": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_13",
+      "canonicalFilename": "s_lfwtwnpsbbs",
+      "hash": "lFWtWnpsbbs",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_lXmzZzNdJ0A": {
+      "origin": "components/character-list/character-list.tsx",
+      "displayName": "character_list_component_toggleFilter",
+      "canonicalFilename": "s_lxmzzzndj0a",
+      "hash": "lXmzZzNdJ0A",
+      "ctxKind": "function",
+      "ctxName": "$",
+      "captures": true,
+      "parent": "s_v15a6cG9Ez4"
+    },
+    "s_mJc3O5V0N54": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_6",
+      "canonicalFilename": "s_mjc3o5v0n54",
+      "hash": "mJc3O5V0N54",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_mmgKMLhE43w": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_calcDeposit",
+      "canonicalFilename": "s_mmgkmlhe43w",
+      "hash": "mmgKMLhE43w",
+      "ctxKind": "function",
+      "ctxName": "$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_p1GmVNAZkrI": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_11",
+      "canonicalFilename": "s_p1gmvnazkri",
+      "hash": "p1GmVNAZkrI",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_pDM0YnEGn6w": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_20",
+      "canonicalFilename": "s_pdm0ynegn6w",
+      "hash": "pDM0YnEGn6w",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_qR61nZKGy5c": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_3",
+      "canonicalFilename": "s_qr61nzkgy5c",
+      "hash": "qR61nZKGy5c",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_shQm7i00H0E": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_1",
+      "canonicalFilename": "s_shqm7i00h0e",
+      "hash": "shQm7i00H0E",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_unuS6CluVvE": {
+      "origin": "components/tools/age/age.tsx",
+      "displayName": "age_component__Fragment_div_div_div_input_onInput",
+      "canonicalFilename": "s_unus6cluvve",
+      "hash": "unuS6CluVvE",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_e3JP1BHNJbg"
+    },
+    "s_usso1uDPCVU": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput_7",
+      "canonicalFilename": "s_usso1udpcvu",
+      "hash": "usso1uDPCVU",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_vA0pOK0nDM0": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_4",
+      "canonicalFilename": "s_va0pok0ndm0",
+      "hash": "vA0pOK0nDM0",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_w2n0XtcYK4w": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_10",
+      "canonicalFilename": "s_w2n0xtcyk4w",
+      "hash": "w2n0XtcYK4w",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_w5bfpNa045E": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onFocusout_16",
+      "canonicalFilename": "s_w5bfpna045e",
+      "hash": "w5bfpNa045E",
+      "ctxKind": "eventHandler",
+      "ctxName": "onFocusout$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_wZIufCKu2iQ": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onInput",
+      "canonicalFilename": "s_wziufcku2iq",
+      "hash": "wZIufCKu2iQ",
+      "ctxKind": "eventHandler",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_xEi06O8vOjU": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "RouterOutlet_component_useOnDocument_client",
+      "canonicalFilename": "s_xei06o8voju",
+      "hash": "xEi06O8vOjU",
+      "ctxKind": "function",
+      "ctxName": "client$",
+      "captures": false,
+      "parent": "s_AKetNByE5TM"
+    },
+    "s_xN1DkxAvRFI": {
+      "origin": "components/character-list/character-list.tsx",
+      "displayName": "character_list_component_div_div_div_span_onClick_3",
+      "canonicalFilename": "s_xn1dkxavrfi",
+      "hash": "xN1DkxAvRFI",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_v15a6cG9Ez4"
+    },
+    "s_xjFhMJOUxj4": {
+      "origin": "components/tools/magic/magic.tsx",
+      "displayName": "magic_component_div_onClick_1",
+      "canonicalFilename": "s_xjfhmjouxj4",
+      "hash": "xjFhMJOUxj4",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_RMB0Ez3ZXsw"
+    },
+    "s_z0QZOQB3TC0": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_7",
+      "canonicalFilename": "s_z0qzoqb3tc0",
+      "hash": "z0QZOQB3TC0",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    },
+    "s_zFw9QGIFOF4": {
+      "origin": "components/tools/banking/banking.tsx",
+      "displayName": "banking_component_div_div_div_div_input_onClick_5",
+      "canonicalFilename": "s_zfw9qgifof4",
+      "hash": "zFw9QGIFOF4",
+      "ctxKind": "eventHandler",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_eSRvUM9gkLY"
+    }
+  },
+  "mapping": {
+    "s_02wMImzEAbk": "q-daba7283.js",
+    "s_4mEUMIxFebY": "q-25a0ab28.js",
+    "s_0GMi02DRjzk": "q-19a2860f.js",
+    "s_0XGxKEM1rI8": "q-5e7f6c90.js",
+    "s_0g8Pix2dOVM": "q-9044a3be.js",
+    "s_0gKylkwi8jU": "q-650d3a08.js",
+    "s_0i3pkMpkAYg": "q-01771023.js",
+    "s_1fL4yNLID70": "q-e9ef71e8.js",
+    "s_3sccYCDd1Z0": "q-c0397962.js",
+    "s_40rP0fKqiMs": "q-178f7419.js",
+    "s_41psjJmjZ8Q": "q-878ce6b9.js",
+    "s_5ShkEvrIS4c": "q-a3bbc851.js",
+    "s_6YGUXSTUwCI": "q-cca86843.js",
+    "s_6fM1GhwWgvo": "q-18fdc52f.js",
+    "s_6szaI07YYmE": "q-e9ee7cdd.js",
+    "s_7jo00vM998E": "q-07f593aa.js",
+    "s_8qNLsplq0lA": "q-2f3ce39c.js",
+    "s_AKetNByE5TM": "q-ea7b007a.js",
+    "s_AuuuDnhPszk": "q-7a8c6288.js",
+    "s_C0628t0nWCU": "q-fff74584.js",
+    "s_DWutUT700AY": "q-dd1ce2e7.js",
+    "s_FGlnQqXZB0g": "q-fe8dcfc8.js",
+    "s_IzUwqIIPuoI": "q-5e0dfde9.js",
+    "s_JE2DZR4cPTw": "q-274d3769.js",
+    "s_KNC4O24MC1k": "q-aac899bd.js",
+    "s_MWFFafAZuSA": "q-49a91b0d.js",
+    "s_NwanT5sLZ0w": "q-9d900fa8.js",
+    "s_PfrrxRyvipc": "q-da9ca0a8.js",
+    "s_QE0VBbcWVTM": "q-dd9d0a6a.js",
+    "s_RMB0Ez3ZXsw": "q-bb77a18a.js",
+    "s_RvcZ3CzIi5o": "q-dfcfb78b.js",
+    "s_TQvtL1P1keI": "q-21cd48af.js",
+    "s_TxCFOy819ag": "q-daba7283.js",
+    "s_U8b5IqDAV14": "q-afe71f6d.js",
+    "s_VkLNXphUh5s": "q-58765481.js",
+    "s_WQoU3M9U0g0": "q-ea67baec.js",
+    "s_cMALS9m2FUo": "q-9c82162e.js",
+    "s_e3JP1BHNJbg": "q-84138247.js",
+    "s_eRsZoOQSGHI": "q-3187526e.js",
+    "s_eSRvUM9gkLY": "q-a6331480.js",
+    "s_gYNp2iMJBTY": "q-49a91b0d.js",
+    "s_i3JjzylBU58": "q-e28370e1.js",
+    "s_jROooPQh9jI": "q-2f075ca9.js",
+    "s_kUj8a4RvXzM": "q-7f3c93d6.js",
+    "s_l08YGbLzmEM": "q-5ef67c61.js",
+    "s_mBt9fIl89mc": "q-3bcffe6a.js",
+    "s_n4GRrVEBwI4": "q-6ceb564c.js",
+    "s_o0IU2gWy190": "q-b7e2c637.js",
+    "s_pKcK3kbV3Lo": "q-93dd0963.js",
+    "s_tiOuaZ8D28A": "q-c058e361.js",
+    "s_u0bwM0i5dA8": "q-8079c030.js",
+    "s_v15a6cG9Ez4": "q-5aeb8d30.js",
+    "s_wwMJ0vPgO6E": "q-25a0ab28.js",
+    "s_x4GSGEFIg3Y": "q-48e3bc2b.js",
+    "s_xgjdktVuUuQ": "q-a712a6c1.js",
+    "s_zXEQ3aOIUVk": "q-653fe2d3.js",
+    "s_zrbrqoaqXSY": "q-50c8eda4.js",
+    "s_04C8IJ60KR8": "q-a6331480.js",
+    "s_05sQ4A5nFxM": "q-5aeb8d30.js",
+    "s_0HmqAsJk7sc": "q-2f075ca9.js",
+    "s_0Mc7aH8eBmI": "q-a6331480.js",
+    "s_0OrdnzkCFY8": "q-a6331480.js",
+    "s_0P0vZ8ihHrY": "q-a6331480.js",
+    "s_0Q9po0kgG0E": "q-2f3ce39c.js",
+    "s_0QNOfV6cTiM": "q-2f075ca9.js",
+    "s_0s0Pcr03RCM": "q-a6331480.js",
+    "s_0xMx9IHjvmE": "q-a6331480.js",
+    "s_125CEFNwo0U": "q-a6331480.js",
+    "s_21AOfJBo0CA": "q-a6331480.js",
+    "s_2VaDxddNZTs": "q-a6331480.js",
+    "s_2v6MeLD910M": "q-c058e361.js",
+    "s_3A71c5N61ZQ": "q-5aeb8d30.js",
+    "s_3GAQEbAkSrs": "q-a6331480.js",
+    "s_5IGrxm0FVSc": "q-a6331480.js",
+    "s_5nTpQ4q2jrk": "q-a6331480.js",
+    "s_66v1eShhK0U": "q-a6331480.js",
+    "s_7pFNwzmcp6M": "q-a6331480.js",
+    "s_80478c0pbgQ": "q-a6331480.js",
+    "s_8OY9BGD6aKY": "q-b7e2c637.js",
+    "s_96nMvP00sdw": "q-a6331480.js",
+    "s_9UoUulziEGc": "q-a6331480.js",
+    "s_9deb9JX0j88": "q-a6331480.js",
+    "s_A82GFhSiHjk": "q-a6331480.js",
+    "s_BOfJMN2n0qw": "q-a6331480.js",
+    "s_EYYiArHOFQY": "q-a6331480.js",
+    "s_Ec2KbO6Qw0Y": "q-bb77a18a.js",
+    "s_Fmz0BKiwin4": "q-a6331480.js",
+    "s_G1mIOUAOqSw": "q-25a0ab28.js",
+    "s_GD6iXlgT5BY": "q-a6331480.js",
+    "s_GiwhasQ4vps": "q-a6331480.js",
+    "s_HNs1MX29Klc": "q-a6331480.js",
+    "s_HSG3uHbn498": "q-a6331480.js",
+    "s_Hv79esw0cqo": "q-a6331480.js",
+    "s_Hy5mxwKR3dM": "q-a6331480.js",
+    "s_JSFBPTqqYpU": "q-a6331480.js",
+    "s_JW0XA7LPP1w": "q-a6331480.js",
+    "s_JsB2rBi8vZw": "q-a6331480.js",
+    "s_KSVGPnTx0vA": "q-a6331480.js",
+    "s_KqDtuChSypI": "q-a6331480.js",
+    "s_Kue9010D3mA": "q-5ef67c61.js",
+    "s_Kw61S0wJQ0M": "q-a6331480.js",
+    "s_Lp1KCCRMOqw": "q-a6331480.js",
+    "s_OEcGIjcfYuw": "q-a6331480.js",
+    "s_OtmAWkvvMzY": "q-a6331480.js",
+    "s_P0xFjdFs0GA": "q-bb77a18a.js",
+    "s_PYXrZkfaw04": "q-a6331480.js",
+    "s_PiqH7zSWZdk": "q-18fdc52f.js",
+    "s_TzFX8HjIgYU": "q-a6331480.js",
+    "s_U2O2o9hs2mM": "q-a6331480.js",
+    "s_UHVEHuwnqpU": "q-a6331480.js",
+    "s_UWCn4TAspWg": "q-5aeb8d30.js",
+    "s_UksgrkdNX9k": "q-bb77a18a.js",
+    "s_Uxw0l4wEAOk": "q-a6331480.js",
+    "s_XlOX1MHlk9s": "q-a6331480.js",
+    "s_boKH9Z6x0BY": "q-bb77a18a.js",
+    "s_degNJ87Iqx4": "q-a6331480.js",
+    "s_e6inwsWJWBM": "q-a6331480.js",
+    "s_ffo2RXislCI": "q-a6331480.js",
+    "s_hfWKIjdPDxU": "q-5e7f6c90.js",
+    "s_fX0bDjeJa0E": "q-daba7283.js",
+    "s_ftz9i0B0Dwo": "q-a6331480.js",
+    "s_iUNLqrp9DSw": "q-a6331480.js",
+    "s_mI1MxS6RkxY": "q-a6331480.js",
+    "s_n0kYPxEwAl4": "q-a6331480.js",
+    "s_ppbGCw79IS0": "q-a6331480.js",
+    "s_rHR4oWDZmS0": "q-a6331480.js",
+    "s_w8XUqGrS0Ek": "q-2f075ca9.js",
+    "s_Y6SivJMVuFY": "q-a6331480.js",
+    "s_ZssmQvVjpvo": "q-a6331480.js",
+    "s_bNm1848mU38": "q-a6331480.js",
+    "s_bRqgfgyzHpk": "q-a6331480.js",
+    "s_fBFjnImzscg": "q-5aeb8d30.js",
+    "s_fcvKIdQTQJo": "q-a6331480.js",
+    "s_g0aAPtTplsg": "q-a6331480.js",
+    "s_iiHT5E9Zcek": "q-a6331480.js",
+    "s_lFWtWnpsbbs": "q-a6331480.js",
+    "s_lXmzZzNdJ0A": "q-5aeb8d30.js",
+    "s_mJc3O5V0N54": "q-a6331480.js",
+    "s_mmgKMLhE43w": "q-a6331480.js",
+    "s_p1GmVNAZkrI": "q-a6331480.js",
+    "s_pDM0YnEGn6w": "q-a6331480.js",
+    "s_qR61nZKGy5c": "q-a6331480.js",
+    "s_shQm7i00H0E": "q-a6331480.js",
+    "s_unuS6CluVvE": "q-84138247.js",
+    "s_usso1uDPCVU": "q-a6331480.js",
+    "s_vA0pOK0nDM0": "q-a6331480.js",
+    "s_w2n0XtcYK4w": "q-a6331480.js",
+    "s_w5bfpNa045E": "q-a6331480.js",
+    "s_wZIufCKu2iQ": "q-a6331480.js",
+    "s_xEi06O8vOjU": "q-ea7b007a.js",
+    "s_xN1DkxAvRFI": "q-5aeb8d30.js",
+    "s_xjFhMJOUxj4": "q-bb77a18a.js",
+    "s_z0QZOQB3TC0": "q-a6331480.js",
+    "s_zFw9QGIFOF4": "q-a6331480.js"
+  },
+  "bundles": {
+    "q-016210b0.js": {
+      "size": 6847,
+      "imports": [
+        "q-01a82b54.js",
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/guilds/purge-bureau/index.mdx"
+      ]
+    },
+    "q-01771023.js": {
+      "size": 589,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_cover_heading.js",
+        "src/s_0i3pkmpkayg.js"
+      ],
+      "symbols": [
+        "s_0i3pkMpkAYg"
+      ]
+    },
+    "q-019e659a.js": {
+      "size": 3983,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/creatures/threeye/index.mdx"
+      ]
+    },
+    "q-01a82b54.js": {
+      "size": 239,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-2f075ca9.js"
+      ],
+      "origins": [
+        "src/components/audio/audio.tsx"
+      ]
+    },
+    "q-022d753b.js": {
+      "size": 786,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/elementals/wind/index.mdx"
+      ]
+    },
+    "q-02fab340.js": {
+      "size": 1895,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/sharpthorn/index.mdx"
+      ]
+    },
+    "q-037c7879.js": {
+      "size": 2314,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/crafts/management/index.mdx"
+      ]
+    },
+    "q-03e039fa.js": {
+      "size": 8810,
+      "imports": [
+        "q-72b53a9d.js",
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/states/mordwin/index.mdx"
+      ]
+    },
+    "q-049cbf03.js": {
+      "size": 2715,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49195774/index.mdx"
+      ]
+    },
+    "q-04f146da.js": {
+      "size": 3176,
+      "imports": [
+        "q-6e34ba36.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/index.mdx"
+      ]
+    },
+    "q-05304e33.js": {
+      "size": 781,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/elementals/mountain/index.mdx"
+      ]
+    },
+    "q-05f95074.js": {
+      "size": 16742,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-3c0fe6ed.js",
+        "q-7e540608.js",
+        "q-b1c41f58.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/heroes/stedd-sautwell/index.mdx"
+      ]
+    },
+    "q-07dee42a.js": {
+      "size": 2231,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49226363/index.mdx"
+      ]
+    },
+    "q-07f593aa.js": {
+      "size": 420,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_niheria_ruler.js",
+        "src/s_7jo00vm998e.js"
+      ],
+      "symbols": [
+        "s_7jo00vM998E"
+      ]
+    },
+    "q-081fba6a.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/magic/index.mdx"
+      ]
+    },
+    "q-08cb016a.js": {
+      "size": 2338,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/crafts/jewelry/index.mdx"
+      ]
+    },
+    "q-0944dba1.js": {
+      "size": 3418,
+      "imports": [
+        "q-891e9eaf.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/moroks/index.mdx"
+      ]
+    },
+    "q-096c6a32.js": {
+      "size": 11516,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/manual/cheat-sheet/index.mdx"
+      ]
+    },
+    "q-097c6322.js": {
+      "size": 1601,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/index.mdx"
+      ]
+    },
+    "q-09839ec7.js": {
+      "size": 4980,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/draconides/dragonfly/index.mdx"
+      ]
+    },
+    "q-0a20471c.js": {
+      "size": 23467,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-3c0fe6ed.js",
+        "q-7e540608.js",
+        "q-b1c41f58.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/heroes/krizen-blagovest/index.mdx"
+      ]
+    },
+    "q-0b610068.js": {
+      "size": 8595,
+      "imports": [
+        "q-72b53a9d.js",
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/states/luat/index.mdx"
+      ]
+    },
+    "q-0b82aed3.js": {
+      "size": 1836,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194193/index.mdx"
+      ]
+    },
+    "q-0c246613.js": {
+      "size": 1292,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-72b53a9d.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/mechanics/index.mdx"
+      ]
+    },
+    "q-0c7d1051.js": {
+      "size": 618,
+      "imports": [
+        "q-1032d091.js",
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/wanted/index.mdx"
+      ]
+    },
+    "q-0c97e5d0.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/main/index.mdx"
+      ]
+    },
+    "q-0d7f33b0.js": {
+      "size": 582,
+      "imports": [
+        "q-1032d091.js",
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/heroes/index.mdx"
+      ]
+    },
+    "q-0d8f0eb7.js": {
+      "size": 4165,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/moroks/bannik/index.mdx"
+      ]
+    },
+    "q-0df3bca3.js": {
+      "size": 4766,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/creatures/skinnot/index.mdx"
+      ]
+    },
+    "q-0eacbbde.js": {
+      "size": 1914,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/kreptophere/index.mdx"
+      ]
+    },
+    "q-0f5efd77.js": {
+      "size": 2751,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/occultism/esoter/index.mdx"
+      ]
+    },
+    "q-0fe37ce9.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-07f593aa.js"
+      ],
+      "origins": [
+        "src/components/visuals/niheria-ruler/niheria-ruler.tsx"
+      ]
+    },
+    "q-10147483.js": {
+      "size": 2109,
+      "imports": [
+        "q-6e34ba36.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/mushrooms/index.mdx"
+      ]
+    },
+    "q-1032d091.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-01771023.js"
+      ],
+      "origins": [
+        "src/components/visuals/cover-heading/cover-heading.tsx"
+      ]
+    },
+    "q-104f4abd.js": {
+      "size": 1450,
+      "imports": [
+        "q-47422dc0.js",
+        "q-b1c41f58.js",
+        "q-d51bafa7.js"
+      ],
+      "origins": [
+        "src/routes/index.mdx"
+      ]
+    },
+    "q-10b6a3b3.js": {
+      "size": 1023,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/states/helgeran/index.mdx"
+      ]
+    },
+    "q-1254a4a1.js": {
+      "size": 14707,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/diseases/soul-illness/index.mdx"
+      ]
+    },
+    "q-12636471.js": {
+      "size": 1730,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194192/index.mdx"
+      ]
+    },
+    "q-164e3eb8.js": {
+      "size": 3989,
+      "imports": [
+        "q-01a82b54.js",
+        "q-0fe37ce9.js",
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/shamanism/index.mdx"
+      ]
+    },
+    "q-16950478.js": {
+      "size": 9239,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/economy/about-money/index.mdx"
+      ]
+    },
+    "q-17427778.js": {
+      "size": 9764,
+      "imports": [
+        "q-01a82b54.js",
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/old-time/index.mdx"
+      ]
+    },
+    "q-178f7419.js": {
+      "size": 410,
+      "imports": [
+        "q-47422dc0.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_page_header.js",
+        "src/s_40rp0fkqims.js"
+      ],
+      "symbols": [
+        "s_40rP0fKqiMs"
+      ]
+    },
+    "q-17f43311.js": {
+      "size": 1457,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/crafts/index.mdx"
+      ]
+    },
+    "q-17f9e9cf.js": {
+      "size": 3481,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/occultism/enigmat/dark/index.mdx"
+      ]
+    },
+    "q-184a7b4a.js": {
+      "size": 2439,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/mirflower/index.mdx"
+      ]
+    },
+    "q-18fdc52f.js": {
+      "size": 855,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-d0cdd5b7.js"
+      ],
+      "origins": [
+        "src/entry_sidebar_button.js",
+        "src/s_6fm1ghwwgvo.js",
+        "src/s_piqh7zswzdk.js"
+      ],
+      "symbols": [
+        "s_6fM1GhwWgvo",
+        "s_PiqH7zSWZdk"
+      ]
+    },
+    "q-19a2860f.js": {
+      "size": 1400,
+      "imports": [
+        "q-a3bbc851.js",
+        "q-b1c41f58.js",
+        "q-c0397962.js",
+        "q-d0cdd5b7.js"
+      ],
+      "origins": [
+        "src/entry_MenuElement.js",
+        "src/s_0gmi02drjzk.js"
+      ],
+      "symbols": [
+        "s_0GMi02DRjzk"
+      ]
+    },
+    "q-1b66f032.js": {
+      "size": 808,
+      "imports": [
+        "q-01a82b54.js",
+        "q-8a5efe10.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/local/drama/index.mdx"
+      ]
+    },
+    "q-1bd50f39.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-7f3c93d6.js"
+      ],
+      "origins": [
+        "src/components/visuals/news-title/news-title.tsx"
+      ]
+    },
+    "q-1be92667.js": {
+      "size": 459,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-de86f46d.js"
+      ],
+      "origins": [
+        "src/routes/menu/tools/maps/extended/index.mdx"
+      ]
+    },
+    "q-1c441c1a.js": {
+      "size": 1796,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194191/index.mdx"
+      ]
+    },
+    "q-1cb17694.js": {
+      "size": 21511,
+      "imports": [
+        "q-3ccade93.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/magic/basics/index.mdx"
+      ]
+    },
+    "q-1cd10c7f.js": {
+      "size": 1912,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/education/self-taught/index.mdx"
+      ]
+    },
+    "q-1dfbec0a.js": {
+      "size": 897,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/education/theology/index.mdx"
+      ]
+    },
+    "q-1e31930c.js": {
+      "size": 13663,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/magic/basics/theory/index.mdx"
+      ]
+    },
+    "q-1e36e7f8.js": {
+      "size": 18102,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/archive/epilogue/index.mdx"
+      ]
+    },
+    "q-1eb42c87.js": {
+      "size": 19804,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-3ccade93.js",
+        "q-7b50f0ab.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/manual/templates/quenta/index.mdx"
+      ]
+    },
+    "q-2108e687.js": {
+      "size": 4976,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/druidism/light/index.mdx"
+      ]
+    },
+    "q-21cd48af.js": {
+      "size": 545,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_table.js",
+        "src/s_tqvtl1p1kei.js"
+      ],
+      "symbols": [
+        "s_TQvtL1P1keI"
+      ]
+    },
+    "q-227c4612.js": {
+      "size": 9267,
+      "imports": [
+        "q-01a82b54.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/science/mechanics/index.mdx"
+      ]
+    },
+    "q-237a9261.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-dd1ce2e7.js"
+      ],
+      "origins": [
+        "src/components/containers/timestamp/timestamp.tsx"
+      ]
+    },
+    "q-23bc8b21.js": {
+      "size": 10652,
+      "imports": [
+        "q-72b53a9d.js",
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/states/reabor-thaes/index.mdx"
+      ]
+    },
+    "q-2405ba01.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-878ce6b9.js"
+      ],
+      "origins": [
+        "src/components/controls/button-lore/button-lore.tsx"
+      ]
+    },
+    "q-25996190.js": {
+      "size": 3622,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/things/wraugr/index.mdx"
+      ]
+    },
+    "q-25a0ab28.js": {
+      "size": 1588,
+      "imports": [
+        "q-58765481.js",
+        "q-b1c41f58.js",
+        "q-d0cdd5b7.js"
+      ],
+      "origins": [
+        "src/entry_side_toc.js",
+        "src/s_4meumixfeby.js",
+        "src/s_g1miouaoqsw.js",
+        "src/s_wwmj0vpgo6e.js"
+      ],
+      "symbols": [
+        "s_4mEUMIxFebY",
+        "s_G1mIOUAOqSw",
+        "s_wwMJ0vPgO6E"
+      ]
+    },
+    "q-2612570a.js": {
+      "size": 31423,
+      "imports": [
+        "q-01a82b54.js",
+        "q-522ef0a0.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-ea7ae2b3.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/lamah/index.mdx"
+      ]
+    },
+    "q-274d3769.js": {
+      "size": 333,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_board.js",
+        "src/s_je2dzr4cptw.js"
+      ],
+      "symbols": [
+        "s_JE2DZR4cPTw"
+      ]
+    },
+    "q-27cb1150.js": {
+      "size": 1290,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49195764/index.mdx"
+      ]
+    },
+    "q-28e29e91.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/old-time/red-dawn/index.mdx"
+      ]
+    },
+    "q-290fcf10.js": {
+      "size": 1902,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194173/index.mdx"
+      ]
+    },
+    "q-297ef8d6.js": {
+      "size": 786,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/tools/maps/index.mdx"
+      ]
+    },
+    "q-2b7993e3.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/teyel/mattor/index.mdx"
+      ]
+    },
+    "q-2bad9c46.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/reabor-thaes/ryan/index.mdx"
+      ]
+    },
+    "q-2bca7432.js": {
+      "size": 9017,
+      "imports": [
+        "q-01a82b54.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/science/chimerology/index.mdx"
+      ]
+    },
+    "q-2c607fcd.js": {
+      "size": 3481,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/occultism/enigmat/ghosts/index.mdx"
+      ]
+    },
+    "q-2c714d37.js": {
+      "size": 13325,
+      "imports": [
+        "q-01a82b54.js",
+        "q-3c0fe6ed.js",
+        "q-522ef0a0.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-ea7ae2b3.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/dwarves/index.mdx"
+      ]
+    },
+    "q-2cc36770.js": {
+      "size": 3213,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/crafts/shipbuilding/index.mdx"
+      ]
+    },
+    "q-2cd1b289.js": {
+      "size": 2247,
+      "imports": [
+        "q-891e9eaf.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/draconides/index.mdx"
+      ]
+    },
+    "q-2d7a8cbe.js": {
+      "size": 1999,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49195848/index.mdx"
+      ]
+    },
+    "q-2dc2c09e.js": {
+      "size": 40651,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/archive/44yne/index.mdx"
+      ]
+    },
+    "q-2f075ca9.js": {
+      "size": 2356,
+      "imports": [
+        "q-01a82b54.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_audio.js",
+        "src/s_0hmqasjk7sc.js",
+        "src/s_0qnofv6ctim.js",
+        "src/s_jrooopqh9ji.js",
+        "src/s_w8xuqgrs0ek.js"
+      ],
+      "symbols": [
+        "s_0HmqAsJk7sc",
+        "s_0QNOfV6cTiM",
+        "s_jROooPQh9jI",
+        "s_w8XUqGrS0Ek"
+      ]
+    },
+    "q-2f105f9c.js": {
+      "size": 2286,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194189/index.mdx"
+      ]
+    },
+    "q-2f3ce39c.js": {
+      "size": 548,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_Child.js",
+        "src/s_0q9po0kgg0e.js",
+        "src/s_8qnlsplq0la.js"
+      ],
+      "symbols": [
+        "s_0Q9po0kgG0E",
+        "s_8qNLsplq0lA"
+      ]
+    },
+    "q-308f1138.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/reabor-thaes/gerrteyr/index.mdx"
+      ]
+    },
+    "q-31774be4.js": {
+      "size": 710,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/index.mdx"
+      ]
+    },
+    "q-31845b7b.js": {
+      "size": 5443,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/weapon/cold/index.mdx"
+      ]
+    },
+    "q-3187526e.js": {
+      "size": 1312,
+      "imports": [
+        "q-2405ba01.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_button_herbarium.js",
+        "src/s_erszooqsghi.js"
+      ],
+      "symbols": [
+        "s_eRsZoOQSGHI"
+      ]
+    },
+    "q-34225107.js": {
+      "size": 1783,
+      "imports": [
+        "q-589cd217.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/magic/branches/white/index.mdx"
+      ]
+    },
+    "q-34404a3d.js": {
+      "size": 573,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-84138247.js"
+      ],
+      "origins": [
+        "src/components/tools/age/age.tsx",
+        "src/routes/menu/tools/age/index.mdx"
+      ]
+    },
+    "q-34938f48.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-e9ef71e8.js"
+      ],
+      "origins": [
+        "src/components/visuals/news-title/news-url.tsx"
+      ]
+    },
+    "q-34ca1255.js": {
+      "size": 2267,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/crafts/cooking/index.mdx"
+      ]
+    },
+    "q-392b76cc.js": {
+      "size": 1905,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194142/index.mdx"
+      ]
+    },
+    "q-39796454.js": {
+      "size": 2424,
+      "imports": [
+        "q-891e9eaf.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/things/index.mdx"
+      ]
+    },
+    "q-3a5319bb.js": {
+      "size": 3596,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/shamanism/light/index.mdx"
+      ]
+    },
+    "q-3bcffe6a.js": {
+      "size": 640,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-18fdc52f.js"
+      ],
+      "origins": [
+        "src/components/content-menu/sidebar-button/sidebar-button.tsx",
+        "src/entry_header.js",
+        "src/s_mbt9fil89mc.js"
+      ],
+      "symbols": [
+        "s_mBt9fIl89mc"
+      ]
+    },
+    "q-3c0fe6ed.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-650d3a08.js"
+      ],
+      "origins": [
+        "src/components/containers/details/details.tsx"
+      ]
+    },
+    "q-3c3c4280.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/teyel/galan/index.mdx"
+      ]
+    },
+    "q-3c463d23.js": {
+      "size": 2123,
+      "imports": [
+        "q-01a82b54.js",
+        "q-8a5efe10.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "dynamicImports": [
+        "q-9c82162e.js"
+      ],
+      "origins": [
+        "src/components/locked-data/locked-data.tsx",
+        "src/routes/menu/plot/global/emptiness/index.mdx"
+      ]
+    },
+    "q-3c93eab1.js": {
+      "size": 9290,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/education/magic/index.mdx"
+      ]
+    },
+    "q-3cab13e6.js": {
+      "size": 1093,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194175/index.mdx"
+      ]
+    },
+    "q-3ccade93.js": {
+      "size": 201,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-c058e361.js"
+      ],
+      "origins": [
+        "src/components/containers/copy-box/copy-box.tsx"
+      ]
+    },
+    "q-3e372293.js": {
+      "size": 13811,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-3c0fe6ed.js",
+        "q-7e540608.js",
+        "q-b1c41f58.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/heroes/marnis/index.mdx"
+      ]
+    },
+    "q-3f9bee99.js": {
+      "size": 573,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-a6331480.js"
+      ],
+      "origins": [
+        "src/components/tools/banking/banking.tsx",
+        "src/routes/menu/tools/banking/index.mdx"
+      ]
+    },
+    "q-40a13e4f.js": {
+      "size": 1737,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49226370/index.mdx"
+      ]
+    },
+    "q-40c99d61.js": {
+      "size": 1055,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/states/clans/index.mdx"
+      ]
+    },
+    "q-41a9698d.js": {
+      "size": 839,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/manual/templates/index.mdx"
+      ]
+    },
+    "q-42819d5a.js": {
+      "size": 1850,
+      "imports": [
+        "q-891e9eaf.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/insects/index.mdx"
+      ]
+    },
+    "q-42cbdaf8.js": {
+      "size": 4474,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/mechanics/steam-engine/index.mdx"
+      ]
+    },
+    "q-436b996e.js": {
+      "size": 11111,
+      "imports": [
+        "q-3ccade93.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/science/linguistics/index.mdx"
+      ]
+    },
+    "q-44c80fb4.js": {
+      "size": 3649,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/aquatic/jaskont-glacial/index.mdx"
+      ]
+    },
+    "q-45aab3b6.js": {
+      "size": 2536,
+      "origins": [
+        "node_modules/@builder.io/qwik-city/service-worker.mjs",
+        "src/routes/service-worker.ts"
+      ]
+    },
+    "q-45d92144.js": {
+      "size": 2239,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194185/index.mdx"
+      ]
+    },
+    "q-46c406ca.js": {
+      "size": 6332,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/undead/necrodragon/index.mdx"
+      ]
+    },
+    "q-47422dc0.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-e9ee7cdd.js"
+      ],
+      "origins": [
+        "src/components/controls/button-header/button-header.tsx"
+      ]
+    },
+    "q-4780ed81.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/reabor-thaes/mirent/index.mdx"
+      ]
+    },
+    "q-47b578e4.js": {
+      "size": 4334,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/diseases/dahma/index.mdx"
+      ]
+    },
+    "q-48e3bc2b.js": {
+      "size": 127,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_disable_toc.js",
+        "src/s_x4gsgefig3y.js"
+      ],
+      "symbols": [
+        "s_x4GSGEFIg3Y"
+      ]
+    },
+    "q-499eeab6.js": {
+      "size": 1001,
+      "imports": [
+        "q-3ccade93.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/manual/templates/search-coop/index.mdx"
+      ]
+    },
+    "q-49a91b0d.js": {
+      "size": 574,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_constructRunes.js",
+        "src/s_gynp2imjbty.js",
+        "src/s_mwffafazusa.js"
+      ],
+      "symbols": [
+        "s_gYNp2iMJBTY",
+        "s_MWFFafAZuSA"
+      ]
+    },
+    "q-49b3608d.js": {
+      "size": 18029,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-3c0fe6ed.js",
+        "q-7e540608.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/heroes/getfri-jogan/index.mdx"
+      ]
+    },
+    "q-4bf9c7e0.js": {
+      "size": 922,
+      "imports": [
+        "q-72b53a9d.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/index.mdx"
+      ]
+    },
+    "q-4dc74996.js": {
+      "size": 5546,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/crafts/theft/index.mdx"
+      ]
+    },
+    "q-4e177a19.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/mechanics/digest/index.mdx"
+      ]
+    },
+    "q-4ebb3d27.js": {
+      "size": 3531,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/weapon/fire/index.mdx"
+      ]
+    },
+    "q-4ffb93d4.js": {
+      "size": 3681,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/crimthunder/index.mdx"
+      ]
+    },
+    "q-50c8eda4.js": {
+      "size": 671,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-c0397962.js"
+      ],
+      "origins": [
+        "src/entry_RouterHead.js",
+        "src/s_zrbrqoaqxsy.js"
+      ],
+      "symbols": [
+        "s_zrbrqoaqXSY"
+      ]
+    },
+    "q-513adb7e.js": {
+      "size": 2925,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_48403430/index.mdx"
+      ]
+    },
+    "q-51d60608.js": {
+      "size": 1007,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-72b53a9d.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/diseases/index.mdx"
+      ]
+    },
+    "q-522ef0a0.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-21cd48af.js"
+      ],
+      "origins": [
+        "src/components/containers/table/table.tsx"
+      ]
+    },
+    "q-525c1b13.js": {
+      "size": 5388,
+      "imports": [
+        "q-72b53a9d.js",
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/states/sixtinna/index.mdx"
+      ]
+    },
+    "q-52a50135.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/old-time/new-ages/index.mdx"
+      ]
+    },
+    "q-53872d3b.js": {
+      "size": 790,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/elementals/fire/index.mdx"
+      ]
+    },
+    "q-54807577.js": {
+      "size": 33547,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/archive/10yem/index.mdx"
+      ]
+    },
+    "q-54b028a2.js": {
+      "size": 2168,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194195/index.mdx"
+      ]
+    },
+    "q-54f76941.js": {
+      "size": 449,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-de86f46d.js"
+      ],
+      "origins": [
+        "src/routes/menu/tools/maps/political/index.mdx"
+      ]
+    },
+    "q-551d14e9.js": {
+      "size": 1890,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194151/index.mdx"
+      ]
+    },
+    "q-55bf9936.js": {
+      "size": 8807,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "dynamicImports": [
+        "q-9d900fa8.js"
+      ],
+      "origins": [
+        "src/components/visuals/calendar/calendar.tsx",
+        "src/routes/menu/navigation/cosmology/index.mdx"
+      ]
+    },
+    "q-564aa891.js": {
+      "size": 4031,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/moroks/mglin/index.mdx"
+      ]
+    },
+    "q-56af37c0.js": {
+      "size": 9390,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/education/general/index.mdx"
+      ]
+    },
+    "q-57355acf.js": {
+      "size": 1355,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49195763/index.mdx"
+      ]
+    },
+    "q-5844a54d.js": {
+      "size": 1861,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/minerals/raitarit/index.mdx"
+      ]
+    },
+    "q-58551fdd.js": {
+      "size": 1764,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194200/index.mdx"
+      ]
+    },
+    "q-58765481.js": {
+      "size": 1370,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-d0cdd5b7.js"
+      ],
+      "dynamicImports": [
+        "q-178f7419.js",
+        "q-25a0ab28.js",
+        "q-2f3ce39c.js",
+        "q-3bcffe6a.js",
+        "q-8079c030.js",
+        "q-a3bbc851.js"
+      ],
+      "origins": [
+        "src/components/content-menu/content-menu.tsx",
+        "src/components/side-toc/side-toc.tsx",
+        "src/components/starter/footer/footer.tsx",
+        "src/components/starter/header/header.tsx",
+        "src/components/starter/page-header/page-header.tsx",
+        "src/entry_layout.js",
+        "src/s_vklnxphuh5s.js"
+      ],
+      "symbols": [
+        "s_VkLNXphUh5s"
+      ]
+    },
+    "q-589cd217.js": {
+      "size": 245,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-a712a6c1.js"
+      ],
+      "origins": [
+        "src/components/tools/magic/rune-list.tsx"
+      ]
+    },
+    "q-58cd2e43.js": {
+      "size": 3429,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/arvian-warmer/index.mdx"
+      ]
+    },
+    "q-58d8bae6.js": {
+      "size": 2801,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49195762/index.mdx"
+      ]
+    },
+    "q-5aeb8d30.js": {
+      "size": 4656,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js",
+        "q-e72f4e52.js"
+      ],
+      "origins": [
+        "src/entry_character_list.js",
+        "src/s_05sq4a5nfxm.js",
+        "src/s_3a71c5n61zq.js",
+        "src/s_fbfjnimzscg.js",
+        "src/s_lxmzzzndj0a.js",
+        "src/s_uwcn4taspwg.js",
+        "src/s_v15a6cg9ez4.js",
+        "src/s_xn1dkxavrfi.js"
+      ],
+      "symbols": [
+        "s_05sQ4A5nFxM",
+        "s_3A71c5N61ZQ",
+        "s_fBFjnImzscg",
+        "s_lXmzZzNdJ0A",
+        "s_UWCn4TAspWg",
+        "s_v15a6cG9Ez4",
+        "s_xN1DkxAvRFI"
+      ]
+    },
+    "q-5cc99f8a.js": {
+      "size": 9548,
+      "origins": [
+        "\u0000C:/Sync/Arc/Projects/qw/node_modules/clipboard/dist/clipboard.js?commonjs-module",
+        "\u0000commonjsHelpers.js",
+        "node_modules/clipboard/dist/clipboard.js"
+      ]
+    },
+    "q-5e0dfde9.js": {
+      "size": 725,
+      "imports": [
+        "q-2405ba01.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_button_bestiary.js",
+        "src/s_izuwqiipuoi.js"
+      ],
+      "symbols": [
+        "s_IzUwqIIPuoI"
+      ]
+    },
+    "q-5e7f6c90.js": {
+      "size": 23160,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/components/tools/map/locations2.js",
+        "src/entry_map.js",
+        "src/s_0xgxkem1ri8.js",
+        "src/s_hfwkijdpdxu.js"
+      ],
+      "symbols": [
+        "s_0XGxKEM1rI8",
+        "s_hfWKIjdPDxU"
+      ]
+    },
+    "q-5ef67c61.js": {
+      "size": 1345,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-c0397962.js",
+        "q-f9601c14.js"
+      ],
+      "origins": [
+        "src/entry_gallery.js",
+        "src/s_kue9010d3ma.js",
+        "src/s_l08ygblzmem.js"
+      ],
+      "symbols": [
+        "s_Kue9010D3mA",
+        "s_l08YGbLzmEM"
+      ]
+    },
+    "q-60727650.js": {
+      "size": 2033,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194210/index.mdx"
+      ]
+    },
+    "q-61827041.js": {
+      "size": 1902,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194214/index.mdx"
+      ]
+    },
+    "q-623e868d.js": {
+      "size": 998,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/magic/branches/index.mdx"
+      ]
+    },
+    "q-62aab12b.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/teyel/granta/index.mdx"
+      ]
+    },
+    "q-62fdb1b1.js": {
+      "size": 882,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/magic/index.mdx"
+      ]
+    },
+    "q-6315d18a.js": {
+      "size": 1702,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/states/index.mdx"
+      ]
+    },
+    "q-6409db12.js": {
+      "size": 2008,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/vortexflower/index.mdx"
+      ]
+    },
+    "q-6498f917.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/reabor-thaes/terrict/index.mdx"
+      ]
+    },
+    "q-64b741dd.js": {
+      "size": 2923,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194154/index.mdx"
+      ]
+    },
+    "q-650d3a08.js": {
+      "size": 275,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_details.js",
+        "src/s_0gkylkwi8ju.js"
+      ],
+      "symbols": [
+        "s_0gKylkwi8jU"
+      ]
+    },
+    "q-653fe2d3.js": {
+      "size": 422,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_background_pictures.js",
+        "src/s_zxeq3aoiuvk.js"
+      ],
+      "symbols": [
+        "s_zXEQ3aOIUVk"
+      ]
+    },
+    "q-66e10e52.js": {
+      "size": 783,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/elementals/sea/index.mdx"
+      ]
+    },
+    "q-66ef03bb.js": {
+      "size": 871,
+      "imports": [
+        "q-3ccade93.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/manual/templates/beast/index.mdx"
+      ]
+    },
+    "q-673dea4f.js": {
+      "size": 908,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/tools/index.mdx"
+      ]
+    },
+    "q-67488125.js": {
+      "size": 5544,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/draconides/gviar/index.mdx"
+      ]
+    },
+    "q-679aaeff.js": {
+      "size": 417,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-f2fbad8e.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/timeline/index.mdx"
+      ]
+    },
+    "q-686a72d7.js": {
+      "size": 14717,
+      "imports": [
+        "q-01a82b54.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/werewolves/index.mdx"
+      ]
+    },
+    "q-6984d76f.js": {
+      "size": 16700,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/army/index.mdx"
+      ]
+    },
+    "q-6af236f6.js": {
+      "size": 1057,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/index.mdx"
+      ]
+    },
+    "q-6b36d81e.js": {
+      "size": 1742,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194201/index.mdx"
+      ]
+    },
+    "q-6bebbfde.js": {
+      "size": 2602,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49195773/index.mdx"
+      ]
+    },
+    "q-6ca153dd.js": {
+      "size": 2163,
+      "imports": [
+        "q-01a82b54.js",
+        "q-8a5efe10.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/main/sacral/index.mdx"
+      ]
+    },
+    "q-6ceb564c.js": {
+      "size": 2755,
+      "imports": [
+        "q-3ccade93.js",
+        "q-b071130e.js",
+        "q-b1c41f58.js",
+        "q-b4eb43b3.js",
+        "q-bb77a18a.js",
+        "q-c16f0d1c.js",
+        "q-eda0e0d1.js"
+      ],
+      "origins": [
+        "src/entry_spell_duration.js",
+        "src/s_n4grrvebwi4.js"
+      ],
+      "symbols": [
+        "s_n4GRrVEBwI4"
+      ]
+    },
+    "q-6da2f934.js": {
+      "size": 2124,
+      "imports": [
+        "q-891e9eaf.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/aquatic/index.mdx"
+      ]
+    },
+    "q-6e34ba36.js": {
+      "size": 201,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-3187526e.js"
+      ],
+      "origins": [
+        "src/components/controls/button-lore/button-herbarium.tsx"
+      ]
+    },
+    "q-6ed7eceb.js": {
+      "size": 3177,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194167/index.mdx"
+      ]
+    },
+    "q-70b259d8.js": {
+      "size": 36332,
+      "imports": [
+        "q-01a82b54.js",
+        "q-0fe37ce9.js",
+        "q-3c0fe6ed.js",
+        "q-7e540608.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/heroes/muru-muru/index.mdx"
+      ]
+    },
+    "q-720a004c.js": {
+      "size": 10199,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/insects/jwarkullah/index.mdx"
+      ]
+    },
+    "q-72b53a9d.js": {
+      "size": 174,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-fff74584.js"
+      ],
+      "origins": [
+        "src/components/controls/button-book/button-book.tsx"
+      ]
+    },
+    "q-7435ccd6.js": {
+      "size": 1311,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/weapon/index.mdx"
+      ]
+    },
+    "q-747045f4.js": {
+      "size": 6808,
+      "imports": [
+        "q-01a82b54.js",
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/guilds/sparkle/index.mdx"
+      ]
+    },
+    "q-75e050eb.js": {
+      "size": 2317,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194143/index.mdx"
+      ]
+    },
+    "q-76046b25.js": {
+      "size": 2491,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/mushrooms/gortonna/index.mdx"
+      ]
+    },
+    "q-764a8a59.js": {
+      "size": 2159,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/haspar/index.mdx"
+      ]
+    },
+    "q-765c9d6a.js": {
+      "size": 9597,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/crafts/medicine/index.mdx"
+      ]
+    },
+    "q-76d09132.js": {
+      "size": 2588,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/aspid-tongue/index.mdx"
+      ]
+    },
+    "q-77c0ada5.js": {
+      "size": 1706,
+      "imports": [
+        "q-6e34ba36.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/algae/index.mdx"
+      ]
+    },
+    "q-7870017c.js": {
+      "size": 5489,
+      "imports": [
+        "q-1bd50f39.js",
+        "q-34938f48.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/news/index.mdx"
+      ]
+    },
+    "q-7a8c6288.js": {
+      "size": 526,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_blockquote_box.js",
+        "src/s_auuudnhpszk.js"
+      ],
+      "symbols": [
+        "s_AuuuDnhPszk"
+      ]
+    },
+    "q-7af05197.js": {
+      "size": 5611,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/mushrooms/bloody-tooth/index.mdx"
+      ]
+    },
+    "q-7b50f0ab.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-aac899bd.js"
+      ],
+      "origins": [
+        "src/components/visuals/niheria-heading/niheria-heading.tsx"
+      ]
+    },
+    "q-7be8d03a.js": {
+      "size": 832,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/index.mdx"
+      ]
+    },
+    "q-7c0df2d7.js": {
+      "size": 2704,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49226378/index.mdx"
+      ]
+    },
+    "q-7e540608.js": {
+      "size": 332,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-da9ca0a8.js"
+      ],
+      "origins": [
+        "src/components/character-list/character-card.tsx"
+      ]
+    },
+    "q-7ee4a73e.js": {
+      "size": 2893,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/mechanics/map-of-lost/index.mdx"
+      ]
+    },
+    "q-7f11bbd9.js": {
+      "size": 7752,
+      "imports": [
+        "q-01a82b54.js",
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/guilds/railworkers/index.mdx"
+      ]
+    },
+    "q-7f3c93d6.js": {
+      "size": 620,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_news_title.js",
+        "src/routes/menu/history/months.js",
+        "src/s_kuj8a4rvxzm.js"
+      ],
+      "symbols": [
+        "s_kUj8a4RvXzM"
+      ]
+    },
+    "q-8079c030.js": {
+      "size": 112,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_footer.js",
+        "src/s_u0bwm0i5da8.js"
+      ],
+      "symbols": [
+        "s_u0bwM0i5dA8"
+      ]
+    },
+    "q-809a7e46.js": {
+      "size": 2591,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/occultism/syncert/index.mdx"
+      ]
+    },
+    "q-81932bb0.js": {
+      "size": 19534,
+      "imports": [
+        "q-01a82b54.js",
+        "q-3c0fe6ed.js",
+        "q-522ef0a0.js",
+        "q-b1c41f58.js",
+        "q-ea7ae2b3.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/redrehan/index.mdx"
+      ]
+    },
+    "q-819bbe08.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/magic/phenomena/index.mdx"
+      ]
+    },
+    "q-8299fdfb.js": {
+      "size": 1157,
+      "imports": [
+        "q-3ccade93.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/manual/templates/location/index.mdx"
+      ]
+    },
+    "q-84138247.js": {
+      "size": 1384,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js",
+        "q-f2fbad8e.js",
+        "q-f3f2f623.js"
+      ],
+      "origins": [
+        "src/entry_age.js",
+        "src/s_e3jp1bhnjbg.js",
+        "src/s_unus6cluvve.js"
+      ],
+      "symbols": [
+        "s_e3JP1BHNJbg",
+        "s_unuS6CluVvE"
+      ]
+    },
+    "q-847d7bdc.js": {
+      "size": 2816,
+      "imports": [
+        "q-01a82b54.js",
+        "q-8a5efe10.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/main/apotheosis/index.mdx"
+      ]
+    },
+    "q-8675ea59.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-dd9d0a6a.js"
+      ],
+      "origins": [
+        "src/components/controls/button-rect/button-rect.tsx"
+      ]
+    },
+    "q-8763e817.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/teyel/teodor/index.mdx"
+      ]
+    },
+    "q-878ce6b9.js": {
+      "size": 724,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_button_lore.js",
+        "src/s_41psjjmjz8q.js"
+      ],
+      "symbols": [
+        "s_41psjJmjZ8Q"
+      ]
+    },
+    "q-891e9eaf.js": {
+      "size": 196,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-5e0dfde9.js"
+      ],
+      "origins": [
+        "src/components/controls/button-lore/button-bestiary.tsx"
+      ]
+    },
+    "q-8996c63d.js": {
+      "size": 2506,
+      "imports": [
+        "q-01a82b54.js",
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/occultism/enigma/index.mdx"
+      ]
+    },
+    "q-8a5efe10.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-9044a3be.js"
+      ],
+      "origins": [
+        "src/components/visuals/quest-tags/quest-tags.tsx"
+      ]
+    },
+    "q-8c2570c6.js": {
+      "size": 1324,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49195770/index.mdx"
+      ]
+    },
+    "q-8c3bddc1.js": {
+      "size": 1364,
+      "imports": [
+        "q-01a82b54.js",
+        "q-8a5efe10.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/global/heromantia/index.mdx"
+      ]
+    },
+    "q-8d1b6f72.js": {
+      "size": 15104,
+      "imports": [
+        "q-01a82b54.js",
+        "q-3c0fe6ed.js",
+        "q-522ef0a0.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/humans/index.mdx"
+      ]
+    },
+    "q-8dc60436.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/reabor-thaes/amtyen/index.mdx"
+      ]
+    },
+    "q-8e618100.js": {
+      "size": 18819,
+      "imports": [
+        "q-01a82b54.js",
+        "q-3c0fe6ed.js",
+        "q-522ef0a0.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-ea7ae2b3.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/besties/index.mdx"
+      ]
+    },
+    "q-8e6caa6c.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/economy/finances/index.mdx"
+      ]
+    },
+    "q-9044a3be.js": {
+      "size": 247,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_quest_tags.js",
+        "src/s_0g8pix2dovm.js"
+      ],
+      "symbols": [
+        "s_0g8Pix2dOVM"
+      ]
+    },
+    "q-914cf1c7.js": {
+      "size": 1834,
+      "imports": [
+        "q-01a82b54.js",
+        "q-8a5efe10.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/main/wanderers/index.mdx"
+      ]
+    },
+    "q-918ec02e.js": {
+      "size": 6320,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/mechanics/printing-press/index.mdx"
+      ]
+    },
+    "q-91c1bd9d.js": {
+      "size": 896,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/science/index.mdx"
+      ]
+    },
+    "q-92b759c7.js": {
+      "size": 2881,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194153/index.mdx"
+      ]
+    },
+    "q-931aa6c3.js": {
+      "size": 1791,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194179/index.mdx"
+      ]
+    },
+    "q-93963cac.js": {
+      "size": 1858,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194198/index.mdx"
+      ]
+    },
+    "q-93bf5e66.js": {
+      "size": 7139,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/weapon/armor/index.mdx"
+      ]
+    },
+    "q-93c3c1e9.js": {
+      "size": 1809,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194207/index.mdx"
+      ]
+    },
+    "q-93dd0963.js": {
+      "size": 224,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_glitchy_text.js",
+        "src/s_pkck3kbv3lo.js"
+      ],
+      "symbols": [
+        "s_pKcK3kbV3Lo"
+      ]
+    },
+    "q-94f4df3d.js": {
+      "size": 774,
+      "imports": [
+        "q-01a82b54.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/guilds/inferdormis/index.mdx"
+      ]
+    },
+    "q-951d6117.js": {
+      "size": 6073,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/shamanism/dark/index.mdx"
+      ]
+    },
+    "q-9673c9f0.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/reabor-thaes/egreit/index.mdx"
+      ]
+    },
+    "q-96d7052f.js": {
+      "size": 1661,
+      "imports": [
+        "q-589cd217.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/magic/branches/creation/index.mdx"
+      ]
+    },
+    "q-96ed1af4.js": {
+      "size": 13716,
+      "imports": [
+        "q-01a82b54.js",
+        "q-0fe37ce9.js",
+        "q-237a9261.js",
+        "q-47422dc0.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/outgoing-age/index.mdx"
+      ]
+    },
+    "q-9894d991.js": {
+      "size": 2558,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/crafts/trade/index.mdx"
+      ]
+    },
+    "q-996f7c44.js": {
+      "size": 3072,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49226375/index.mdx"
+      ]
+    },
+    "q-9a87be47.js": {
+      "size": 28389,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-3c0fe6ed.js",
+        "q-7e540608.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/heroes/kragah/index.mdx"
+      ]
+    },
+    "q-9bfbeef0.js": {
+      "size": 2293,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194197/index.mdx"
+      ]
+    },
+    "q-9c82162e.js": {
+      "size": 319,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_locked_data.js",
+        "src/s_cmals9m2fuo.js"
+      ],
+      "symbols": [
+        "s_cMALS9m2FUo"
+      ]
+    },
+    "q-9d0e1dfb.js": {
+      "size": 2256,
+      "imports": [
+        "q-47422dc0.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/manual/quick-start/index.mdx"
+      ]
+    },
+    "q-9d377248.js": {
+      "size": 1774,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/manual/templates/quenta/fears/index.mdx"
+      ]
+    },
+    "q-9d900fa8.js": {
+      "size": 456,
+      "imports": [
+        "q-55bf9936.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/entry_calendar.js",
+        "src/s_nwant5slz0w.js"
+      ],
+      "symbols": [
+        "s_NwanT5sLZ0w"
+      ]
+    },
+    "q-9e72cfe9.js": {
+      "size": 16350,
+      "imports": [
+        "q-01a82b54.js",
+        "q-0fe37ce9.js",
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "dynamicImports": [
+        "q-afe71f6d.js"
+      ],
+      "origins": [
+        "src/components/controls/button-text/button-text.tsx",
+        "src/routes/menu/skills/occultism/index.mdx"
+      ]
+    },
+    "q-9e843da9.js": {
+      "size": 2374,
+      "imports": [
+        "q-891e9eaf.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/undead/index.mdx"
+      ]
+    },
+    "q-9f2cd094.js": {
+      "size": 1810,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/archive/index.mdx"
+      ]
+    },
+    "q-9f462403.js": {
+      "size": 9816,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/creatures/ezo/index.mdx"
+      ]
+    },
+    "q-9fcfa9d7.js": {
+      "size": 1782,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194171/index.mdx"
+      ]
+    },
+    "q-a0f655a7.js": {
+      "size": 10715,
+      "imports": [
+        "q-01a82b54.js",
+        "q-0fe37ce9.js",
+        "q-237a9261.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/outgoing-age/stillborn-indict/index.mdx"
+      ]
+    },
+    "q-a168fb74.js": {
+      "size": 15582,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/manual/rules/index.mdx"
+      ]
+    },
+    "q-a268a4cd.js": {
+      "size": 3519,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/bloodrink/index.mdx"
+      ]
+    },
+    "q-a3bbc851.js": {
+      "size": 1481,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-c0397962.js",
+        "q-d0cdd5b7.js"
+      ],
+      "dynamicImports": [
+        "q-19a2860f.js"
+      ],
+      "origins": [
+        "src/components/content-menu/menu-element/menu-element.tsx",
+        "src/entry_content_menu.js",
+        "src/s_5shkevris4c.js"
+      ],
+      "symbols": [
+        "s_5ShkEvrIS4c"
+      ]
+    },
+    "q-a3fbc7ea.js": {
+      "size": 3259,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/crafts/smithing/index.mdx"
+      ]
+    },
+    "q-a4df6c07.js": {
+      "size": 893,
+      "imports": [
+        "q-3ccade93.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/manual/templates/plant/index.mdx"
+      ]
+    },
+    "q-a6331480.js": {
+      "size": 21506,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-7b50f0ab.js",
+        "q-b1c41f58.js",
+        "q-d51bafa7.js"
+      ],
+      "origins": [
+        "src/components/tools/banking/economy.js",
+        "src/entry_banking.js",
+        "src/s_04c8ij60kr8.js",
+        "src/s_0mc7ah8ebmi.js",
+        "src/s_0ordnzkcfy8.js",
+        "src/s_0p0vz8ihhry.js",
+        "src/s_0s0pcr03rcm.js",
+        "src/s_0xmx9ihjvme.js",
+        "src/s_125cefnwo0u.js",
+        "src/s_21aofjbo0ca.js",
+        "src/s_2vadxddnzts.js",
+        "src/s_3gaqebaksrs.js",
+        "src/s_5igrxm0fvsc.js",
+        "src/s_5ntpq4q2jrk.js",
+        "src/s_66v1eshhk0u.js",
+        "src/s_7pfnwzmcp6m.js",
+        "src/s_80478c0pbgq.js",
+        "src/s_96nmvp00sdw.js",
+        "src/s_9deb9jx0j88.js",
+        "src/s_9uouulziegc.js",
+        "src/s_a82gfhsihjk.js",
+        "src/s_bnm1848mu38.js",
+        "src/s_bofjmn2n0qw.js",
+        "src/s_brqgfgyzhpk.js",
+        "src/s_degnj87iqx4.js",
+        "src/s_e6inwswjwbm.js",
+        "src/s_esrvum9gkly.js",
+        "src/s_eyyiarhofqy.js",
+        "src/s_fcvkidqtqjo.js",
+        "src/s_ffo2rxislci.js",
+        "src/s_fmz0bkiwin4.js",
+        "src/s_ftz9i0b0dwo.js",
+        "src/s_g0aapttplsg.js",
+        "src/s_gd6ixlgt5by.js",
+        "src/s_giwhasq4vps.js",
+        "src/s_hns1mx29klc.js",
+        "src/s_hsg3uhbn498.js",
+        "src/s_hv79esw0cqo.js",
+        "src/s_hy5mxwkr3dm.js",
+        "src/s_iiht5e9zcek.js",
+        "src/s_iunlqrp9dsw.js",
+        "src/s_jsb2rbi8vzw.js",
+        "src/s_jsfbptqqypu.js",
+        "src/s_jw0xa7lpp1w.js",
+        "src/s_kqdtuchsypi.js",
+        "src/s_ksvgpntx0va.js",
+        "src/s_kw61s0wjq0m.js",
+        "src/s_lfwtwnpsbbs.js",
+        "src/s_lp1kccrmoqw.js",
+        "src/s_mi1mxs6rkxy.js",
+        "src/s_mjc3o5v0n54.js",
+        "src/s_mmgkmlhe43w.js",
+        "src/s_n0kypxewal4.js",
+        "src/s_oecgijcfyuw.js",
+        "src/s_otmawkvvmzy.js",
+        "src/s_p1gmvnazkri.js",
+        "src/s_pdm0ynegn6w.js",
+        "src/s_ppbgcw79is0.js",
+        "src/s_pyxrzkfaw04.js",
+        "src/s_qr61nzkgy5c.js",
+        "src/s_rhr4owdzms0.js",
+        "src/s_shqm7i00h0e.js",
+        "src/s_tzfx8hjigyu.js",
+        "src/s_u2o2o9hs2mm.js",
+        "src/s_uhvehuwnqpu.js",
+        "src/s_usso1udpcvu.js",
+        "src/s_uxw0l4weaok.js",
+        "src/s_va0pok0ndm0.js",
+        "src/s_w2n0xtcyk4w.js",
+        "src/s_w5bfpna045e.js",
+        "src/s_wziufcku2iq.js",
+        "src/s_xlox1mhlk9s.js",
+        "src/s_y6sivjmvufy.js",
+        "src/s_z0qzoqb3tc0.js",
+        "src/s_zfw9qgifof4.js",
+        "src/s_zssmqvvjpvo.js"
+      ],
+      "symbols": [
+        "s_04C8IJ60KR8",
+        "s_0Mc7aH8eBmI",
+        "s_0OrdnzkCFY8",
+        "s_0P0vZ8ihHrY",
+        "s_0s0Pcr03RCM",
+        "s_0xMx9IHjvmE",
+        "s_125CEFNwo0U",
+        "s_21AOfJBo0CA",
+        "s_2VaDxddNZTs",
+        "s_3GAQEbAkSrs",
+        "s_5IGrxm0FVSc",
+        "s_5nTpQ4q2jrk",
+        "s_66v1eShhK0U",
+        "s_7pFNwzmcp6M",
+        "s_80478c0pbgQ",
+        "s_96nMvP00sdw",
+        "s_9deb9JX0j88",
+        "s_9UoUulziEGc",
+        "s_A82GFhSiHjk",
+        "s_bNm1848mU38",
+        "s_BOfJMN2n0qw",
+        "s_bRqgfgyzHpk",
+        "s_degNJ87Iqx4",
+        "s_e6inwsWJWBM",
+        "s_eSRvUM9gkLY",
+        "s_EYYiArHOFQY",
+        "s_fcvKIdQTQJo",
+        "s_ffo2RXislCI",
+        "s_Fmz0BKiwin4",
+        "s_ftz9i0B0Dwo",
+        "s_g0aAPtTplsg",
+        "s_GD6iXlgT5BY",
+        "s_GiwhasQ4vps",
+        "s_HNs1MX29Klc",
+        "s_HSG3uHbn498",
+        "s_Hv79esw0cqo",
+        "s_Hy5mxwKR3dM",
+        "s_iiHT5E9Zcek",
+        "s_iUNLqrp9DSw",
+        "s_JsB2rBi8vZw",
+        "s_JSFBPTqqYpU",
+        "s_JW0XA7LPP1w",
+        "s_KqDtuChSypI",
+        "s_KSVGPnTx0vA",
+        "s_Kw61S0wJQ0M",
+        "s_lFWtWnpsbbs",
+        "s_Lp1KCCRMOqw",
+        "s_mI1MxS6RkxY",
+        "s_mJc3O5V0N54",
+        "s_mmgKMLhE43w",
+        "s_n0kYPxEwAl4",
+        "s_OEcGIjcfYuw",
+        "s_OtmAWkvvMzY",
+        "s_p1GmVNAZkrI",
+        "s_pDM0YnEGn6w",
+        "s_ppbGCw79IS0",
+        "s_PYXrZkfaw04",
+        "s_qR61nZKGy5c",
+        "s_rHR4oWDZmS0",
+        "s_shQm7i00H0E",
+        "s_TzFX8HjIgYU",
+        "s_U2O2o9hs2mM",
+        "s_UHVEHuwnqpU",
+        "s_usso1uDPCVU",
+        "s_Uxw0l4wEAOk",
+        "s_vA0pOK0nDM0",
+        "s_w2n0XtcYK4w",
+        "s_w5bfpNa045E",
+        "s_wZIufCKu2iQ",
+        "s_XlOX1MHlk9s",
+        "s_Y6SivJMVuFY",
+        "s_z0QZOQB3TC0",
+        "s_zFw9QGIFOF4",
+        "s_ZssmQvVjpvo"
+      ]
+    },
+    "q-a6a071e3.js": {
+      "size": 12880,
+      "imports": [
+        "q-01a82b54.js",
+        "q-0fe37ce9.js",
+        "q-237a9261.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/outgoing-age/resistentia/index.mdx"
+      ]
+    },
+    "q-a6f52327.js": {
+      "size": 5699,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/index.mdx"
+      ]
+    },
+    "q-a712a6c1.js": {
+      "size": 1010,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b071130e.js",
+        "q-b1c41f58.js",
+        "q-eda0e0d1.js"
+      ],
+      "origins": [
+        "src/entry_rune_list.js",
+        "src/s_xgjdktvuuuq.js"
+      ],
+      "symbols": [
+        "s_xgjdktVuUuQ"
+      ]
+    },
+    "q-a77d5ea5.js": {
+      "size": 1792,
+      "imports": [
+        "q-01a82b54.js",
+        "q-8a5efe10.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/global/lokomotiv/index.mdx"
+      ]
+    },
+    "q-a7a463b4.js": {
+      "size": 969,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/manual/index.mdx"
+      ]
+    },
+    "q-a7e6cc94.js": {
+      "size": 4213,
+      "imports": [
+        "q-01a82b54.js",
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/guilds/admiralty/index.mdx"
+      ]
+    },
+    "q-a8f64700.js": {
+      "size": 8746,
+      "imports": [
+        "q-72b53a9d.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/science/alchemy/index.mdx"
+      ]
+    },
+    "q-a917197a.js": {
+      "size": 4447,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/diseases/snaketongue/index.mdx"
+      ]
+    },
+    "q-a9ccafc4.js": {
+      "size": 3481,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/occultism/enigmat/light/index.mdx"
+      ]
+    },
+    "q-aac899bd.js": {
+      "size": 362,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_niheria_heading.js",
+        "src/s_knc4o24mc1k.js"
+      ],
+      "symbols": [
+        "s_KNC4O24MC1k"
+      ]
+    },
+    "q-ab8dbc83.js": {
+      "size": 16017,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-3c0fe6ed.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/economy/earning/index.mdx"
+      ]
+    },
+    "q-ac463457.js": {
+      "size": 2236,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/crafts/tailoring/index.mdx"
+      ]
+    },
+    "q-ac852a62.js": {
+      "size": 5299,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/aquatic/jaskont/index.mdx"
+      ]
+    },
+    "q-ad1f76d4.js": {
+      "size": 3541,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49195855/index.mdx"
+      ]
+    },
+    "q-ad316ba1.js": {
+      "size": 18510,
+      "imports": [
+        "q-01a82b54.js",
+        "q-0fe37ce9.js",
+        "q-237a9261.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/outgoing-age/renaissance-period/index.mdx"
+      ]
+    },
+    "q-ad495274.js": {
+      "size": 2950,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/crafts/winemaking/index.mdx"
+      ]
+    },
+    "q-ae12a07f.js": {
+      "size": 618,
+      "imports": [
+        "q-47422dc0.js",
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js",
+        "q-d51bafa7.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/index.mdx"
+      ]
+    },
+    "q-ae3f200d.js": {
+      "size": 1713,
+      "imports": [
+        "q-01a82b54.js",
+        "q-8a5efe10.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/local/femme-fatale/index.mdx"
+      ]
+    },
+    "q-ae4c91fc.js": {
+      "size": 1688,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_48391072/index.mdx"
+      ]
+    },
+    "q-ae737462.js": {
+      "size": 6213,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-653fe2d3.js"
+      ],
+      "origins": [
+        "src/components/visuals/background-pictures/background-pictures.tsx",
+        "src/routes/menu/history/elder-ages/index.mdx"
+      ]
+    },
+    "q-aea44625.js": {
+      "size": 8042,
+      "imports": [
+        "q-72b53a9d.js",
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/states/teyel/index.mdx"
+      ]
+    },
+    "q-aec9eac8.js": {
+      "size": 15832,
+      "imports": [
+        "q-01a82b54.js",
+        "q-3c0fe6ed.js",
+        "q-522ef0a0.js",
+        "q-b1c41f58.js",
+        "q-ea7ae2b3.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/kharfirs/index.mdx"
+      ]
+    },
+    "q-af0bf75f.js": {
+      "size": 9746,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/shamanism/ghosts/index.mdx"
+      ]
+    },
+    "q-afe71f6d.js": {
+      "size": 614,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_button_text.js",
+        "src/s_u8b5iqdav14.js"
+      ],
+      "symbols": [
+        "s_U8b5IqDAV14"
+      ]
+    },
+    "q-b04bf93f.js": {
+      "size": 1034,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/economy/index.mdx"
+      ]
+    },
+    "q-b071130e.js": {
+      "size": 201,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-ea67baec.js"
+      ],
+      "origins": [
+        "src/components/tools/magic/magic-rune.tsx"
+      ]
+    },
+    "q-b1c41f58.js": {
+      "size": 44924,
+      "dynamicImports": [
+        "q-c0397962.js"
+      ],
+      "origins": [
+        "\u0000vite/preload-helper",
+        "node_modules/@builder.io/qwik/core.min.mjs",
+        "src/global.scss",
+        "src/root.tsx"
+      ]
+    },
+    "q-b1ea819e.js": {
+      "size": 9499,
+      "origins": [
+        "src/routes/menu.md"
+      ]
+    },
+    "q-b3969eb9.js": {
+      "size": 5877,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/occultism/mark/index.mdx"
+      ]
+    },
+    "q-b4eb43b3.js": {
+      "size": 940,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eda0e0d1.js"
+      ],
+      "dynamicImports": [
+        "q-bb77a18a.js"
+      ],
+      "origins": [
+        "src/components/tools/magic/magic.tsx",
+        "src/routes/menu/tools/magic/index.mdx"
+      ]
+    },
+    "q-b5ac3edb.js": {
+      "size": 1382,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49193266/index.mdx"
+      ]
+    },
+    "q-b60d7807.js": {
+      "size": 2371,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/crafts/architectory/index.mdx"
+      ]
+    },
+    "q-b7b414ac.js": {
+      "size": 854,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/index.mdx"
+      ]
+    },
+    "q-b7e2c637.js": {
+      "size": 1441,
+      "imports": [
+        "q-5cc99f8a.js",
+        "q-b071130e.js",
+        "q-b1c41f58.js",
+        "q-b4eb43b3.js",
+        "q-bb77a18a.js",
+        "q-eda0e0d1.js"
+      ],
+      "origins": [
+        "src/entry_magic_spell.js",
+        "src/s_8oy9bgd6aky.js",
+        "src/s_o0iu2gwy190.js"
+      ],
+      "symbols": [
+        "s_8OY9BGD6aKY",
+        "s_o0IU2gWy190"
+      ]
+    },
+    "q-b7ef108d.js": {
+      "size": 9633,
+      "imports": [
+        "q-01a82b54.js",
+        "q-0fe37ce9.js",
+        "q-237a9261.js",
+        "q-b1c41f58.js",
+        "q-ea7ae2b3.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/outgoing-age/recovery-period/index.mdx"
+      ]
+    },
+    "q-b9bb248c.js": {
+      "size": 11637,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/magic/influence/index.mdx"
+      ]
+    },
+    "q-ba3468e7.js": {
+      "size": 6209,
+      "imports": [
+        "q-72b53a9d.js",
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/states/korkaft/index.mdx"
+      ]
+    },
+    "q-bb4458cd.js": {
+      "size": 5788,
+      "imports": [
+        "q-72b53a9d.js",
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/states/sekri/index.mdx"
+      ]
+    },
+    "q-bb77a18a.js": {
+      "size": 5239,
+      "imports": [
+        "q-b071130e.js",
+        "q-b1c41f58.js",
+        "q-b4eb43b3.js",
+        "q-eda0e0d1.js"
+      ],
+      "dynamicImports": [
+        "q-49a91b0d.js",
+        "q-49a91b0d.js",
+        "q-6ceb564c.js",
+        "q-b7e2c637.js"
+      ],
+      "origins": [
+        "src/components/tools/magic/magic-spell.tsx",
+        "src/components/tools/magic/spell-duration.tsx",
+        "src/entry_magic.js",
+        "src/routes/menu/magic/spellsList.json",
+        "src/s_bokh9z6x0by.js",
+        "src/s_ec2kbo6qw0y.js",
+        "src/s_p0xfjdfs0ga.js",
+        "src/s_rmb0ez3zxsw.js",
+        "src/s_uksgrkdnx9k.js",
+        "src/s_xjfhmjouxj4.js"
+      ],
+      "symbols": [
+        "s_boKH9Z6x0BY",
+        "s_Ec2KbO6Qw0Y",
+        "s_P0xFjdFs0GA",
+        "s_RMB0Ez3ZXsw",
+        "s_UksgrkdNX9k",
+        "s_xjFhMJOUxj4"
+      ]
+    },
+    "q-bb97a34f.js": {
+      "size": 2925,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194217/index.mdx"
+      ]
+    },
+    "q-bc36c533.js": {
+      "size": 3401,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/druidism/gray/index.mdx"
+      ]
+    },
+    "q-bcd376a0.js": {
+      "size": 3799,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/transport/portals/index.mdx"
+      ]
+    },
+    "q-bcee287b.js": {
+      "size": 2069,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194199/index.mdx"
+      ]
+    },
+    "q-bcee6505.js": {
+      "size": 7398,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/education/military/index.mdx"
+      ]
+    },
+    "q-bd2b50bb.js": {
+      "size": 1805,
+      "imports": [
+        "q-6e34ba36.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/minerals/index.mdx"
+      ]
+    },
+    "q-bdb829ef.js": {
+      "size": 3506,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/manual/masters/index.mdx"
+      ]
+    },
+    "q-be0e51d1.js": {
+      "size": 2011,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194157/index.mdx"
+      ]
+    },
+    "q-be7b91b3.js": {
+      "size": 2600,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/crafts/hunting/index.mdx"
+      ]
+    },
+    "q-bea75983.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/contests/index.mdx"
+      ]
+    },
+    "q-beae5ad5.js": {
+      "size": 4790,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/guilds/association/index.mdx"
+      ]
+    },
+    "q-bef9f109.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/teyel/erh/index.mdx"
+      ]
+    },
+    "q-bfd0fbe5.js": {
+      "size": 3613,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/education/masters/index.mdx"
+      ]
+    },
+    "q-c01f0f55.js": {
+      "size": 1932,
+      "imports": [
+        "q-891e9eaf.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/creatures/index.mdx"
+      ]
+    },
+    "q-c0397962.js": {
+      "size": 6076,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-50c8eda4.js",
+        "q-daba7283.js",
+        "q-ea7b007a.js"
+      ],
+      "origins": [
+        "@qwik-city-sw-register",
+        "node_modules/@builder.io/qwik-city/index.qwik.mjs",
+        "src/components/router-head/router-head.tsx",
+        "src/entry_root.js",
+        "src/s_3sccycdd1z0.js"
+      ],
+      "symbols": [
+        "s_3sccYCDd1Z0"
+      ]
+    },
+    "q-c051c342.js": {
+      "size": 26440,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/science/unlife/index.mdx"
+      ]
+    },
+    "q-c058e361.js": {
+      "size": 1184,
+      "imports": [
+        "q-5cc99f8a.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_copy_box.js",
+        "src/s_2v6meld910m.js",
+        "src/s_tiouaz8d28a.js"
+      ],
+      "symbols": [
+        "s_2v6MeLD910M",
+        "s_tiOuaZ8D28A"
+      ]
+    },
+    "q-c06863ec.js": {
+      "size": 2330,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/silverleaf/index.mdx"
+      ]
+    },
+    "q-c16f0d1c.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-274d3769.js"
+      ],
+      "origins": [
+        "src/components/containers/board/board.tsx"
+      ]
+    },
+    "q-c1cd31ae.js": {
+      "size": 3004,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/twarocvet/index.mdx"
+      ]
+    },
+    "q-c5ca69ff.js": {
+      "size": 7759,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/magic/artifactory/index.mdx"
+      ]
+    },
+    "q-c63ce2fb.js": {
+      "size": 5320,
+      "imports": [
+        "q-1bd50f39.js",
+        "q-34938f48.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/news/03-23/index.mdx"
+      ]
+    },
+    "q-c640cd75.js": {
+      "size": 2140,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49226369/index.mdx"
+      ]
+    },
+    "q-c7ac496b.js": {
+      "size": 1531,
+      "imports": [
+        "q-589cd217.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/magic/branches/influence/index.mdx"
+      ]
+    },
+    "q-c7d17e46.js": {
+      "size": 3240,
+      "imports": [
+        "q-1bd50f39.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/news/02-23/index.mdx"
+      ]
+    },
+    "q-c7fa8cdd.js": {
+      "size": 1412,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49195766/index.mdx"
+      ]
+    },
+    "q-c856e3a2.js": {
+      "size": 46331,
+      "imports": [
+        "q-01a82b54.js",
+        "q-0fe37ce9.js",
+        "q-3c0fe6ed.js",
+        "q-7e540608.js",
+        "q-b1c41f58.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/heroes/maev-tinkera/index.mdx"
+      ]
+    },
+    "q-c908e470.js": {
+      "size": 602,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/transport/index.mdx"
+      ]
+    },
+    "q-c943659b.js": {
+      "size": 2419,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49226365/index.mdx"
+      ]
+    },
+    "q-c9dde41a.js": {
+      "size": 8166,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/druidism/index.mdx"
+      ]
+    },
+    "q-c9eb2ab1.js": {
+      "size": 5278,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/diseases/dragon-skin/index.mdx"
+      ]
+    },
+    "q-ca992fe6.js": {
+      "size": 1876,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194168/index.mdx"
+      ]
+    },
+    "q-ca99d52a.js": {
+      "size": 4883,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/druidism/transformation/index.mdx"
+      ]
+    },
+    "q-cbeb3423.js": {
+      "size": 10904,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/military/index.mdx"
+      ]
+    },
+    "q-cc67e291.js": {
+      "size": 950,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/index.mdx"
+      ]
+    },
+    "q-cca86843.js": {
+      "size": 940,
+      "imports": [
+        "q-237a9261.js",
+        "q-b1c41f58.js",
+        "q-f3f2f623.js"
+      ],
+      "origins": [
+        "src/entry_timeline.js",
+        "src/s_6yguxstuwci.js"
+      ],
+      "symbols": [
+        "s_6YGUXSTUwCI"
+      ]
+    },
+    "q-ccf18da7.js": {
+      "size": 112,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-45aab3b6.js"
+      ],
+      "origins": [
+        "@qwik-city-entries"
+      ]
+    },
+    "q-cd3f09ba.js": {
+      "size": 1265,
+      "imports": [
+        "q-589cd217.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/magic/branches/black/index.mdx"
+      ]
+    },
+    "q-cdfac93c.js": {
+      "size": 111337,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/archive/45yne/index.mdx"
+      ]
+    },
+    "q-cdfdc366.js": {
+      "size": 2148,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194187/index.mdx"
+      ]
+    },
+    "q-cfefe0c6.js": {
+      "size": 691,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-5aeb8d30.js",
+        "q-dfcfb78b.js"
+      ],
+      "origins": [
+        "src/components/character-list/character-list.tsx"
+      ]
+    },
+    "q-d0cdd5b7.js": {
+      "size": 256,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-58765481.js"
+      ],
+      "origins": [
+        "src/routes/layout.tsx"
+      ]
+    },
+    "q-d23c3de7.js": {
+      "size": 611,
+      "imports": [
+        "q-1032d091.js",
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/graveyard/index.mdx"
+      ]
+    },
+    "q-d2a78490.js": {
+      "size": 3481,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/occultism/enigmat/index.mdx"
+      ]
+    },
+    "q-d51bafa7.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-48e3bc2b.js"
+      ],
+      "origins": [
+        "src/components/side-toc/disable-toc.tsx"
+      ]
+    },
+    "q-d581ba47.js": {
+      "size": 1303,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/new-lands/index.mdx"
+      ]
+    },
+    "q-d5c9d1e2.js": {
+      "size": 2621,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194211/index.mdx"
+      ]
+    },
+    "q-d6151291.js": {
+      "size": 3625,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49226364/index.mdx"
+      ]
+    },
+    "q-d6fcd4a2.js": {
+      "size": 455,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-de86f46d.js"
+      ],
+      "origins": [
+        "src/routes/menu/tools/maps/geographical/index.mdx"
+      ]
+    },
+    "q-d7afc03d.js": {
+      "size": 4260,
+      "imports": [
+        "q-3ccade93.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/mechanics/naat-guns/index.mdx"
+      ]
+    },
+    "q-da9ca0a8.js": {
+      "size": 3406,
+      "imports": [
+        "q-3c0fe6ed.js",
+        "q-7e540608.js",
+        "q-b1c41f58.js",
+        "q-e72f4e52.js"
+      ],
+      "origins": [
+        "src/entry_character_card.js",
+        "src/s_pfrrxryvipc.js"
+      ],
+      "symbols": [
+        "s_PfrrxRyvipc"
+      ]
+    },
+    "q-daba7283.js": {
+      "size": 58471,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-c0397962.js"
+      ],
+      "dynamicImports": [
+        "q-016210b0.js",
+        "q-019e659a.js",
+        "q-022d753b.js",
+        "q-02fab340.js",
+        "q-037c7879.js",
+        "q-03e039fa.js",
+        "q-049cbf03.js",
+        "q-04f146da.js",
+        "q-05304e33.js",
+        "q-05f95074.js",
+        "q-07dee42a.js",
+        "q-081fba6a.js",
+        "q-08cb016a.js",
+        "q-0944dba1.js",
+        "q-096c6a32.js",
+        "q-097c6322.js",
+        "q-09839ec7.js",
+        "q-0a20471c.js",
+        "q-0b610068.js",
+        "q-0b82aed3.js",
+        "q-0c246613.js",
+        "q-0c7d1051.js",
+        "q-0c97e5d0.js",
+        "q-0d7f33b0.js",
+        "q-0d8f0eb7.js",
+        "q-0df3bca3.js",
+        "q-0eacbbde.js",
+        "q-0f5efd77.js",
+        "q-10147483.js",
+        "q-104f4abd.js",
+        "q-10b6a3b3.js",
+        "q-1254a4a1.js",
+        "q-12636471.js",
+        "q-164e3eb8.js",
+        "q-16950478.js",
+        "q-17427778.js",
+        "q-17f43311.js",
+        "q-17f9e9cf.js",
+        "q-184a7b4a.js",
+        "q-1b66f032.js",
+        "q-1be92667.js",
+        "q-1c441c1a.js",
+        "q-1cb17694.js",
+        "q-1cd10c7f.js",
+        "q-1dfbec0a.js",
+        "q-1e31930c.js",
+        "q-1e36e7f8.js",
+        "q-1eb42c87.js",
+        "q-2108e687.js",
+        "q-227c4612.js",
+        "q-23bc8b21.js",
+        "q-25996190.js",
+        "q-2612570a.js",
+        "q-27cb1150.js",
+        "q-28e29e91.js",
+        "q-290fcf10.js",
+        "q-297ef8d6.js",
+        "q-2b7993e3.js",
+        "q-2bad9c46.js",
+        "q-2bca7432.js",
+        "q-2c607fcd.js",
+        "q-2c714d37.js",
+        "q-2cc36770.js",
+        "q-2cd1b289.js",
+        "q-2d7a8cbe.js",
+        "q-2dc2c09e.js",
+        "q-2f105f9c.js",
+        "q-308f1138.js",
+        "q-31774be4.js",
+        "q-31845b7b.js",
+        "q-34225107.js",
+        "q-34404a3d.js",
+        "q-34ca1255.js",
+        "q-392b76cc.js",
+        "q-39796454.js",
+        "q-3a5319bb.js",
+        "q-3c3c4280.js",
+        "q-3c463d23.js",
+        "q-3c93eab1.js",
+        "q-3cab13e6.js",
+        "q-3e372293.js",
+        "q-3f9bee99.js",
+        "q-40a13e4f.js",
+        "q-40c99d61.js",
+        "q-41a9698d.js",
+        "q-42819d5a.js",
+        "q-42cbdaf8.js",
+        "q-436b996e.js",
+        "q-44c80fb4.js",
+        "q-45d92144.js",
+        "q-46c406ca.js",
+        "q-4780ed81.js",
+        "q-47b578e4.js",
+        "q-499eeab6.js",
+        "q-49b3608d.js",
+        "q-4bf9c7e0.js",
+        "q-4dc74996.js",
+        "q-4e177a19.js",
+        "q-4ebb3d27.js",
+        "q-4ffb93d4.js",
+        "q-513adb7e.js",
+        "q-51d60608.js",
+        "q-525c1b13.js",
+        "q-52a50135.js",
+        "q-53872d3b.js",
+        "q-54807577.js",
+        "q-54b028a2.js",
+        "q-54f76941.js",
+        "q-551d14e9.js",
+        "q-55bf9936.js",
+        "q-564aa891.js",
+        "q-56af37c0.js",
+        "q-57355acf.js",
+        "q-5844a54d.js",
+        "q-58551fdd.js",
+        "q-58cd2e43.js",
+        "q-58d8bae6.js",
+        "q-60727650.js",
+        "q-61827041.js",
+        "q-623e868d.js",
+        "q-62aab12b.js",
+        "q-62fdb1b1.js",
+        "q-6315d18a.js",
+        "q-6409db12.js",
+        "q-6498f917.js",
+        "q-64b741dd.js",
+        "q-66e10e52.js",
+        "q-66ef03bb.js",
+        "q-673dea4f.js",
+        "q-67488125.js",
+        "q-679aaeff.js",
+        "q-686a72d7.js",
+        "q-6984d76f.js",
+        "q-6af236f6.js",
+        "q-6b36d81e.js",
+        "q-6bebbfde.js",
+        "q-6ca153dd.js",
+        "q-6da2f934.js",
+        "q-6ed7eceb.js",
+        "q-70b259d8.js",
+        "q-720a004c.js",
+        "q-7435ccd6.js",
+        "q-747045f4.js",
+        "q-75e050eb.js",
+        "q-76046b25.js",
+        "q-764a8a59.js",
+        "q-765c9d6a.js",
+        "q-76d09132.js",
+        "q-77c0ada5.js",
+        "q-7870017c.js",
+        "q-7af05197.js",
+        "q-7be8d03a.js",
+        "q-7c0df2d7.js",
+        "q-7ee4a73e.js",
+        "q-7f11bbd9.js",
+        "q-809a7e46.js",
+        "q-81932bb0.js",
+        "q-819bbe08.js",
+        "q-8299fdfb.js",
+        "q-847d7bdc.js",
+        "q-8763e817.js",
+        "q-8996c63d.js",
+        "q-8c2570c6.js",
+        "q-8c3bddc1.js",
+        "q-8d1b6f72.js",
+        "q-8dc60436.js",
+        "q-8e618100.js",
+        "q-8e6caa6c.js",
+        "q-914cf1c7.js",
+        "q-918ec02e.js",
+        "q-91c1bd9d.js",
+        "q-92b759c7.js",
+        "q-931aa6c3.js",
+        "q-93963cac.js",
+        "q-93bf5e66.js",
+        "q-93c3c1e9.js",
+        "q-94f4df3d.js",
+        "q-951d6117.js",
+        "q-9673c9f0.js",
+        "q-96d7052f.js",
+        "q-96ed1af4.js",
+        "q-9894d991.js",
+        "q-996f7c44.js",
+        "q-9a87be47.js",
+        "q-9bfbeef0.js",
+        "q-9d0e1dfb.js",
+        "q-9d377248.js",
+        "q-9e72cfe9.js",
+        "q-9e843da9.js",
+        "q-9f2cd094.js",
+        "q-9f462403.js",
+        "q-9fcfa9d7.js",
+        "q-a0f655a7.js",
+        "q-a168fb74.js",
+        "q-a268a4cd.js",
+        "q-a3fbc7ea.js",
+        "q-a4df6c07.js",
+        "q-a6a071e3.js",
+        "q-a6f52327.js",
+        "q-a77d5ea5.js",
+        "q-a7a463b4.js",
+        "q-a7e6cc94.js",
+        "q-a8f64700.js",
+        "q-a917197a.js",
+        "q-a9ccafc4.js",
+        "q-ab8dbc83.js",
+        "q-ac463457.js",
+        "q-ac852a62.js",
+        "q-ad1f76d4.js",
+        "q-ad316ba1.js",
+        "q-ad495274.js",
+        "q-ae12a07f.js",
+        "q-ae3f200d.js",
+        "q-ae4c91fc.js",
+        "q-ae737462.js",
+        "q-aea44625.js",
+        "q-aec9eac8.js",
+        "q-af0bf75f.js",
+        "q-b04bf93f.js",
+        "q-b1ea819e.js",
+        "q-b3969eb9.js",
+        "q-b4eb43b3.js",
+        "q-b5ac3edb.js",
+        "q-b60d7807.js",
+        "q-b7b414ac.js",
+        "q-b7ef108d.js",
+        "q-b9bb248c.js",
+        "q-ba3468e7.js",
+        "q-bb4458cd.js",
+        "q-bb97a34f.js",
+        "q-bc36c533.js",
+        "q-bcd376a0.js",
+        "q-bcee287b.js",
+        "q-bcee6505.js",
+        "q-bd2b50bb.js",
+        "q-bdb829ef.js",
+        "q-be0e51d1.js",
+        "q-be7b91b3.js",
+        "q-bea75983.js",
+        "q-beae5ad5.js",
+        "q-bef9f109.js",
+        "q-bfd0fbe5.js",
+        "q-c01f0f55.js",
+        "q-c051c342.js",
+        "q-c06863ec.js",
+        "q-c1cd31ae.js",
+        "q-c5ca69ff.js",
+        "q-c63ce2fb.js",
+        "q-c640cd75.js",
+        "q-c7ac496b.js",
+        "q-c7d17e46.js",
+        "q-c7fa8cdd.js",
+        "q-c856e3a2.js",
+        "q-c908e470.js",
+        "q-c943659b.js",
+        "q-c9dde41a.js",
+        "q-c9eb2ab1.js",
+        "q-ca992fe6.js",
+        "q-ca99d52a.js",
+        "q-cbeb3423.js",
+        "q-cc67e291.js",
+        "q-ccf18da7.js",
+        "q-cd3f09ba.js",
+        "q-cdfac93c.js",
+        "q-cdfdc366.js",
+        "q-d0cdd5b7.js",
+        "q-d23c3de7.js",
+        "q-d2a78490.js",
+        "q-d581ba47.js",
+        "q-d5c9d1e2.js",
+        "q-d6151291.js",
+        "q-d6fcd4a2.js",
+        "q-d7afc03d.js",
+        "q-dafe7a82.js",
+        "q-db34c5aa.js",
+        "q-dc925924.js",
+        "q-ddcdf3ea.js",
+        "q-de5b93c3.js",
+        "q-de7896af.js",
+        "q-e117d0e7.js",
+        "q-e17f1528.js",
+        "q-e19bb7d7.js",
+        "q-e2caaff0.js",
+        "q-e3198bf8.js",
+        "q-e42fdedf.js",
+        "q-e4a940b6.js",
+        "q-e630bdf1.js",
+        "q-e7cd578d.js",
+        "q-e806ced8.js",
+        "q-e847f28f.js",
+        "q-e8930a26.js",
+        "q-e9f74bbe.js",
+        "q-ea26f42c.js",
+        "q-eab22a31.js",
+        "q-eac19c1a.js",
+        "q-eba1b22c.js",
+        "q-edc17dea.js",
+        "q-ee0ea6a0.js",
+        "q-eeaa0b5b.js",
+        "q-ef6fe1cc.js",
+        "q-ef759f5b.js",
+        "q-f044c86e.js",
+        "q-f06778f0.js",
+        "q-f1e51a6d.js",
+        "q-f21a3fa4.js",
+        "q-f26af1b2.js",
+        "q-f32b523a.js",
+        "q-f34dcfcd.js",
+        "q-f3f3c0cf.js",
+        "q-f56c126c.js",
+        "q-f604e4bf.js",
+        "q-f60caa18.js",
+        "q-f654eaf7.js",
+        "q-f65ece43.js",
+        "q-f6a5ffab.js",
+        "q-f6cd18f8.js",
+        "q-f7d7023d.js",
+        "q-f8b07c85.js",
+        "q-f9451c57.js",
+        "q-f9601c14.js",
+        "q-f992c888.js",
+        "q-faf68b6a.js",
+        "q-fbd9bbcb.js",
+        "q-fd519b42.js",
+        "q-fd68e9f9.js",
+        "q-fe737561.js",
+        "q-ff69620c.js",
+        "q-ffb3539a.js"
+      ],
+      "origins": [
+        "@qwik-city-plan",
+        "src/entry_QwikCityProvider.js",
+        "src/s_02wmimzeabk.js",
+        "src/s_fx0bdjeja0e.js",
+        "src/s_txcfoy819ag.js"
+      ],
+      "symbols": [
+        "s_02wMImzEAbk",
+        "s_fX0bDjeJa0E",
+        "s_TxCFOy819ag"
+      ]
+    },
+    "q-dafe7a82.js": {
+      "size": 10376,
+      "imports": [
+        "q-72b53a9d.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-cfefe0c6.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "dynamicImports": [
+        "q-93dd0963.js"
+      ],
+      "origins": [
+        "src/components/visuals/glitchy-text/glitchy-text.tsx",
+        "src/routes/menu/navigation/states/afitra/index.mdx"
+      ]
+    },
+    "q-db34c5aa.js": {
+      "size": 2171,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/crafts/rhetoric/index.mdx"
+      ]
+    },
+    "q-dc925924.js": {
+      "size": 1882,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/crafts/art/index.mdx"
+      ]
+    },
+    "q-dd1ce2e7.js": {
+      "size": 341,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_timestamp.js",
+        "src/s_dwutut700ay.js"
+      ],
+      "symbols": [
+        "s_DWutUT700AY"
+      ]
+    },
+    "q-dd9d0a6a.js": {
+      "size": 947,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_button_rect.js",
+        "src/s_qe0vbbcwvtm.js"
+      ],
+      "symbols": [
+        "s_QE0VBbcWVTM"
+      ]
+    },
+    "q-ddcdf3ea.js": {
+      "size": 3817,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/jumping-parsnip/index.mdx"
+      ]
+    },
+    "q-de5b93c3.js": {
+      "size": 409,
+      "imports": [
+        "q-589cd217.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/magic/branches/runes/index.mdx"
+      ]
+    },
+    "q-de7896af.js": {
+      "size": 6080,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/insects/scorpus/index.mdx"
+      ]
+    },
+    "q-de86f46d.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-5e7f6c90.js"
+      ],
+      "origins": [
+        "src/components/tools/map/map.tsx"
+      ]
+    },
+    "q-dfcfb78b.js": {
+      "size": 838,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js"
+      ],
+      "origins": [
+        "src/entry_Character.js",
+        "src/s_rvcz3czii5o.js"
+      ],
+      "symbols": [
+        "s_RvcZ3CzIi5o"
+      ]
+    },
+    "q-e117d0e7.js": {
+      "size": 3399,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/transport/railroad/index.mdx"
+      ]
+    },
+    "q-e17f1528.js": {
+      "size": 3212,
+      "imports": [
+        "q-891e9eaf.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/elementals/index.mdx"
+      ]
+    },
+    "q-e19bb7d7.js": {
+      "size": 2131,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194194/index.mdx"
+      ]
+    },
+    "q-e28370e1.js": {
+      "size": 1441,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_button_cover.js",
+        "src/s_i3jjzylbu58.js"
+      ],
+      "symbols": [
+        "s_i3JjzylBU58"
+      ]
+    },
+    "q-e2caaff0.js": {
+      "size": 9547,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/manual/leveling/index.mdx"
+      ]
+    },
+    "q-e3198bf8.js": {
+      "size": 1552,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194178/index.mdx"
+      ]
+    },
+    "q-e42fdedf.js": {
+      "size": 2607,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194209/index.mdx"
+      ]
+    },
+    "q-e4a940b6.js": {
+      "size": 1760,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/glace/index.mdx"
+      ]
+    },
+    "q-e630bdf1.js": {
+      "size": 2689,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/lifegrowherb/index.mdx"
+      ]
+    },
+    "q-e72f4e52.js": {
+      "size": 8701,
+      "origins": [
+        "src/routes/menu/characters/canons/canons.js",
+        "src/routes/menu/characters/graveyard/grave.js",
+        "src/routes/menu/characters/heroes/heroes.js",
+        "src/routes/menu/characters/wanted/wanted.js"
+      ]
+    },
+    "q-e7cd578d.js": {
+      "size": 2178,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/paleleaf/index.mdx"
+      ]
+    },
+    "q-e806ced8.js": {
+      "size": 6254,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/index.mdx"
+      ]
+    },
+    "q-e847f28f.js": {
+      "size": 35851,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/archive/46yne/index.mdx"
+      ]
+    },
+    "q-e8930a26.js": {
+      "size": 8676,
+      "imports": [
+        "q-72b53a9d.js",
+        "q-b1c41f58.js",
+        "q-cfefe0c6.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/states/flatria/index.mdx"
+      ]
+    },
+    "q-e9ee7cdd.js": {
+      "size": 400,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_button_header.js",
+        "src/s_6szai07yyme.js"
+      ],
+      "symbols": [
+        "s_6szaI07YYmE"
+      ]
+    },
+    "q-e9ef71e8.js": {
+      "size": 221,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_news_url.js",
+        "src/s_1fl4ynlid70.js"
+      ],
+      "symbols": [
+        "s_1fL4yNLID70"
+      ]
+    },
+    "q-e9f74bbe.js": {
+      "size": 4400,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/aquatic/khirda/index.mdx"
+      ]
+    },
+    "q-ea26f42c.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/global/hammers-and-anvils/index.mdx"
+      ]
+    },
+    "q-ea67baec.js": {
+      "size": 431,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eda0e0d1.js"
+      ],
+      "origins": [
+        "src/entry_magic_rune.js",
+        "src/s_wqou3m9u0g0.js"
+      ],
+      "symbols": [
+        "s_WQoU3M9U0g0"
+      ]
+    },
+    "q-ea7ae2b3.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-fe8dcfc8.js"
+      ],
+      "origins": [
+        "src/components/containers/author-pic/author-pic.tsx"
+      ]
+    },
+    "q-ea7b007a.js": {
+      "size": 756,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-c0397962.js"
+      ],
+      "origins": [
+        "src/entry_RouterOutlet.js",
+        "src/s_aketnbye5tm.js",
+        "src/s_xei06o8voju.js"
+      ],
+      "symbols": [
+        "s_AKetNByE5TM",
+        "s_xEi06O8vOjU"
+      ]
+    },
+    "q-eab22a31.js": {
+      "size": 3761,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/mushrooms/ghostool/index.mdx"
+      ]
+    },
+    "q-eac19c1a.js": {
+      "size": 1342,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49195771/index.mdx"
+      ]
+    },
+    "q-eba1b22c.js": {
+      "size": 17228,
+      "imports": [
+        "q-01a82b54.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/vampires/index.mdx"
+      ]
+    },
+    "q-eda0e0d1.js": {
+      "size": 20737,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/magic/runesList.jsx"
+      ]
+    },
+    "q-edc17dea.js": {
+      "size": 1788,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/mutants/index.mdx"
+      ]
+    },
+    "q-ee0ea6a0.js": {
+      "size": 1629,
+      "imports": [
+        "q-47422dc0.js",
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/index.mdx"
+      ]
+    },
+    "q-eeaa0b5b.js": {
+      "size": 5289,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/bestiary/aquatic/bitenia/index.mdx"
+      ]
+    },
+    "q-eebce870.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-e28370e1.js"
+      ],
+      "origins": [
+        "src/components/controls/button-cover/button-cover.tsx"
+      ]
+    },
+    "q-ef6fe1cc.js": {
+      "size": 2448,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49195843/index.mdx"
+      ]
+    },
+    "q-ef759f5b.js": {
+      "size": 5476,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-7b50f0ab.js",
+        "q-b1c41f58.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/manual/about/index.mdx"
+      ]
+    },
+    "q-f044c86e.js": {
+      "size": 1776,
+      "imports": [
+        "q-01a82b54.js",
+        "q-8a5efe10.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/local/shards/index.mdx"
+      ]
+    },
+    "q-f06778f0.js": {
+      "size": 2406,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194177/index.mdx"
+      ]
+    },
+    "q-f1e51a6d.js": {
+      "size": 2618,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49194196/index.mdx"
+      ]
+    },
+    "q-f21a3fa4.js": {
+      "size": 2467,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-72b53a9d.js",
+        "q-b1c41f58.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/index.mdx"
+      ]
+    },
+    "q-f26af1b2.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/alchemy/index.mdx"
+      ]
+    },
+    "q-f2fbad8e.js": {
+      "size": 223,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-cca86843.js"
+      ],
+      "origins": [
+        "src/components/tools/timeline/timeline.tsx"
+      ]
+    },
+    "q-f32b523a.js": {
+      "size": 15395,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/law/index.mdx"
+      ]
+    },
+    "q-f34dcfcd.js": {
+      "size": 2641,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/strangler/index.mdx"
+      ]
+    },
+    "q-f3f2f623.js": {
+      "size": 14723,
+      "origins": [
+        "src/routes/menu/history/timeline/timeline.jsx"
+      ]
+    },
+    "q-f3f3c0cf.js": {
+      "size": 2608,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/crawlherb/index.mdx"
+      ]
+    },
+    "q-f56c126c.js": {
+      "size": 4268,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/druidism/dark/index.mdx"
+      ]
+    },
+    "q-f604e4bf.js": {
+      "size": 1125,
+      "imports": [
+        "q-8675ea59.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/guilds/index.mdx"
+      ]
+    },
+    "q-f60caa18.js": {
+      "size": 3127,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49232598/index.mdx"
+      ]
+    },
+    "q-f654eaf7.js": {
+      "size": 4367,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/mushrooms/malica/index.mdx"
+      ]
+    },
+    "q-f65ece43.js": {
+      "size": 7163,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/magic/places/index.mdx"
+      ]
+    },
+    "q-f6a5ffab.js": {
+      "size": 5397,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js",
+        "q-c16f0d1c.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/occultism/tarot/index.mdx"
+      ]
+    },
+    "q-f6cd18f8.js": {
+      "size": 2254,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/herbs/glory/index.mdx"
+      ]
+    },
+    "q-f7d00192.js": {
+      "size": 179,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "dynamicImports": [
+        "q-7a8c6288.js"
+      ],
+      "origins": [
+        "src/components/containers/blockquote-box/blockquote-box.tsx"
+      ]
+    },
+    "q-f7d7023d.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/reabor-thaes/arterinart/index.mdx"
+      ]
+    },
+    "q-f8b07c85.js": {
+      "size": 2120,
+      "imports": [
+        "q-47422dc0.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/education/index.mdx"
+      ]
+    },
+    "q-f9451c57.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/teyel/ditkrik/index.mdx"
+      ]
+    },
+    "q-f9601c14.js": {
+      "size": 548,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-c0397962.js"
+      ],
+      "dynamicImports": [
+        "q-5ef67c61.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/gallery/index.tsx"
+      ]
+    },
+    "q-f98c8905.js": {
+      "size": 58,
+      "imports": [
+        "q-b1c41f58.js"
+      ]
+    },
+    "q-f992c888.js": {
+      "size": 1373,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/navigation/locations/location_49195768/index.mdx"
+      ]
+    },
+    "q-faf68b6a.js": {
+      "size": 2166,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/algae/trikwim/index.mdx"
+      ]
+    },
+    "q-fbd9bbcb.js": {
+      "size": 13202,
+      "imports": [
+        "q-01a82b54.js",
+        "q-3c0fe6ed.js",
+        "q-522ef0a0.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/meries/index.mdx"
+      ]
+    },
+    "q-fd519b42.js": {
+      "size": 2402,
+      "imports": [
+        "q-0fe37ce9.js",
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/crafts/warfare/index.mdx"
+      ]
+    },
+    "q-fd68e9f9.js": {
+      "size": 12611,
+      "imports": [
+        "q-01a82b54.js",
+        "q-0fe37ce9.js",
+        "q-237a9261.js",
+        "q-b1c41f58.js",
+        "q-eebce870.js",
+        "q-f7d00192.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/outgoing-age/ruins-haze/index.mdx"
+      ]
+    },
+    "q-fe737561.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/local/song/index.mdx"
+      ]
+    },
+    "q-fe8dcfc8.js": {
+      "size": 438,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_author_pic.js",
+        "src/s_fglnqqxzb0g.js"
+      ],
+      "symbols": [
+        "s_FGlnQqXZB0g"
+      ]
+    },
+    "q-ff69620c.js": {
+      "size": 1883,
+      "imports": [
+        "q-b1c41f58.js",
+        "q-eebce870.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/books/herbarium/minerals/dairad/index.mdx"
+      ]
+    },
+    "q-ffb3539a.js": {
+      "size": 303,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/outgoing-age/decade/index.mdx"
+      ]
+    },
+    "q-fff74584.js": {
+      "size": 1494,
+      "imports": [
+        "q-b1c41f58.js"
+      ],
+      "origins": [
+        "src/entry_button_book.js",
+        "src/s_c0628t0nwcu.js"
+      ],
+      "symbols": [
+        "s_C0628t0nWCU"
+      ]
+    }
+  },
+  "injections": [
+    {
+      "tag": "link",
+      "location": "head",
+      "attributes": {
+        "rel": "stylesheet",
+        "href": "/build/q-3a43b3d8.css"
+      }
+    }
+  ],
+  "version": "1",
+  "options": {
+    "target": "client",
+    "buildMode": "production",
+    "forceFullBuild": true,
+    "entryStrategy": {
+      "type": "smart"
+    }
+  },
+  "platform": {
+    "qwik": "0.23.0",
+    "vite": "",
+    "rollup": "3.25.3",
+    "env": "node",
+    "os": "win32",
+    "node": "16.13.2"
+  }
+}

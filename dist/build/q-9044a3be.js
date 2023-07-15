@@ -1,0 +1,1 @@
+import{c as n}from"./q-b1c41f58.js";const c=r=>{var t;const s=(t=r.tags)==null?void 0:t.split(", ");return n("div",null,{class:"quest-tags"},s==null?void 0:s.map((i,l)=>n("div",null,{class:"tag"},i,1,"ind")),1,"j1_0")};export{c as s_0g8Pix2dOVM};

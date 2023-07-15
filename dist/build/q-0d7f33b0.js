@@ -1,0 +1,2 @@
+import{m as n,N as a,$ as t,S as i}from"./q-b1c41f58.js";import{C as s}from"./q-cfefe0c6.js";import{C as l}from"./q-1032d091.js";const f={title:"Герои",meta:[],styles:[],links:[],frontmatter:{}},p={title:"Герои"};function o(e){return t(i,{children:[t(l,{topSubtitle:"Регистр",title:"Персонажей"}),`
+`,t(s,{sexFilter:!0,letterFilter:!0,nationFilter:!0,data:"heroes"})]})}function c(e={}){const{wrapper:r}=e.components||{};return r?t(r,Object.assign({},e,{children:t(o,e)})):o()}const C=()=>n(a,{children:n(c,{},3,null)},3,"z-9kwmoY");export{C as default,p as frontmatter,f as head};

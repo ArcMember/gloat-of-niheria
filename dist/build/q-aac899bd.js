@@ -1,0 +1,1 @@
+import{P as i,c as a,m as r,t as d,F as t}from"./q-b1c41f58.js";const c=n=>(i(),a("span",null,{class:t(e=>`niheria-heading niheria-h${e.size}`+(e.center?" center":"")+(e.caps?" caps":"")+(e.underlined?" underlined":"")+(e.nogradient?" nogradient":""),[n])},[n.text==null&&r(d,null,3,"im_0"),t(e=>e.text!=null&&e.text,[n])],1,"im_1"));export{c as s_KNC4O24MC1k};
