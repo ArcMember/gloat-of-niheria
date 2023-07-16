@@ -1,1 +1,0 @@
-import{c as l,F as n}from"./q-69b48860.js";const u=s=>{let t;return s.noheading?t=l("div",null,{class:"time"},l("span",null,{class:"data"},n(a=>a.text,[s]),3,null),3,"P3_0"):t=l("h5",null,{class:"time"},l("span",null,{class:"data"},n(a=>a.text,[s]),3,null),3,"P3_1"),l("div",null,{class:"timestamp"},t,1,"P3_2")};export{u as s_DWutUT700AY};
