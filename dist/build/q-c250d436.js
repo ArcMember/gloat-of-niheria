@@ -1,1 +1,0 @@
-import{c as l,m as r,t as a,F as e}from"./q-faf0087e.js";const t=s=>l("a",null,{class:"news-url",href:e(n=>n.href,[s])},[r(a,null,3,"9G_0"),l("span",null,{class:"line"},null,3,null)],1,"9G_1");export{t as s_1fL4yNLID70};

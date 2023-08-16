@@ -1,4 +1,0 @@
-import{m as r,N as s,$ as t,S as a}from"./q-faf0087e.js";import{B as c}from"./q-81e9b3c9.js";import{Q as i}from"./q-9ee82ac8.js";import{A as m}from"./q-0338ab04.js";const g={title:"Раскаты Драмы",meta:[],styles:[],links:[],frontmatter:{}},h={title:"Раскаты Драмы"};function o(n){const e=Object.assign({p:"p",strong:"strong"},n.components);return t(a,{children:[t(c,{title:"Раскаты Драмы",src:"pic.jpg"}),`
-`,t(i,{tags:"Локальный, Парный, Детектив"}),`
-`,t(m,{src:"The Rolling Stones - Paint it black.mp3"}),`
-`,t(e.p,{children:[t(e.strong,{children:"Возможный результат:"})," неизвестен."]})]})}function l(n={}){const{wrapper:e}=n.components||{};return e?t(e,Object.assign({},n,{children:t(o,n)})):o(n)}const j=()=>r(s,{children:r(l,{},3,null)},3,"w2jBcdNF");export{j as default,h as frontmatter,g as head};
