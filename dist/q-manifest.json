@@ -1779,7 +1779,7 @@
         "q-1873cb32.js"
       ],
       "origins": [
-        "src/routes/menu/characters/canons/teyel/teodor/index.mdx"
+        "src/routes/menu/characters/canons/teyel/ditkrik/index.mdx"
       ]
     },
     "q-018c4b38.js": {
@@ -2831,7 +2831,7 @@
         "q-1873cb32.js"
       ],
       "origins": [
-        "src/routes/menu/history/old-time/red-dawn/index.mdx"
+        "src/routes/menu/history/outgoing-age/decade/index.mdx"
       ]
     },
     "q-30238ce4.js": {
@@ -3122,7 +3122,7 @@
         "q-4847f381.js"
       ],
       "origins": [
-        "src/routes/menu/skills/occultism/enigmat/light/index.mdx"
+        "src/routes/menu/skills/occultism/enigmat/dark/index.mdx"
       ]
     },
     "q-3c0b67dd.js": {
@@ -3247,7 +3247,7 @@
         "q-1873cb32.js"
       ],
       "origins": [
-        "src/routes/menu/characters/canons/teyel/mattor/index.mdx"
+        "src/routes/menu/characters/canons/teyel/galan/index.mdx"
       ]
     },
     "q-44f9e0f6.js": {
@@ -3385,7 +3385,7 @@
         "q-1873cb32.js"
       ],
       "origins": [
-        "src/routes/menu/characters/canons/reabor-thaes/terrict/index.mdx"
+        "src/routes/menu/characters/canons/teyel/granta/index.mdx"
       ]
     },
     "q-4e75f139.js": {
@@ -5136,7 +5136,7 @@
         "q-1873cb32.js"
       ],
       "origins": [
-        "src/routes/menu/history/outgoing-age/decade/index.mdx"
+        "src/routes/menu/history/old-time/red-dawn/index.mdx"
       ]
     },
     "q-af02b74b.js": {
@@ -5301,7 +5301,7 @@
         "q-4847f381.js"
       ],
       "origins": [
-        "src/routes/menu/skills/occultism/enigmat/dark/index.mdx"
+        "src/routes/menu/skills/occultism/enigmat/light/index.mdx"
       ]
     },
     "q-bbc8ac1d.js": {
@@ -5399,7 +5399,7 @@
         "q-1873cb32.js"
       ],
       "origins": [
-        "src/routes/menu/characters/canons/teyel/erh/index.mdx"
+        "src/routes/menu/characters/canons/teyel/teodor/index.mdx"
       ]
     },
     "q-c1b511bd.js": {
@@ -5474,7 +5474,7 @@
         "q-1873cb32.js"
       ],
       "origins": [
-        "src/routes/menu/characters/canons/teyel/ditkrik/index.mdx"
+        "src/routes/menu/characters/canons/teyel/erh/index.mdx"
       ]
     },
     "q-c3e6d822.js": {
@@ -5810,7 +5810,7 @@
         "q-1873cb32.js"
       ],
       "origins": [
-        "src/routes/menu/characters/canons/teyel/galan/index.mdx"
+        "src/routes/menu/characters/canons/reabor-thaes/terrict/index.mdx"
       ]
     },
     "q-d33a3f3d.js": {
@@ -6208,7 +6208,7 @@
         "q-1873cb32.js"
       ],
       "origins": [
-        "src/routes/menu/characters/canons/teyel/granta/index.mdx"
+        "src/routes/menu/characters/canons/teyel/mattor/index.mdx"
       ]
     },
     "q-e2675399.js": {
