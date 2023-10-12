@@ -1,1 +1,0 @@
-import{P as t,m as l,c as n,t as d,S as r}from"./q-1873cb32.js";const c=e=>(t(),l(r,{children:[e.locked!=null&&e.showLabel!=null&&n("div",null,{center:!0,style:"padding: 20px;"},n("i",null,null,"Содержание скрыто с глаз долой",3,null),3,"77_0"),e.locked!=!0&&l(d,null,3,"77_1")]},1,"77_2"));export{c as s_cMALS9m2FUo};

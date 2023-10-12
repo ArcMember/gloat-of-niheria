@@ -1,0 +1,1 @@
+import{d as t,a as n,g as l}from"./q-0a61ba82.js";const e=r=>t(l,{children:[...Array(r.length)].map((o,a)=>n("span",null,{class:"arcane-text t"+Math.floor(Math.random()*10)},null,3,a))},1,"Lw_0");export{e as s_Fj7o4QhCfJI};

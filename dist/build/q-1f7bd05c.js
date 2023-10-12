@@ -1,3 +1,0 @@
-import{m as r,N as i,$ as t,S as s}from"./q-1873cb32.js";import{B as c}from"./q-4102d300.js";import{A as a}from"./q-cc27d9c5.js";const p={title:"Инфердормис",meta:[],styles:[],links:[],frontmatter:{}},f={title:"Инфердормис"};function o(n){const e=Object.assign({p:"p"},n.components);return t(s,{children:[t("div",{class:"opacity-glitch",children:t(c,{title:"Инфердормис",src:"/menu/guidebook/guilds/inferdormis/pic.jpg"})}),`
-`,t("div",{center:!0,children:t(e.p,{children:"?"})}),`
-`,t(a,{src:"/menu/guidebook/guilds/inferdormis/Nonpoint - What A Day.mp3"})]})}function d(n={}){const{wrapper:e}=n.components||{};return e?t(e,Object.assign({},n,{children:t(o,n)})):o(n)}const h=()=>r(i,{children:r(d,{},3,null)},3,"r7WOeb76");export{h as default,f as frontmatter,p as head};
