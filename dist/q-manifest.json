@@ -1,5 +1,5 @@
 {
-  "manifestHash": "evpjwl",
+  "manifestHash": "w1gvbw",
   "symbols": {
     "s_0vWA1CcTeVI": {
       "origin": "components/tools/magic/magic-spell.tsx",
@@ -2650,44 +2650,44 @@
   },
   "mapping": {
     "s_0vWA1CcTeVI": "q-ee735b5c.js",
-    "s_02wMImzEAbk": "q-b03f58f0.js",
+    "s_02wMImzEAbk": "q-620ee464.js",
     "s_1l4zgmoiZ1c": "q-4ed8307b.js",
     "s_2107xxBnZ0o": "q-ae5db4af.js",
     "s_5N3b6HlxHi8": "q-d2465c47.js",
     "s_5T2TfEvRomQ": "q-872787c3.js",
     "s_5WAMIkm1iWI": "q-49255353.js",
-    "s_8gdLBszqbaM": "q-69654f90.js",
+    "s_8gdLBszqbaM": "q-0ab8e107.js",
     "s_D0g9d1reegc": "q-c2f68cd9.js",
     "s_G4jwZmMZizw": "q-427db512.js",
     "s_JAKe2w9znmI": "q-cd527e4a.js",
     "s_Ja0aSbYx7xw": "q-0873080d.js",
     "s_JktrEEpbnQs": "q-d000b81f.js",
     "s_JuTI5XnqLy0": "q-a3b2889b.js",
-    "s_Nk9PlpjQm9Y": "q-7fcd8dab.js",
+    "s_Nk9PlpjQm9Y": "q-cf9b3ae1.js",
     "s_NlYYANX0jzE": "q-c8036e13.js",
     "s_Sw5k4t8ghmA": "q-d05029a8.js",
-    "s_TxCFOy819ag": "q-b03f58f0.js",
+    "s_TxCFOy819ag": "q-620ee464.js",
     "s_U5USB2XUGSg": "q-868c7139.js",
-    "s_VKFlAWJuVm8": "q-2fb87382.js",
-    "s_WmYC5H00wtI": "q-1b90142a.js",
+    "s_VKFlAWJuVm8": "q-75a24aa3.js",
+    "s_WmYC5H00wtI": "q-c95d6b2c.js",
     "s_ddK0l2AadzY": "q-b23f9017.js",
-    "s_e0ssiDXoeAM": "q-136b9895.js",
+    "s_e0ssiDXoeAM": "q-6942e5bb.js",
     "s_hj61259Xq2g": "q-07d3ec21.js",
     "s_iV6zxtrUxHA": "q-03558038.js",
     "s_iXxfic6OI2w": "q-5d13bd57.js",
     "s_ls0uN8peKU0": "q-00bdbcf8.js",
-    "s_m1u963AliAg": "q-b92c53fd.js",
+    "s_m1u963AliAg": "q-9f4c11c8.js",
     "s_nlNyiAUOUzY": "q-9b917640.js",
     "s_s2wHUJybZSE": "q-30721147.js",
     "s_uR52YrdVwDg": "q-f8dfcf7e.js",
-    "s_vEy93aPm8AQ": "q-b7ae1503.js",
+    "s_vEy93aPm8AQ": "q-ba7132e3.js",
     "s_vc0ccrC9ZmA": "q-2930233b.js",
     "s_wkjmBXeAQF4": "q-0cbe3c68.js",
     "s_2PZ8C55ZLkI": "q-cdec6a66.js",
     "s_4I028ESasDk": "q-676274dd.js",
     "s_4z6xETpL7nA": "q-58684cd1.js",
     "s_5UTbwKKNpkM": "q-2b25d259.js",
-    "s_8bt26EU8yW0": "q-b7ae1503.js",
+    "s_8bt26EU8yW0": "q-ba7132e3.js",
     "s_9i5SippRg2I": "q-676274dd.js",
     "s_CBOgcU009Vo": "q-9ff097ab.js",
     "s_ELDKKcitjm8": "q-0debc2bf.js",
@@ -2696,12 +2696,12 @@
     "s_KHiotZH7HTo": "q-676274dd.js",
     "s_N0tDDgb4il0": "q-1d870469.js",
     "s_VVgdYfUR9Vg": "q-58684cd1.js",
-    "s_Ook6l8SDYkI": "q-b7ae1503.js",
+    "s_Ook6l8SDYkI": "q-ba7132e3.js",
     "s_vwD8RNEXT0I": "q-9b917640.js",
     "s_0COjZ8RkUss": "q-e3e590aa.js",
     "s_0O6div5EA7Y": "q-99779fe3.js",
-    "s_0vphQYqOdZI": "q-fc4801f4.js",
-    "s_1jNt10l8gMI": "q-e0fd6495.js",
+    "s_0vphQYqOdZI": "q-b6a58a69.js",
+    "s_1jNt10l8gMI": "q-15f66826.js",
     "s_4QL4hB0PIbk": "q-e34fecfe.js",
     "s_4swp90coQL8": "q-3df2cbf9.js",
     "s_652E8a0g3YQ": "q-02ca9924.js",
@@ -2726,19 +2726,19 @@
     "s_eUmCVOXsW9w": "q-d36f07a9.js",
     "s_ewA66GiQhYY": "q-ee735b5c.js",
     "s_faVs0Otwqdo": "q-1e94d205.js",
-    "s_g8LFxWebubw": "q-fa676d18.js",
-    "s_gvZ4T35nFPs": "q-783b9fb8.js",
+    "s_g8LFxWebubw": "q-198bf484.js",
+    "s_gvZ4T35nFPs": "q-9da61c13.js",
     "s_hXY73yQrYaI": "q-676274dd.js",
     "s_lcbnr0h4g7c": "q-c809c386.js",
-    "s_tntnak2DhJ8": "q-7bd6dfdb.js",
+    "s_tntnak2DhJ8": "q-225fffa9.js",
     "s_uD7rkVTX4qk": "q-5bf1a99e.js",
     "s_v26aaAh6n0o": "q-aaf96d79.js",
     "s_v4XjiX4vLKI": "q-d8ea9b3c.js",
     "s_w7gBnrGOuro": "q-0c74f7c5.js",
-    "s_RPDJAz33WLA": "q-b03f58f0.js",
+    "s_RPDJAz33WLA": "q-620ee464.js",
     "s_A5bZC7WO00A": "q-26df1751.js",
     "s_DyVc0YBIqQU": "q-663033b0.js",
-    "s_wOIPfiQ04l4": "q-fa595808.js",
+    "s_wOIPfiQ04l4": "q-7d303717.js",
     "s_037veLcofhw": "q-58684cd1.js",
     "s_0ZhOgDF3ixY": "q-676274dd.js",
     "s_0rob96UuvTE": "q-23e13b82.js",
@@ -2752,7 +2752,7 @@
     "s_9OpJcZqTkSc": "q-fb52b9fd.js",
     "s_AhZvcOt9PYg": "q-0118ae1d.js",
     "s_AmlRjUjz7So": "q-d2465c47.js",
-    "s_BUbtvTyvVRE": "q-1b90142a.js",
+    "s_BUbtvTyvVRE": "q-c95d6b2c.js",
     "s_C8Mqfs0PcdY": "q-676274dd.js",
     "s_CpB8DhSIYvc": "q-b0b3e4fb.js",
     "s_Cqzbm85mQx8": "q-de3072a8.js",
@@ -2773,10 +2773,10 @@
     "s_KcriLfn4jxQ": "q-676274dd.js",
     "s_KhvNFSL9r0Q": "q-d2465c47.js",
     "s_L0kx4t3tD58": "q-a71d7c0c.js",
-    "s_LJyKQyWyxxw": "q-fa676d18.js",
+    "s_LJyKQyWyxxw": "q-198bf484.js",
     "s_LaPti6twp6g": "q-676274dd.js",
-    "s_LtkDK1J2lfg": "q-b7ae1503.js",
-    "s_MY60yszlA60": "q-b92c53fd.js",
+    "s_LtkDK1J2lfg": "q-ba7132e3.js",
+    "s_MY60yszlA60": "q-9f4c11c8.js",
     "s_Mb1mlr2vlfQ": "q-f37d3b5e.js",
     "s_NNbo0OBhmJ4": "q-676274dd.js",
     "s_OxZv4y8cYi8": "q-676274dd.js",
@@ -2786,7 +2786,7 @@
     "s_Rctx00gF5ZQ": "q-749cb0ca.js",
     "s_RgtGPCOHSlA": "q-58684cd1.js",
     "s_S1iUohKuSqY": "q-fec0c54d.js",
-    "s_T06M6uZoXbw": "q-fa676d18.js",
+    "s_T06M6uZoXbw": "q-198bf484.js",
     "s_TGGrD4ZGnyg": "q-676274dd.js",
     "s_VSS1fOGlbok": "q-89c8c24c.js",
     "s_VWA0GcseDa8": "q-e4919cb3.js",
@@ -2799,13 +2799,13 @@
     "s_b8rfr1nJsMk": "q-b40644f4.js",
     "s_bYdjMVYmX6g": "q-899fcd8b.js",
     "s_dV2X2XEUJEc": "q-58684cd1.js",
-    "s_eBQ0vFsFKsk": "q-3506f1d7.js",
+    "s_eBQ0vFsFKsk": "q-e75cfa4d.js",
     "s_f0uL08zi0EQ": "q-676274dd.js",
     "s_f6zHEQrL0Ao": "q-676274dd.js",
     "s_fSSaoLDDwVo": "q-ababe981.js",
-    "s_fX0bDjeJa0E": "q-b03f58f0.js",
+    "s_fX0bDjeJa0E": "q-620ee464.js",
     "s_g7DG40LM9Jc": "q-d665e589.js",
-    "s_i1Cv0pYJNR0": "q-69654f90.js",
+    "s_i1Cv0pYJNR0": "q-0ab8e107.js",
     "s_iN6i0eTNVGY": "q-676274dd.js",
     "s_jiLRJA0hKXE": "q-faba4956.js",
     "s_jswbwW4620E": "q-fb2ea131.js",
@@ -2816,13 +2816,13 @@
     "s_oBL0dMVsbJ0": "q-96d32d3c.js",
     "s_oL0s1JUvKKw": "q-d0cb239f.js",
     "s_oeXteZRDP5Y": "q-87c355d8.js",
-    "s_p9MSze0ojs4": "q-7fcd8dab.js",
+    "s_p9MSze0ojs4": "q-cf9b3ae1.js",
     "s_pJ7yFahL6rE": "q-5572a734.js",
     "s_pi2yvuJyvTc": "q-75c61e92.js",
     "s_qSbUTTR60GA": "q-19162604.js",
     "s_s1h25ZjpNys": "q-de3072a8.js",
     "s_s6cqFDE1Yqk": "q-d25116ae.js",
-    "s_sKbxL1s6cpk": "q-fa676d18.js",
+    "s_sKbxL1s6cpk": "q-198bf484.js",
     "s_tYOLRj68knw": "q-676274dd.js",
     "s_tqu3xU0aKl0": "q-de3072a8.js",
     "s_vt7V538Rep8": "q-06085b5f.js",
@@ -2834,7 +2834,7 @@
     "s_yLbmWxaoZok": "q-676274dd.js",
     "s_yVHPbo11seg": "q-bf335bfd.js",
     "s_ydOEK8lNRPQ": "q-676274dd.js",
-    "s_zFe0f5obaAc": "q-e0fd6495.js",
+    "s_zFe0f5obaAc": "q-15f66826.js",
     "s_zTVFLjwkecc": "q-58684cd1.js",
     "s_zn0r7j8dR5c": "q-8b689b62.js",
     "s_zoLxrOeb9NM": "q-64669d14.js"
@@ -2912,17 +2912,6 @@
       ],
       "origins": [
         "src/routes/menu/navigation/locations/location_49194173/index.mdx"
-      ]
-    },
-    "q-029f11b0.js": {
-      "size": 2398,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-f1617c30.js",
-        "q-fcb479e2.js"
-      ],
-      "origins": [
-        "src/routes/menu/characters/canons/sixtinna/gvar/index.mdx"
       ]
     },
     "q-02a9feec.js": {
@@ -3053,17 +3042,6 @@
         "src/routes/menu/guidebook/books/bestiary/elementals/mountain/index.mdx"
       ]
     },
-    "q-083b71d9.js": {
-      "size": 2593,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-f1617c30.js",
-        "q-fcb479e2.js"
-      ],
-      "origins": [
-        "src/routes/menu/characters/canons/mordwin/mankord/index.mdx"
-      ]
-    },
     "q-08428ec6.js": {
       "size": 7409,
       "imports": [
@@ -3104,6 +3082,25 @@
       "size": 47282,
       "origins": [
         "node_modules/@builder.io/qwik/core.min.mjs"
+      ]
+    },
+    "q-0ab8e107.js": {
+      "size": 1144,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-f30dae64.js"
+      ],
+      "dynamicImports": [
+        "q-e75cfa4d.js"
+      ],
+      "origins": [
+        "src/entry_Link.js",
+        "src/s_8gdlbszqbam.js",
+        "src/s_i1cv0pyjnr0.js"
+      ],
+      "symbols": [
+        "s_8gdLBszqbaM",
+        "s_i1Cv0pYJNR0"
       ]
     },
     "q-0ac22403.js": {
@@ -3168,17 +3165,6 @@
       "origins": [
         "src/components/visuals/background-pictures/background-pictures.tsx",
         "src/routes/menu/history/elder-ages/index.mdx"
-      ]
-    },
-    "q-0c552454.js": {
-      "size": 2569,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-f1617c30.js",
-        "q-fcb479e2.js"
-      ],
-      "origins": [
-        "src/routes/menu/characters/canons/mordwin/mirkey/index.mdx"
       ]
     },
     "q-0c74f7c5.js": {
@@ -3256,19 +3242,6 @@
         "src/routes/menu/skills/shamanism/dark/index.mdx"
       ]
     },
-    "q-112e97ee.js": {
-      "size": 12889,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-c0f73b80.js",
-        "q-f1617c30.js"
-      ],
-      "origins": [
-        "src/routes/menu/history/outgoing-age/resistentia/index.mdx"
-      ]
-    },
     "q-118aa880.js": {
       "size": 3536,
       "imports": [
@@ -3313,6 +3286,21 @@
         "src/routes/menu/skills/science/unlife/index.mdx"
       ]
     },
+    "q-1304a3da.js": {
+      "size": 4000,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-35a024c7.js",
+        "q-4631a7c6.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js",
+        "q-f1617c30.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/shamanism/index.mdx"
+      ]
+    },
     "q-13583aa6.js": {
       "size": 3411,
       "imports": [
@@ -3320,20 +3308,6 @@
       ],
       "origins": [
         "src/routes/menu/navigation/locations/location_49195855/index.mdx"
-      ]
-    },
-    "q-136b9895.js": {
-      "size": 467,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-9f0f295b.js"
-      ],
-      "origins": [
-        "src/entry_RouterOutlet.js",
-        "src/s_e0ssidxoeam.js"
-      ],
-      "symbols": [
-        "s_e0ssiDXoeAM"
       ]
     },
     "q-14060bb9.js": {
@@ -3348,6 +3322,35 @@
         "src/routes/menu/guidebook/books/herbarium/mushrooms/index.mdx"
       ]
     },
+    "q-14fcefe4.js": {
+      "size": 2174,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-5e344562.js",
+        "q-8e27b816.js",
+        "q-dc45940e.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/main/sacral/index.mdx"
+      ]
+    },
+    "q-15f66826.js": {
+      "size": 870,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-b19d890f.js",
+        "q-f30dae64.js"
+      ],
+      "origins": [
+        "src/entry_sidebar_button.js",
+        "src/s_1jnt10l8gmi.js",
+        "src/s_zfe0f5obaac.js"
+      ],
+      "symbols": [
+        "s_1jNt10l8gMI",
+        "s_zFe0f5obaAc"
+      ]
+    },
     "q-16050ba0.js": {
       "size": 77,
       "origins": [
@@ -3355,19 +3358,6 @@
       ],
       "symbols": [
         "s_70oxFV0lYSg"
-      ]
-    },
-    "q-179531fa.js": {
-      "size": 202,
-      "imports": [
-        "q-0a61ba82.js"
-      ],
-      "dynamicImports": [
-        "q-7bd6dfdb.js"
-      ],
-      "origins": [
-        "src/global.scss",
-        "src/root.tsx"
       ]
     },
     "q-17ac5e31.js": {
@@ -3404,6 +3394,41 @@
         "src/routes/menu/magic/branches/creation/index.mdx"
       ]
     },
+    "q-198bf484.js": {
+      "size": 1212,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-af8b4926.js",
+        "q-f30dae64.js"
+      ],
+      "origins": [
+        "src/entry_search.js",
+        "src/s_g8lfxwebubw.js",
+        "src/s_ljykqywyxxw.js",
+        "src/s_skbxl1s6cpk.js",
+        "src/s_t06m6uzoxbw.js"
+      ],
+      "symbols": [
+        "s_g8LFxWebubw",
+        "s_LJyKQyWyxxw",
+        "s_sKbxL1s6cpk",
+        "s_T06M6uZoXbw"
+      ]
+    },
+    "q-19ddef59.js": {
+      "size": 18521,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-c0f73b80.js",
+        "q-dc45940e.js",
+        "q-f1617c30.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/outgoing-age/renaissance-period/index.mdx"
+      ]
+    },
     "q-1a525519.js": {
       "size": 608,
       "imports": [
@@ -3417,6 +3442,17 @@
         "s_TdSp0w06Oto"
       ]
     },
+    "q-1ae82331.js": {
+      "size": 2387,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-f1617c30.js",
+        "q-fcb479e2.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/sixtinna/gvar/index.mdx"
+      ]
+    },
     "q-1b130037.js": {
       "size": 1587,
       "imports": [
@@ -3424,22 +3460,6 @@
       ],
       "origins": [
         "src/routes/menu/navigation/locations/location_49194171/index.mdx"
-      ]
-    },
-    "q-1b90142a.js": {
-      "size": 787,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-9f0f295b.js"
-      ],
-      "origins": [
-        "src/entry_QwikCityMockProvider.js",
-        "src/s_bubtvtyvvre.js",
-        "src/s_wmyc5h00wti.js"
-      ],
-      "symbols": [
-        "s_BUbtvTyvVRE",
-        "s_WmYC5H00wtI"
       ]
     },
     "q-1b9dda41.js": {
@@ -3495,6 +3515,21 @@
         "s_N0tDDgb4il0"
       ]
     },
+    "q-1e001ae3.js": {
+      "size": 13727,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-c0f73b80.js",
+        "q-dc45940e.js",
+        "q-e098ec22.js",
+        "q-f1617c30.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/outgoing-age/index.mdx"
+      ]
+    },
     "q-1e29dba2.js": {
       "size": 338,
       "imports": [
@@ -3516,18 +3551,6 @@
       ],
       "symbols": [
         "s_faVs0Otwqdo"
-      ]
-    },
-    "q-20146678.js": {
-      "size": 9028,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js"
-      ],
-      "origins": [
-        "src/routes/menu/skills/science/chimerology/index.mdx"
       ]
     },
     "q-20aa21df.js": {
@@ -3571,6 +3594,24 @@
       ],
       "symbols": [
         "s_y2k9Xt0UDBM"
+      ]
+    },
+    "q-225fffa9.js": {
+      "size": 630,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-f30dae64.js"
+      ],
+      "dynamicImports": [
+        "q-b6a58a69.js"
+      ],
+      "origins": [
+        "src/components/router-head/router-head.tsx",
+        "src/entry_root.js",
+        "src/s_tntnak2dhj8.js"
+      ],
+      "symbols": [
+        "s_tntnak2DhJ8"
       ]
     },
     "q-2276aa6d.js": {
@@ -3677,19 +3718,6 @@
         "src/components/side-toc/side-toc.tsx"
       ]
     },
-    "q-264bafd0.js": {
-      "size": 6616,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-22b247a7.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js"
-      ],
-      "origins": [
-        "src/routes/menu/guidebook/guilds/purge-bureau/index.mdx"
-      ]
-    },
     "q-26df1751.js": {
       "size": 751,
       "imports": [
@@ -3712,6 +3740,19 @@
       ],
       "origins": [
         "src/routes/menu/navigation/transport/index.mdx"
+      ]
+    },
+    "q-28bb1ab3.js": {
+      "size": 6616,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-22b247a7.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/guilds/purge-bureau/index.mdx"
       ]
     },
     "q-29263663.js": {
@@ -3752,6 +3793,19 @@
         "s_AqazhBg4LZY"
       ]
     },
+    "q-2a25de14.js": {
+      "size": 9775,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js",
+        "q-f1617c30.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/old-time/index.mdx"
+      ]
+    },
     "q-2b00f7ed.js": {
       "size": 333,
       "imports": [
@@ -3783,18 +3837,6 @@
       ],
       "origins": [
         "src/routes/menu/characters/graveyard/index.mdx"
-      ]
-    },
-    "q-2be0f4f3.js": {
-      "size": 17239,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js"
-      ],
-      "origins": [
-        "src/routes/menu/guidebook/races/vampires/index.mdx"
       ]
     },
     "q-2c960498.js": {
@@ -3913,33 +3955,6 @@
         "src/routes/menu/tools/maps/extended/index.mdx"
       ]
     },
-    "q-2fb87382.js": {
-      "size": 1221,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-26168cfe.js",
-        "q-9f0f295b.js",
-        "q-ec811e49.js"
-      ],
-      "dynamicImports": [
-        "q-0873080d.js",
-        "q-25e7eff5.js",
-        "q-783b9fb8.js",
-        "q-b92c53fd.js",
-        "q-f07d889c.js"
-      ],
-      "origins": [
-        "src/components/content-menu/content-menu.tsx",
-        "src/components/starter/footer/footer.tsx",
-        "src/components/starter/header/header.tsx",
-        "src/components/starter/page-header/page-header.tsx",
-        "src/entry_layout.js",
-        "src/s_vkflawjuvm8.js"
-      ],
-      "symbols": [
-        "s_VKFlAWJuVm8"
-      ]
-    },
     "q-30721147.js": {
       "size": 420,
       "imports": [
@@ -3951,32 +3966,6 @@
       ],
       "symbols": [
         "s_s2wHUJybZSE"
-      ]
-    },
-    "q-308cab80.js": {
-      "size": 13213,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-2f0e0425.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-ab9676d6.js",
-        "q-c037a95c.js"
-      ],
-      "origins": [
-        "src/routes/menu/guidebook/races/meries/index.mdx"
-      ]
-    },
-    "q-3097a24b.js": {
-      "size": 819,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-5e344562.js",
-        "q-8e27b816.js"
-      ],
-      "origins": [
-        "src/routes/menu/plot/local/drama/index.mdx"
       ]
     },
     "q-30aa34f5.js": {
@@ -4097,6 +4086,19 @@
         "src/routes/menu/guidebook/guilds/association/index.mdx"
       ]
     },
+    "q-34990c81.js": {
+      "size": 1709,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-5e344562.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/local/femme-fatale/index.mdx"
+      ]
+    },
     "q-34b561ed.js": {
       "size": 2478,
       "imports": [
@@ -4116,19 +4118,6 @@
       ],
       "origins": [
         "src/routes/menu/navigation/locations/location_49194195/index.mdx"
-      ]
-    },
-    "q-3506f1d7.js": {
-      "size": 128,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-9f0f295b.js"
-      ],
-      "origins": [
-        "src/s_ebq0vfsfksk.js"
-      ],
-      "symbols": [
-        "s_eBQ0vFsFKsk"
       ]
     },
     "q-35a024c7.js": {
@@ -4164,25 +4153,6 @@
         "src/routes/menu/magic/branches/white/index.mdx"
       ]
     },
-    "q-3795766a.js": {
-      "size": 16358,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-35a024c7.js",
-        "q-4631a7c6.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js",
-        "q-f1617c30.js"
-      ],
-      "dynamicImports": [
-        "q-b9c77197.js"
-      ],
-      "origins": [
-        "src/components/controls/button-text/button-text.tsx",
-        "src/routes/menu/skills/occultism/index.mdx"
-      ]
-    },
     "q-38296414.js": {
       "size": 14709,
       "imports": [
@@ -4190,6 +4160,22 @@
       ],
       "origins": [
         "src/routes/menu/guidebook/books/diseases/soul-illness/index.mdx"
+      ]
+    },
+    "q-3895e3f6.js": {
+      "size": 13346,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-2f0e0425.js",
+        "q-4631a7c6.js",
+        "q-8e27b816.js",
+        "q-ab9676d6.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js",
+        "q-dd92002a.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/dwarves/index.mdx"
       ]
     },
     "q-38c42488.js": {
@@ -4253,6 +4239,20 @@
         "s_ZqSTc39Z73g"
       ]
     },
+    "q-3a472c14.js": {
+      "size": 10719,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-c0f73b80.js",
+        "q-dc45940e.js",
+        "q-f1617c30.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/outgoing-age/stillborn-indict/index.mdx"
+      ]
+    },
     "q-3b4612fd.js": {
       "size": 1756,
       "imports": [
@@ -4260,6 +4260,17 @@
       ],
       "origins": [
         "src/routes/menu/navigation/locations/location_49194207/index.mdx"
+      ]
+    },
+    "q-3b9ea524.js": {
+      "size": 2722,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-f1617c30.js",
+        "q-fcb479e2.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/mordwin/wbargah/index.mdx"
       ]
     },
     "q-3c3706bc.js": {
@@ -4291,6 +4302,18 @@
       ],
       "origins": [
         "src/routes/menu/navigation/locations/location_49193266/index.mdx"
+      ]
+    },
+    "q-3d9777db.js": {
+      "size": 1791,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-5e344562.js",
+        "q-8e27b816.js",
+        "q-dc45940e.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/global/lokomotiv/index.mdx"
       ]
     },
     "q-3df2cbf9.js": {
@@ -4328,20 +4351,6 @@
       ],
       "origins": [
         "src/routes/menu/navigation/states/clans/index.mdx"
-      ]
-    },
-    "q-3e28ee51.js": {
-      "size": 12622,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js",
-        "q-c0f73b80.js",
-        "q-f1617c30.js"
-      ],
-      "origins": [
-        "src/routes/menu/history/outgoing-age/ruins-haze/index.mdx"
       ]
     },
     "q-3fb7fc6f.js": {
@@ -4401,21 +4410,6 @@
         "src/routes/menu/guidebook/books/herbarium/herbs/vortexflower/index.mdx"
       ]
     },
-    "q-4171d92d.js": {
-      "size": 19540,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-2f0e0425.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-ab9676d6.js",
-        "q-c037a95c.js",
-        "q-dd92002a.js"
-      ],
-      "origins": [
-        "src/routes/menu/guidebook/races/redrehan/index.mdx"
-      ]
-    },
     "q-427db512.js": {
       "size": 23645,
       "imports": [
@@ -4441,15 +4435,27 @@
         "s_yKSPtKHvWkw"
       ]
     },
-    "q-4409bdb3.js": {
-      "size": 785,
+    "q-42876f87.js": {
+      "size": 819,
       "imports": [
         "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-8e27b816.js"
+        "q-5e344562.js",
+        "q-8e27b816.js",
+        "q-dc45940e.js"
       ],
       "origins": [
-        "src/routes/menu/guidebook/guilds/inferdormis/index.mdx"
+        "src/routes/menu/plot/local/drama/index.mdx"
+      ]
+    },
+    "q-45627248.js": {
+      "size": 446,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-af8b4926.js",
+        "q-f30dae64.js"
+      ],
+      "origins": [
+        "src/routes/search/index.mdx"
       ]
     },
     "q-4631a7c6.js": {
@@ -4527,17 +4533,16 @@
         "src/routes/menu/characters/heroes/krizen-blagovest/index.mdx"
       ]
     },
-    "q-498337fa.js": {
-      "size": 4234,
+    "q-4a08c171.js": {
+      "size": 1845,
       "imports": [
         "q-0a61ba82.js",
-        "q-22b247a7.js",
-        "q-51bee478.js",
+        "q-5e344562.js",
         "q-8e27b816.js",
-        "q-c037a95c.js"
+        "q-dc45940e.js"
       ],
       "origins": [
-        "src/routes/menu/guidebook/guilds/admiralty/index.mdx"
+        "src/routes/menu/plot/main/wanderers/index.mdx"
       ]
     },
     "q-4a2fe76b.js": {
@@ -4559,6 +4564,21 @@
       ],
       "origins": [
         "src/routes/menu/guidebook/races/index.mdx"
+      ]
+    },
+    "q-4ae4e78a.js": {
+      "size": 36317,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-2f0e0425.js",
+        "q-4631a7c6.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js",
+        "q-f1617c30.js",
+        "q-fcb479e2.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/heroes/muru-muru/index.mdx"
       ]
     },
     "q-4b86e0d3.js": {
@@ -4634,6 +4654,17 @@
         "src/routes/menu/manual/index.mdx"
       ]
     },
+    "q-511afea8.js": {
+      "size": 2582,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-f1617c30.js",
+        "q-fcb479e2.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/mordwin/mankord/index.mdx"
+      ]
+    },
     "q-5161a6ea.js": {
       "size": 2162,
       "imports": [
@@ -4652,18 +4683,6 @@
       ],
       "origins": [
         "src/routes/menu/skills/crafts/medicine/index.mdx"
-      ]
-    },
-    "q-51bee478.js": {
-      "size": 283,
-      "imports": [
-        "q-0a61ba82.js"
-      ],
-      "dynamicImports": [
-        "q-b7ae1503.js"
-      ],
-      "origins": [
-        "src/components/audio/audio.tsx"
       ]
     },
     "q-51bfcc5b.js": {
@@ -4687,18 +4706,17 @@
         "src/routes/menu/characters/canons/luat/avrag/index.mdx"
       ]
     },
-    "q-530c5a55.js": {
-      "size": 7509,
+    "q-51f51130.js": {
+      "size": 9276,
       "imports": [
         "q-0a61ba82.js",
-        "q-35a024c7.js",
         "q-4631a7c6.js",
-        "q-51bee478.js",
         "q-8e27b816.js",
-        "q-c037a95c.js"
+        "q-c037a95c.js",
+        "q-dc45940e.js"
       ],
       "origins": [
-        "src/routes/menu/guidebook/guilds/railworkers/index.mdx"
+        "src/routes/menu/skills/science/mechanics/index.mdx"
       ]
     },
     "q-531b030b.js": {
@@ -4773,22 +4791,6 @@
         "src/routes/menu/navigation/locations/location_49195762/index.mdx"
       ]
     },
-    "q-577fc2b5.js": {
-      "size": 2134,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-5e344562.js",
-        "q-8e27b816.js"
-      ],
-      "dynamicImports": [
-        "q-d05029a8.js"
-      ],
-      "origins": [
-        "src/components/locked-data/locked-data.tsx",
-        "src/routes/menu/plot/global/emptiness/index.mdx"
-      ]
-    },
     "q-57c67ae6.js": {
       "size": 642,
       "imports": [
@@ -4844,6 +4846,21 @@
         "src/routes/404.tsx"
       ]
     },
+    "q-5a691752.js": {
+      "size": 19540,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-2f0e0425.js",
+        "q-8e27b816.js",
+        "q-ab9676d6.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js",
+        "q-dd92002a.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/redrehan/index.mdx"
+      ]
+    },
     "q-5bf1a99e.js": {
       "size": 1086,
       "imports": [
@@ -4858,21 +4875,6 @@
       "symbols": [
         "s_HCsbNWtVXic",
         "s_uD7rkVTX4qk"
-      ]
-    },
-    "q-5c4f685a.js": {
-      "size": 13727,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js",
-        "q-c0f73b80.js",
-        "q-e098ec22.js",
-        "q-f1617c30.js"
-      ],
-      "origins": [
-        "src/routes/menu/history/outgoing-age/index.mdx"
       ]
     },
     "q-5c714b0c.js": {
@@ -4931,19 +4933,6 @@
         "src/routes/menu/skills/science/index.mdx"
       ]
     },
-    "q-5da93f53.js": {
-      "size": 6819,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-22b247a7.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js"
-      ],
-      "origins": [
-        "src/routes/menu/guidebook/guilds/sparkle/index.mdx"
-      ]
-    },
     "q-5e344562.js": {
       "size": 179,
       "imports": [
@@ -4956,21 +4945,6 @@
         "src/components/visuals/quest-tags/quest-tags.tsx"
       ]
     },
-    "q-5f74cf99.js": {
-      "size": 4000,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-35a024c7.js",
-        "q-4631a7c6.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js",
-        "q-f1617c30.js"
-      ],
-      "origins": [
-        "src/routes/menu/skills/shamanism/index.mdx"
-      ]
-    },
     "q-5f8e6301.js": {
       "size": 2189,
       "imports": [
@@ -4979,6 +4953,35 @@
       ],
       "origins": [
         "src/routes/menu/guidebook/books/herbarium/herbs/paleleaf/index.mdx"
+      ]
+    },
+    "q-6005f7e9.js": {
+      "size": 6819,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-22b247a7.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/guilds/sparkle/index.mdx"
+      ]
+    },
+    "q-607fb156.js": {
+      "size": 18830,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-2f0e0425.js",
+        "q-4631a7c6.js",
+        "q-8e27b816.js",
+        "q-ab9676d6.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js",
+        "q-dd92002a.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/besties/index.mdx"
       ]
     },
     "q-60d75d1e.js": {
@@ -4998,18 +5001,6 @@
       ],
       "origins": [
         "src/routes/menu/navigation/locations/location_48391072/index.mdx"
-      ]
-    },
-    "q-612bea0d.js": {
-      "size": 2174,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-5e344562.js",
-        "q-8e27b816.js"
-      ],
-      "origins": [
-        "src/routes/menu/plot/main/sacral/index.mdx"
       ]
     },
     "q-615d6d2e.js": {
@@ -5033,16 +5024,368 @@
         "src/routes/menu/guidebook/books/bestiary/things/index.mdx"
       ]
     },
-    "q-630eeb6f.js": {
-      "size": 14728,
+    "q-620ee464.js": {
+      "size": 62328,
       "imports": [
         "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js"
+        "q-f30dae64.js"
+      ],
+      "dynamicImports": [
+        "q-000a5036.js",
+        "q-0161dc57.js",
+        "q-02214c44.js",
+        "q-0277192b.js",
+        "q-0299561b.js",
+        "q-045d1695.js",
+        "q-04ce7a46.js",
+        "q-052d0711.js",
+        "q-063f77b4.js",
+        "q-07642dbf.js",
+        "q-07db3738.js",
+        "q-08428ec6.js",
+        "q-09b2c0dc.js",
+        "q-0ac22403.js",
+        "q-0b03f328.js",
+        "q-0b134e9c.js",
+        "q-0b3c1b5b.js",
+        "q-0b5860a9.js",
+        "q-0c4ad8db.js",
+        "q-0cc8a524.js",
+        "q-1116aa94.js",
+        "q-118aa880.js",
+        "q-11fca489.js",
+        "q-12e07d3d.js",
+        "q-12eb065d.js",
+        "q-1304a3da.js",
+        "q-13583aa6.js",
+        "q-14060bb9.js",
+        "q-14fcefe4.js",
+        "q-17ac5e31.js",
+        "q-1957cc90.js",
+        "q-19ddef59.js",
+        "q-1ae82331.js",
+        "q-1b130037.js",
+        "q-1cd65e31.js",
+        "q-1e001ae3.js",
+        "q-20aa21df.js",
+        "q-219a0203.js",
+        "q-21d97dcb.js",
+        "q-22e1e9cb.js",
+        "q-233e53d8.js",
+        "q-23462c34.js",
+        "q-23dc09bb.js",
+        "q-260311b3.js",
+        "q-2717bbc8.js",
+        "q-28bb1ab3.js",
+        "q-29263663.js",
+        "q-2a25de14.js",
+        "q-2baa66d2.js",
+        "q-2c960498.js",
+        "q-2cf8f539.js",
+        "q-2e3bfb03.js",
+        "q-2ea7ec58.js",
+        "q-2eafa113.js",
+        "q-2f4e0584.js",
+        "q-2f5c1091.js",
+        "q-2f749ffb.js",
+        "q-2fa8c614.js",
+        "q-30aa34f5.js",
+        "q-30e3f724.js",
+        "q-315b3396.js",
+        "q-31aba048.js",
+        "q-322a2fd3.js",
+        "q-322d8298.js",
+        "q-3269633c.js",
+        "q-32d0d6a4.js",
+        "q-338ae33a.js",
+        "q-33a5888c.js",
+        "q-34035ae6.js",
+        "q-34990c81.js",
+        "q-34b561ed.js",
+        "q-34e24358.js",
+        "q-36677da5.js",
+        "q-37394130.js",
+        "q-38296414.js",
+        "q-3895e3f6.js",
+        "q-39419e24.js",
+        "q-3952bc48.js",
+        "q-39be2e14.js",
+        "q-39d99797.js",
+        "q-3a472c14.js",
+        "q-3b4612fd.js",
+        "q-3b9ea524.js",
+        "q-3c3706bc.js",
+        "q-3c3d9200.js",
+        "q-3d54844f.js",
+        "q-3d9777db.js",
+        "q-3e1dda98.js",
+        "q-3e207494.js",
+        "q-3fb7fc6f.js",
+        "q-3fec28d2.js",
+        "q-40db5fbe.js",
+        "q-415d91cd.js",
+        "q-42876f87.js",
+        "q-45627248.js",
+        "q-47c5ae8f.js",
+        "q-48965134.js",
+        "q-48b843bf.js",
+        "q-49275905.js",
+        "q-4a08c171.js",
+        "q-4a2fe76b.js",
+        "q-4a9d3a40.js",
+        "q-4ae4e78a.js",
+        "q-4b8cf593.js",
+        "q-4c62c424.js",
+        "q-4c7f6f6f.js",
+        "q-4f0b9494.js",
+        "q-511afea8.js",
+        "q-5161a6ea.js",
+        "q-51864ca4.js",
+        "q-51bfcc5b.js",
+        "q-51c4cc3a.js",
+        "q-51f51130.js",
+        "q-531b030b.js",
+        "q-537c6f0c.js",
+        "q-54bbe005.js",
+        "q-5742ad7f.js",
+        "q-57c67ae6.js",
+        "q-5a39ffb9.js",
+        "q-5a691752.js",
+        "q-5c714b0c.js",
+        "q-5cf3f992.js",
+        "q-5d101406.js",
+        "q-5d53ffd3.js",
+        "q-5f8e6301.js",
+        "q-6005f7e9.js",
+        "q-607fb156.js",
+        "q-60d75d1e.js",
+        "q-6109a8a3.js",
+        "q-615d6d2e.js",
+        "q-6187f323.js",
+        "q-642b53c1.js",
+        "q-64bba4fe.js",
+        "q-6576b5fc.js",
+        "q-665f4331.js",
+        "q-66c027dd.js",
+        "q-6723ac50.js",
+        "q-67c1cff6.js",
+        "q-67f57fa5.js",
+        "q-692112e8.js",
+        "q-6924f551.js",
+        "q-6c55f89e.js",
+        "q-6ce753e5.js",
+        "q-6e664107.js",
+        "q-6e83aa55.js",
+        "q-6e93ba12.js",
+        "q-6f652a7b.js",
+        "q-6f690554.js",
+        "q-70a8a7db.js",
+        "q-7202a99b.js",
+        "q-72da9590.js",
+        "q-744dd4e1.js",
+        "q-750f3ba7.js",
+        "q-763734dd.js",
+        "q-7638c425.js",
+        "q-765370b6.js",
+        "q-78617ffa.js",
+        "q-794ba970.js",
+        "q-7a39d153.js",
+        "q-7b56236a.js",
+        "q-7b786b9d.js",
+        "q-7d930247.js",
+        "q-7e67b18d.js",
+        "q-7eb7c0c2.js",
+        "q-7eeacb31.js",
+        "q-7f82bb21.js",
+        "q-80fdfe21.js",
+        "q-81fd1841.js",
+        "q-82142660.js",
+        "q-822611b9.js",
+        "q-82aeb645.js",
+        "q-840a2381.js",
+        "q-84c52d92.js",
+        "q-856af777.js",
+        "q-8666ac85.js",
+        "q-868b2b70.js",
+        "q-8757301a.js",
+        "q-8787cdb4.js",
+        "q-88b4f88c.js",
+        "q-8ac3c5d5.js",
+        "q-8ceb79f0.js",
+        "q-8e06d252.js",
+        "q-8f12793b.js",
+        "q-8f2d8f61.js",
+        "q-8f62e2f8.js",
+        "q-952466af.js",
+        "q-95ab4c00.js",
+        "q-95acbfd9.js",
+        "q-96454472.js",
+        "q-96c39a14.js",
+        "q-990ffa50.js",
+        "q-9a1eb7e2.js",
+        "q-9a6adcd3.js",
+        "q-9a8c7458.js",
+        "q-9ae040ea.js",
+        "q-9dac9c69.js",
+        "q-9db7f444.js",
+        "q-9e0d3559.js",
+        "q-9e53aab5.js",
+        "q-9ef91619.js",
+        "q-9f47696c.js",
+        "q-a10dcdf9.js",
+        "q-a16ab59b.js",
+        "q-a1e8421f.js",
+        "q-a22ca7e4.js",
+        "q-a2aee6eb.js",
+        "q-a4a45cd9.js",
+        "q-a53c7465.js",
+        "q-a5472d68.js",
+        "q-a5976a96.js",
+        "q-a67963eb.js",
+        "q-a7205b5d.js",
+        "q-a728b247.js",
+        "q-a849303f.js",
+        "q-a8d8ec57.js",
+        "q-a93810bf.js",
+        "q-aa4f8f86.js",
+        "q-aab69492.js",
+        "q-acb9ea16.js",
+        "q-acf3fb54.js",
+        "q-ad997fc4.js",
+        "q-adb9c7cd.js",
+        "q-add7d33e.js",
+        "q-ae4b1b69.js",
+        "q-af024112.js",
+        "q-af40c298.js",
+        "q-afa8d8d2.js",
+        "q-b0451d57.js",
+        "q-b0b17010.js",
+        "q-b1378e25.js",
+        "q-b19d890f.js",
+        "q-b1d8a95a.js",
+        "q-b1ea819e.js",
+        "q-b46bef8f.js",
+        "q-b518bba4.js",
+        "q-b5349b33.js",
+        "q-b6def2d9.js",
+        "q-b82322dc.js",
+        "q-b9f72459.js",
+        "q-ba4e1e15.js",
+        "q-bb08063c.js",
+        "q-bb8e8e8a.js",
+        "q-bbe62bdd.js",
+        "q-bc7fee73.js",
+        "q-bd1a08a1.js",
+        "q-bdcc92fe.js",
+        "q-bdd9852d.js",
+        "q-bf995b5b.js",
+        "q-bff63e2f.js",
+        "q-c07d83b2.js",
+        "q-c338244b.js",
+        "q-c35253af.js",
+        "q-c3a15a72.js",
+        "q-c49cfd24.js",
+        "q-c52e6605.js",
+        "q-c7dcc968.js",
+        "q-c80ac252.js",
+        "q-c8bd9502.js",
+        "q-c91a0951.js",
+        "q-c94ddb19.js",
+        "q-c957fdd5.js",
+        "q-c9c0f330.js",
+        "q-ca34a003.js",
+        "q-cc623b83.js",
+        "q-ccee19d8.js",
+        "q-cd63a37b.js",
+        "q-cd817811.js",
+        "q-cdd25d99.js",
+        "q-ce4d0a79.js",
+        "q-ce84c20c.js",
+        "q-ce9faeae.js",
+        "q-cea8779e.js",
+        "q-d030a7a2.js",
+        "q-d0617517.js",
+        "q-d1b2a37e.js",
+        "q-d1db3f21.js",
+        "q-d2f6e296.js",
+        "q-d3270458.js",
+        "q-d35a9117.js",
+        "q-d47dc47a.js",
+        "q-d56124bf.js",
+        "q-d5abf0d5.js",
+        "q-d5ef09dd.js",
+        "q-d6f35c1f.js",
+        "q-d75f0c64.js",
+        "q-d7864e09.js",
+        "q-d92a555c.js",
+        "q-d98c47a0.js",
+        "q-da50e3be.js",
+        "q-da557757.js",
+        "q-da691d44.js",
+        "q-daaa9818.js",
+        "q-dd350f45.js",
+        "q-de0542d8.js",
+        "q-de3d878f.js",
+        "q-deae0b29.js",
+        "q-dff5d501.js",
+        "q-e06be201.js",
+        "q-e130efbe.js",
+        "q-e226d2c4.js",
+        "q-e301aa55.js",
+        "q-e36266b3.js",
+        "q-e3d72624.js",
+        "q-e429c9b6.js",
+        "q-e46467c6.js",
+        "q-e4e93860.js",
+        "q-e52a6f19.js",
+        "q-e53eca8a.js",
+        "q-e5d2e5f6.js",
+        "q-e7db6629.js",
+        "q-e93680eb.js",
+        "q-ea760e4d.js",
+        "q-ea8ed0da.js",
+        "q-eafe9427.js",
+        "q-eb1cfaad.js",
+        "q-eb6557c8.js",
+        "q-ec3aa2e5.js",
+        "q-ec63dec8.js",
+        "q-ecc8e6a8.js",
+        "q-edeb967d.js",
+        "q-ee1a07be.js",
+        "q-eebd25ba.js",
+        "q-eecbe435.js",
+        "q-eee601a7.js",
+        "q-ef3aefe7.js",
+        "q-efd730bd.js",
+        "q-f0c261b0.js",
+        "q-f2a059c0.js",
+        "q-f47d2c7e.js",
+        "q-f7df75cb.js",
+        "q-f8195ea0.js",
+        "q-f8fa8c06.js",
+        "q-f95c31ce.js",
+        "q-f9f69cbe.js",
+        "q-fae4eefe.js",
+        "q-fd6e5889.js",
+        "q-fdebdd34.js",
+        "q-fdf6b55a.js",
+        "q-fe1f529a.js",
+        "q-ff054910.js",
+        "q-ffb5866f.js"
       ],
       "origins": [
-        "src/routes/menu/guidebook/races/werewolves/index.mdx"
+        "@qwik-city-plan",
+        "src/entry_QwikCityProvider.js",
+        "src/s_02wmimzeabk.js",
+        "src/s_fx0bdjeja0e.js",
+        "src/s_rpdjaz33wla.js",
+        "src/s_txcfoy819ag.js"
+      ],
+      "symbols": [
+        "s_02wMImzEAbk",
+        "s_fX0bDjeJa0E",
+        "s_RPDJAz33WLA",
+        "s_TxCFOy819ag"
       ]
     },
     "q-642b53c1.js": {
@@ -5099,19 +5442,6 @@
       ],
       "symbols": [
         "s_DyVc0YBIqQU"
-      ]
-    },
-    "q-663ee37e.js": {
-      "size": 2827,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-5e344562.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js"
-      ],
-      "origins": [
-        "src/routes/menu/plot/main/apotheosis/index.mdx"
       ]
     },
     "q-665f4331.js": {
@@ -5307,23 +5637,18 @@
         "src/routes/menu/guidebook/books/alchemy/index.mdx"
       ]
     },
-    "q-69654f90.js": {
-      "size": 1144,
+    "q-6942e5bb.js": {
+      "size": 467,
       "imports": [
         "q-0a61ba82.js",
-        "q-9f0f295b.js"
-      ],
-      "dynamicImports": [
-        "q-3506f1d7.js"
+        "q-f30dae64.js"
       ],
       "origins": [
-        "src/entry_Link.js",
-        "src/s_8gdlbszqbam.js",
-        "src/s_i1cv0pyjnr0.js"
+        "src/entry_RouterOutlet.js",
+        "src/s_e0ssidxoeam.js"
       ],
       "symbols": [
-        "s_8gdLBszqbaM",
-        "s_i1Cv0pYJNR0"
+        "s_e0ssiDXoeAM"
       ]
     },
     "q-6a13affb.js": {
@@ -5346,6 +5671,20 @@
       ],
       "origins": [
         "src/routes/menu/guidebook/books/bestiary/insects/scorpus/index.mdx"
+      ]
+    },
+    "q-6ce753e5.js": {
+      "size": 7509,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-35a024c7.js",
+        "q-4631a7c6.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/guilds/railworkers/index.mdx"
       ]
     },
     "q-6e664107.js": {
@@ -5393,6 +5732,19 @@
         "src/routes/menu/magic/phenomena/index.mdx"
       ]
     },
+    "q-6f9c6010.js": {
+      "size": 202,
+      "imports": [
+        "q-0a61ba82.js"
+      ],
+      "dynamicImports": [
+        "q-225fffa9.js"
+      ],
+      "origins": [
+        "src/global.scss",
+        "src/root.tsx"
+      ]
+    },
     "q-70a8a7db.js": {
       "size": 2090,
       "imports": [
@@ -5424,19 +5776,6 @@
       ],
       "origins": [
         "src/routes/index.mdx"
-      ]
-    },
-    "q-736bbdba.js": {
-      "size": 9775,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js",
-        "q-f1617c30.js"
-      ],
-      "origins": [
-        "src/routes/menu/history/old-time/index.mdx"
       ]
     },
     "q-744dd4e1.js": {
@@ -5472,6 +5811,33 @@
         "src/routes/menu/characters/canons/luat/targan/index.mdx"
       ]
     },
+    "q-75a24aa3.js": {
+      "size": 1221,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-26168cfe.js",
+        "q-b19d890f.js",
+        "q-f30dae64.js"
+      ],
+      "dynamicImports": [
+        "q-0873080d.js",
+        "q-25e7eff5.js",
+        "q-9da61c13.js",
+        "q-9f4c11c8.js",
+        "q-f07d889c.js"
+      ],
+      "origins": [
+        "src/components/content-menu/content-menu.tsx",
+        "src/components/starter/footer/footer.tsx",
+        "src/components/starter/header/header.tsx",
+        "src/components/starter/page-header/page-header.tsx",
+        "src/entry_layout.js",
+        "src/s_vkflawjuvm8.js"
+      ],
+      "symbols": [
+        "s_VKFlAWJuVm8"
+      ]
+    },
     "q-75c61e92.js": {
       "size": 77,
       "origins": [
@@ -5504,6 +5870,21 @@
         "src/routes/menu/history/news/02-23/index.mdx"
       ]
     },
+    "q-765370b6.js": {
+      "size": 9644,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-c0f73b80.js",
+        "q-dc45940e.js",
+        "q-dd92002a.js",
+        "q-f1617c30.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/outgoing-age/recovery-period/index.mdx"
+      ]
+    },
     "q-77063f70.js": {
       "size": 223,
       "imports": [
@@ -5514,23 +5895,6 @@
       ],
       "origins": [
         "src/components/tools/timeline/timeline.tsx"
-      ]
-    },
-    "q-783b9fb8.js": {
-      "size": 784,
-      "imports": [
-        "q-0a61ba82.js"
-      ],
-      "dynamicImports": [
-        "q-e0fd6495.js"
-      ],
-      "origins": [
-        "src/components/content-menu/sidebar-button/sidebar-button.tsx",
-        "src/entry_header.js",
-        "src/s_gvz4t35nfps.js"
-      ],
-      "symbols": [
-        "s_gvZ4T35nFPs"
       ]
     },
     "q-78617ffa.js": {
@@ -5584,22 +5948,18 @@
         "src/routes/menu/characters/canons/korkaft/kmarnan/index.mdx"
       ]
     },
-    "q-7bd6dfdb.js": {
-      "size": 630,
+    "q-7d303717.js": {
+      "size": 889,
       "imports": [
         "q-0a61ba82.js",
-        "q-9f0f295b.js"
-      ],
-      "dynamicImports": [
-        "q-fc4801f4.js"
+        "q-f30dae64.js"
       ],
       "origins": [
-        "src/components/router-head/router-head.tsx",
-        "src/entry_root.js",
-        "src/s_tntnak2dhj8.js"
+        "src/entry_serverQrl.js",
+        "src/s_woipfiq04l4.js"
       ],
       "symbols": [
-        "s_tntnak2DhJ8"
+        "s_wOIPfiQ04l4"
       ]
     },
     "q-7d930247.js": {
@@ -5629,6 +5989,17 @@
         "src/routes/menu/navigation/locations/location_49194209/index.mdx"
       ]
     },
+    "q-7eeacb31.js": {
+      "size": 2558,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-f1617c30.js",
+        "q-fcb479e2.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/mordwin/mirkey/index.mdx"
+      ]
+    },
     "q-7f82bb21.js": {
       "size": 1924,
       "imports": [
@@ -5636,22 +6007,6 @@
       ],
       "origins": [
         "src/routes/menu/navigation/locations/location_49194210/index.mdx"
-      ]
-    },
-    "q-7fcd8dab.js": {
-      "size": 1032,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-9f0f295b.js"
-      ],
-      "origins": [
-        "src/entry_GetForm.js",
-        "src/s_nk9plpjqm9y.js",
-        "src/s_p9msze0ojs4.js"
-      ],
-      "symbols": [
-        "s_Nk9PlpjQm9Y",
-        "s_p9MSze0ojs4"
       ]
     },
     "q-801af661.js": {
@@ -5670,6 +6025,20 @@
       ],
       "origins": [
         "src/routes/menu/navigation/locations/location_49194194/index.mdx"
+      ]
+    },
+    "q-81fd1841.js": {
+      "size": 13213,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-2f0e0425.js",
+        "q-8e27b816.js",
+        "q-ab9676d6.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/meries/index.mdx"
       ]
     },
     "q-82142660.js": {
@@ -5735,18 +6104,6 @@
         "src/routes/menu/manual/templates/index.mdx"
       ]
     },
-    "q-84cd5bec.js": {
-      "size": 1791,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-5e344562.js",
-        "q-8e27b816.js"
-      ],
-      "origins": [
-        "src/routes/menu/plot/global/lokomotiv/index.mdx"
-      ]
-    },
     "q-856af777.js": {
       "size": 5426,
       "imports": [
@@ -5777,6 +6134,20 @@
       ],
       "symbols": [
         "s_77LVykazpfc"
+      ]
+    },
+    "q-8666ac85.js": {
+      "size": 15113,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-2f0e0425.js",
+        "q-8e27b816.js",
+        "q-ab9676d6.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/humans/index.mdx"
       ]
     },
     "q-868b2b70.js": {
@@ -5822,6 +6193,19 @@
       ],
       "origins": [
         "src/routes/menu/navigation/locations/location_49194200/index.mdx"
+      ]
+    },
+    "q-8787cdb4.js": {
+      "size": 1787,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-5e344562.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/local/shards/index.mdx"
       ]
     },
     "q-87c355d8.js": {
@@ -5888,23 +6272,6 @@
       ],
       "symbols": [
         "s_zn0r7j8dR5c"
-      ]
-    },
-    "q-8ce0118a.js": {
-      "size": 46778,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-1d659ccd.js",
-        "q-2f0e0425.js",
-        "q-51bee478.js",
-        "q-abdbbbff.js",
-        "q-b919d193.js",
-        "q-c037a95c.js",
-        "q-f1617c30.js",
-        "q-fcb479e2.js"
-      ],
-      "origins": [
-        "src/routes/menu/characters/heroes/maev-tinkera/index.mdx"
       ]
     },
     "q-8ceb79f0.js": {
@@ -6060,6 +6427,17 @@
         "src/routes/menu/characters/canons/reabor-thaes/egreit/index.mdx"
       ]
     },
+    "q-96c39a14.js": {
+      "size": 1877,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-f1617c30.js",
+        "q-fcb479e2.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/mordwin/tilf/index.mdx"
+      ]
+    },
     "q-96d32d3c.js": {
       "size": 77,
       "origins": [
@@ -6067,17 +6445,6 @@
       ],
       "symbols": [
         "s_oBL0dMVsbJ0"
-      ]
-    },
-    "q-96eab3ba.js": {
-      "size": 446,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-9f0f295b.js",
-        "q-fc4b8dc4.js"
-      ],
-      "origins": [
-        "src/routes/search/index.mdx"
       ]
     },
     "q-990ffa50.js": {
@@ -6103,6 +6470,18 @@
       ],
       "symbols": [
         "s_0O6div5EA7Y"
+      ]
+    },
+    "q-9a1eb7e2.js": {
+      "size": 14728,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/werewolves/index.mdx"
       ]
     },
     "q-9a6adcd3.js": {
@@ -6166,6 +6545,23 @@
         "s_3zc2FhQ6bcg"
       ]
     },
+    "q-9da61c13.js": {
+      "size": 784,
+      "imports": [
+        "q-0a61ba82.js"
+      ],
+      "dynamicImports": [
+        "q-15f66826.js"
+      ],
+      "origins": [
+        "src/components/content-menu/sidebar-button/sidebar-button.tsx",
+        "src/entry_header.js",
+        "src/s_gvz4t35nfps.js"
+      ],
+      "symbols": [
+        "s_gvZ4T35nFPs"
+      ]
+    },
     "q-9dac9c69.js": {
       "size": 2258,
       "imports": [
@@ -6223,22 +6619,6 @@
         "src/routes/menu/navigation/states/teyel/index.mdx"
       ]
     },
-    "q-9f0f295b.js": {
-      "size": 8432,
-      "imports": [
-        "q-0a61ba82.js"
-      ],
-      "dynamicImports": [
-        "q-136b9895.js",
-        "q-663033b0.js",
-        "q-b03f58f0.js",
-        "q-fa595808.js"
-      ],
-      "origins": [
-        "@qwik-city-sw-register",
-        "node_modules/@builder.io/qwik-city/index.qwik.mjs"
-      ]
-    },
     "q-9f47696c.js": {
       "size": 2762,
       "imports": [
@@ -6247,6 +6627,24 @@
       ],
       "origins": [
         "src/routes/menu/skills/occultism/esoter/index.mdx"
+      ]
+    },
+    "q-9f4c11c8.js": {
+      "size": 973,
+      "imports": [
+        "q-02a9feec.js",
+        "q-0a61ba82.js",
+        "q-b19d890f.js",
+        "q-f30dae64.js"
+      ],
+      "origins": [
+        "src/entry_content_menu.js",
+        "src/s_m1u963aliag.js",
+        "src/s_my60yszla60.js"
+      ],
+      "symbols": [
+        "s_m1u963AliAg",
+        "s_MY60yszlA60"
       ]
     },
     "q-9ff097ab.js": {
@@ -6356,20 +6754,6 @@
       ],
       "origins": [
         "src/routes/menu/guidebook/books/mechanics/digest/index.mdx"
-      ]
-    },
-    "q-a58c4c98.js": {
-      "size": 18521,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js",
-        "q-c0f73b80.js",
-        "q-f1617c30.js"
-      ],
-      "origins": [
-        "src/routes/menu/history/outgoing-age/renaissance-period/index.mdx"
       ]
     },
     "q-a5976a96.js": {
@@ -6638,6 +7022,43 @@
         "src/routes/menu/navigation/transport/portals/index.mdx"
       ]
     },
+    "q-af8b4926.js": {
+      "size": 69871,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-f30dae64.js"
+      ],
+      "dynamicImports": [
+        "q-198bf484.js"
+      ],
+      "origins": [
+        "node_modules/.prisma/client/index-browser.js",
+        "node_modules/@orama/orama/dist/components/algorithms.js",
+        "node_modules/@orama/orama/dist/components/defaults.js",
+        "node_modules/@orama/orama/dist/components/documents-store.js",
+        "node_modules/@orama/orama/dist/components/hooks.js",
+        "node_modules/@orama/orama/dist/components/index.js",
+        "node_modules/@orama/orama/dist/components/internal-document-id-store.js",
+        "node_modules/@orama/orama/dist/components/levenshtein.js",
+        "node_modules/@orama/orama/dist/components/sorter.js",
+        "node_modules/@orama/orama/dist/components/sync-blocking-checker.js",
+        "node_modules/@orama/orama/dist/components/tokenizer/diacritics.js",
+        "node_modules/@orama/orama/dist/components/tokenizer/english-stemmer.js",
+        "node_modules/@orama/orama/dist/components/tokenizer/index.js",
+        "node_modules/@orama/orama/dist/components/tokenizer/languages.js",
+        "node_modules/@orama/orama/dist/errors.js",
+        "node_modules/@orama/orama/dist/methods/create.js",
+        "node_modules/@orama/orama/dist/methods/insert.js",
+        "node_modules/@orama/orama/dist/trees/avl.js",
+        "node_modules/@orama/orama/dist/trees/radix.js",
+        "node_modules/@orama/orama/dist/types.js",
+        "node_modules/@orama/orama/dist/utils.js",
+        "node_modules/@prisma/client/index-browser.js",
+        "node_modules/@prisma/client/runtime/index-browser.js",
+        "src/orama/index.ts",
+        "src/routes/search/search.tsx"
+      ]
+    },
     "q-afa8d8d2.js": {
       "size": 24138,
       "imports": [
@@ -6655,370 +7076,6 @@
         "src/routes/menu/characters/heroes/manuil-charbonnet/index.mdx"
       ]
     },
-    "q-b03f58f0.js": {
-      "size": 62328,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-9f0f295b.js"
-      ],
-      "dynamicImports": [
-        "q-000a5036.js",
-        "q-0161dc57.js",
-        "q-02214c44.js",
-        "q-0277192b.js",
-        "q-0299561b.js",
-        "q-029f11b0.js",
-        "q-045d1695.js",
-        "q-04ce7a46.js",
-        "q-052d0711.js",
-        "q-063f77b4.js",
-        "q-07642dbf.js",
-        "q-07db3738.js",
-        "q-083b71d9.js",
-        "q-08428ec6.js",
-        "q-09b2c0dc.js",
-        "q-0ac22403.js",
-        "q-0b03f328.js",
-        "q-0b134e9c.js",
-        "q-0b3c1b5b.js",
-        "q-0b5860a9.js",
-        "q-0c4ad8db.js",
-        "q-0c552454.js",
-        "q-0cc8a524.js",
-        "q-1116aa94.js",
-        "q-112e97ee.js",
-        "q-118aa880.js",
-        "q-11fca489.js",
-        "q-12e07d3d.js",
-        "q-12eb065d.js",
-        "q-13583aa6.js",
-        "q-14060bb9.js",
-        "q-17ac5e31.js",
-        "q-1957cc90.js",
-        "q-1b130037.js",
-        "q-1cd65e31.js",
-        "q-20146678.js",
-        "q-20aa21df.js",
-        "q-219a0203.js",
-        "q-21d97dcb.js",
-        "q-22e1e9cb.js",
-        "q-233e53d8.js",
-        "q-23462c34.js",
-        "q-23dc09bb.js",
-        "q-260311b3.js",
-        "q-264bafd0.js",
-        "q-2717bbc8.js",
-        "q-29263663.js",
-        "q-2baa66d2.js",
-        "q-2be0f4f3.js",
-        "q-2c960498.js",
-        "q-2cf8f539.js",
-        "q-2e3bfb03.js",
-        "q-2ea7ec58.js",
-        "q-2eafa113.js",
-        "q-2f4e0584.js",
-        "q-2f5c1091.js",
-        "q-2f749ffb.js",
-        "q-2fa8c614.js",
-        "q-308cab80.js",
-        "q-3097a24b.js",
-        "q-30aa34f5.js",
-        "q-30e3f724.js",
-        "q-315b3396.js",
-        "q-31aba048.js",
-        "q-322a2fd3.js",
-        "q-322d8298.js",
-        "q-3269633c.js",
-        "q-32d0d6a4.js",
-        "q-338ae33a.js",
-        "q-33a5888c.js",
-        "q-34035ae6.js",
-        "q-34b561ed.js",
-        "q-34e24358.js",
-        "q-36677da5.js",
-        "q-37394130.js",
-        "q-3795766a.js",
-        "q-38296414.js",
-        "q-39419e24.js",
-        "q-3952bc48.js",
-        "q-39be2e14.js",
-        "q-39d99797.js",
-        "q-3b4612fd.js",
-        "q-3c3706bc.js",
-        "q-3c3d9200.js",
-        "q-3d54844f.js",
-        "q-3e1dda98.js",
-        "q-3e207494.js",
-        "q-3e28ee51.js",
-        "q-3fb7fc6f.js",
-        "q-3fec28d2.js",
-        "q-40db5fbe.js",
-        "q-415d91cd.js",
-        "q-4171d92d.js",
-        "q-4409bdb3.js",
-        "q-47c5ae8f.js",
-        "q-48965134.js",
-        "q-48b843bf.js",
-        "q-49275905.js",
-        "q-498337fa.js",
-        "q-4a2fe76b.js",
-        "q-4a9d3a40.js",
-        "q-4b8cf593.js",
-        "q-4c62c424.js",
-        "q-4c7f6f6f.js",
-        "q-4f0b9494.js",
-        "q-5161a6ea.js",
-        "q-51864ca4.js",
-        "q-51bfcc5b.js",
-        "q-51c4cc3a.js",
-        "q-530c5a55.js",
-        "q-531b030b.js",
-        "q-537c6f0c.js",
-        "q-54bbe005.js",
-        "q-5742ad7f.js",
-        "q-577fc2b5.js",
-        "q-57c67ae6.js",
-        "q-5a39ffb9.js",
-        "q-5c4f685a.js",
-        "q-5c714b0c.js",
-        "q-5cf3f992.js",
-        "q-5d101406.js",
-        "q-5d53ffd3.js",
-        "q-5da93f53.js",
-        "q-5f74cf99.js",
-        "q-5f8e6301.js",
-        "q-60d75d1e.js",
-        "q-6109a8a3.js",
-        "q-612bea0d.js",
-        "q-615d6d2e.js",
-        "q-6187f323.js",
-        "q-630eeb6f.js",
-        "q-642b53c1.js",
-        "q-64bba4fe.js",
-        "q-6576b5fc.js",
-        "q-663ee37e.js",
-        "q-665f4331.js",
-        "q-66c027dd.js",
-        "q-6723ac50.js",
-        "q-67c1cff6.js",
-        "q-67f57fa5.js",
-        "q-692112e8.js",
-        "q-6924f551.js",
-        "q-6c55f89e.js",
-        "q-6e664107.js",
-        "q-6e83aa55.js",
-        "q-6e93ba12.js",
-        "q-6f652a7b.js",
-        "q-6f690554.js",
-        "q-70a8a7db.js",
-        "q-7202a99b.js",
-        "q-72da9590.js",
-        "q-736bbdba.js",
-        "q-744dd4e1.js",
-        "q-750f3ba7.js",
-        "q-763734dd.js",
-        "q-7638c425.js",
-        "q-78617ffa.js",
-        "q-794ba970.js",
-        "q-7a39d153.js",
-        "q-7b56236a.js",
-        "q-7b786b9d.js",
-        "q-7d930247.js",
-        "q-7e67b18d.js",
-        "q-7eb7c0c2.js",
-        "q-7f82bb21.js",
-        "q-80fdfe21.js",
-        "q-82142660.js",
-        "q-822611b9.js",
-        "q-82aeb645.js",
-        "q-840a2381.js",
-        "q-84c52d92.js",
-        "q-84cd5bec.js",
-        "q-856af777.js",
-        "q-868b2b70.js",
-        "q-8757301a.js",
-        "q-88b4f88c.js",
-        "q-8ac3c5d5.js",
-        "q-8ce0118a.js",
-        "q-8ceb79f0.js",
-        "q-8e06d252.js",
-        "q-8f12793b.js",
-        "q-8f2d8f61.js",
-        "q-8f62e2f8.js",
-        "q-952466af.js",
-        "q-95ab4c00.js",
-        "q-95acbfd9.js",
-        "q-96454472.js",
-        "q-96eab3ba.js",
-        "q-990ffa50.js",
-        "q-9a6adcd3.js",
-        "q-9a8c7458.js",
-        "q-9ae040ea.js",
-        "q-9dac9c69.js",
-        "q-9db7f444.js",
-        "q-9e0d3559.js",
-        "q-9e53aab5.js",
-        "q-9ef91619.js",
-        "q-9f47696c.js",
-        "q-a10dcdf9.js",
-        "q-a16ab59b.js",
-        "q-a1e8421f.js",
-        "q-a22ca7e4.js",
-        "q-a2aee6eb.js",
-        "q-a4a45cd9.js",
-        "q-a53c7465.js",
-        "q-a5472d68.js",
-        "q-a58c4c98.js",
-        "q-a5976a96.js",
-        "q-a67963eb.js",
-        "q-a7205b5d.js",
-        "q-a728b247.js",
-        "q-a849303f.js",
-        "q-a8d8ec57.js",
-        "q-a93810bf.js",
-        "q-aa4f8f86.js",
-        "q-aab69492.js",
-        "q-acb9ea16.js",
-        "q-acf3fb54.js",
-        "q-ad997fc4.js",
-        "q-adb9c7cd.js",
-        "q-add7d33e.js",
-        "q-ae4b1b69.js",
-        "q-af024112.js",
-        "q-af40c298.js",
-        "q-afa8d8d2.js",
-        "q-b0451d57.js",
-        "q-b0b0ed52.js",
-        "q-b0b17010.js",
-        "q-b1103275.js",
-        "q-b1378e25.js",
-        "q-b1d8a95a.js",
-        "q-b1ea819e.js",
-        "q-b46bef8f.js",
-        "q-b5349b33.js",
-        "q-b6def2d9.js",
-        "q-b701bd4a.js",
-        "q-b82322dc.js",
-        "q-b9f72459.js",
-        "q-bb08063c.js",
-        "q-bb8e8e8a.js",
-        "q-bc7fee73.js",
-        "q-bd1a08a1.js",
-        "q-bdcc92fe.js",
-        "q-bdd9852d.js",
-        "q-bf995b5b.js",
-        "q-bff63e2f.js",
-        "q-c076cbaf.js",
-        "q-c07d83b2.js",
-        "q-c35253af.js",
-        "q-c3a15a72.js",
-        "q-c49cfd24.js",
-        "q-c52e6605.js",
-        "q-c55398a5.js",
-        "q-c60fa108.js",
-        "q-c80ac252.js",
-        "q-c8bd9502.js",
-        "q-c91a0951.js",
-        "q-c94ddb19.js",
-        "q-c957fdd5.js",
-        "q-c9c0f330.js",
-        "q-ca34a003.js",
-        "q-ca65d1d3.js",
-        "q-cc4127c5.js",
-        "q-cc623b83.js",
-        "q-ccee19d8.js",
-        "q-cd63a37b.js",
-        "q-cd817811.js",
-        "q-cdd25d99.js",
-        "q-ce84c20c.js",
-        "q-ce9faeae.js",
-        "q-cea8779e.js",
-        "q-d030a7a2.js",
-        "q-d1b2a37e.js",
-        "q-d1db3f21.js",
-        "q-d2f6e296.js",
-        "q-d3270458.js",
-        "q-d35a9117.js",
-        "q-d47dc47a.js",
-        "q-d510fe06.js",
-        "q-d56124bf.js",
-        "q-d5abf0d5.js",
-        "q-d6f35c1f.js",
-        "q-d75f0c64.js",
-        "q-d7864e09.js",
-        "q-d881dbe9.js",
-        "q-d92a555c.js",
-        "q-d98c47a0.js",
-        "q-da50e3be.js",
-        "q-da691d44.js",
-        "q-daaa9818.js",
-        "q-dd350f45.js",
-        "q-dd66610a.js",
-        "q-de0542d8.js",
-        "q-deae0b29.js",
-        "q-dff5d501.js",
-        "q-e130efbe.js",
-        "q-e226d2c4.js",
-        "q-e36266b3.js",
-        "q-e3d72624.js",
-        "q-e429c9b6.js",
-        "q-e46467c6.js",
-        "q-e4e93860.js",
-        "q-e52a6f19.js",
-        "q-e53eca8a.js",
-        "q-e5d2e5f6.js",
-        "q-e7db6629.js",
-        "q-e93680eb.js",
-        "q-ea760e4d.js",
-        "q-ea8ed0da.js",
-        "q-eafe9427.js",
-        "q-eb1cfaad.js",
-        "q-eb6557c8.js",
-        "q-ebc1dc68.js",
-        "q-ec3aa2e5.js",
-        "q-ec63dec8.js",
-        "q-ec811e49.js",
-        "q-ecc8e6a8.js",
-        "q-edeb967d.js",
-        "q-edf8e33e.js",
-        "q-ee1a07be.js",
-        "q-eebd25ba.js",
-        "q-eecbe435.js",
-        "q-ef3aefe7.js",
-        "q-efd730bd.js",
-        "q-f020588d.js",
-        "q-f0c261b0.js",
-        "q-f22eabae.js",
-        "q-f2a059c0.js",
-        "q-f47d2c7e.js",
-        "q-f7df75cb.js",
-        "q-f8195ea0.js",
-        "q-f8fa8c06.js",
-        "q-f95c31ce.js",
-        "q-f9f69cbe.js",
-        "q-fac5272e.js",
-        "q-fae4eefe.js",
-        "q-fb20b74a.js",
-        "q-fd6e5889.js",
-        "q-fdebdd34.js",
-        "q-ff054910.js",
-        "q-ffb5866f.js"
-      ],
-      "origins": [
-        "@qwik-city-plan",
-        "src/entry_QwikCityProvider.js",
-        "src/s_02wmimzeabk.js",
-        "src/s_fx0bdjeja0e.js",
-        "src/s_rpdjaz33wla.js",
-        "src/s_txcfoy819ag.js"
-      ],
-      "symbols": [
-        "s_02wMImzEAbk",
-        "s_fX0bDjeJa0E",
-        "s_RPDJAz33WLA",
-        "s_TxCFOy819ag"
-      ]
-    },
     "q-b0451d57.js": {
       "size": 634,
       "imports": [
@@ -7029,19 +7086,6 @@
       ],
       "origins": [
         "src/routes/menu/characters/canons/teyel/teodor/index.mdx"
-      ]
-    },
-    "q-b0b0ed52.js": {
-      "size": 1709,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-5e344562.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js"
-      ],
-      "origins": [
-        "src/routes/menu/plot/local/femme-fatale/index.mdx"
       ]
     },
     "q-b0b17010.js": {
@@ -7065,17 +7109,6 @@
         "s_CpB8DhSIYvc"
       ]
     },
-    "q-b1103275.js": {
-      "size": 1888,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-f1617c30.js",
-        "q-fcb479e2.js"
-      ],
-      "origins": [
-        "src/routes/menu/characters/canons/mordwin/tilf/index.mdx"
-      ]
-    },
     "q-b1378e25.js": {
       "size": 2599,
       "imports": [
@@ -7084,6 +7117,19 @@
       ],
       "origins": [
         "src/routes/menu/guidebook/books/herbarium/herbs/aspid-tongue/index.mdx"
+      ]
+    },
+    "q-b19d890f.js": {
+      "size": 376,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-f30dae64.js"
+      ],
+      "dynamicImports": [
+        "q-75a24aa3.js"
+      ],
+      "origins": [
+        "src/routes/layout.tsx"
       ]
     },
     "q-b1d8a95a.js": {
@@ -7158,6 +7204,19 @@
         "src/components/visuals/calendar/calendar.tsx"
       ]
     },
+    "q-b518bba4.js": {
+      "size": 4234,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-22b247a7.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/guilds/admiralty/index.mdx"
+      ]
+    },
     "q-b5349b33.js": {
       "size": 608,
       "imports": [
@@ -7167,6 +7226,20 @@
       ],
       "origins": [
         "src/routes/menu/characters/heroes/index.mdx"
+      ]
+    },
+    "q-b6a58a69.js": {
+      "size": 663,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-f30dae64.js"
+      ],
+      "origins": [
+        "src/entry_RouterHead.js",
+        "src/s_0vphqyqodzi.js"
+      ],
+      "symbols": [
+        "s_0vphQYqOdZI"
       ]
     },
     "q-b6def2d9.js": {
@@ -7180,21 +7253,6 @@
         "src/routes/menu/guidebook/index.mdx"
       ]
     },
-    "q-b701bd4a.js": {
-      "size": 31429,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-4631a7c6.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-ab9676d6.js",
-        "q-c037a95c.js",
-        "q-dd92002a.js"
-      ],
-      "origins": [
-        "src/routes/menu/guidebook/races/lamah/index.mdx"
-      ]
-    },
     "q-b770b7ca.js": {
       "size": 77,
       "origins": [
@@ -7202,28 +7260,6 @@
       ],
       "symbols": [
         "s_FJrqhgz9sas"
-      ]
-    },
-    "q-b7ae1503.js": {
-      "size": 2395,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-9f0f295b.js",
-        "q-ec811e49.js"
-      ],
-      "origins": [
-        "src/entry_audio.js",
-        "src/s_8bt26eu8yw0.js",
-        "src/s_ltkdk1j2lfg.js",
-        "src/s_ook6l8sdyki.js",
-        "src/s_vey93apm8aq.js"
-      ],
-      "symbols": [
-        "s_8bt26EU8yW0",
-        "s_LtkDK1J2lfg",
-        "s_Ook6l8SDYkI",
-        "s_vEy93aPm8AQ"
       ]
     },
     "q-b82322dc.js": {
@@ -7252,24 +7288,6 @@
         "src/components/tools/magic/magic-spell.tsx"
       ]
     },
-    "q-b92c53fd.js": {
-      "size": 973,
-      "imports": [
-        "q-02a9feec.js",
-        "q-0a61ba82.js",
-        "q-9f0f295b.js",
-        "q-ec811e49.js"
-      ],
-      "origins": [
-        "src/entry_content_menu.js",
-        "src/s_m1u963aliag.js",
-        "src/s_my60yszla60.js"
-      ],
-      "symbols": [
-        "s_m1u963AliAg",
-        "s_MY60yszlA60"
-      ]
-    },
     "q-b9c77197.js": {
       "size": 614,
       "imports": [
@@ -7292,6 +7310,44 @@
       ],
       "origins": [
         "src/routes/menu/characters/index.mdx"
+      ]
+    },
+    "q-ba4e1e15.js": {
+      "size": 2134,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-5e344562.js",
+        "q-8e27b816.js",
+        "q-dc45940e.js"
+      ],
+      "dynamicImports": [
+        "q-d05029a8.js"
+      ],
+      "origins": [
+        "src/components/locked-data/locked-data.tsx",
+        "src/routes/menu/plot/global/emptiness/index.mdx"
+      ]
+    },
+    "q-ba7132e3.js": {
+      "size": 2395,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-b19d890f.js",
+        "q-dc45940e.js",
+        "q-f30dae64.js"
+      ],
+      "origins": [
+        "src/entry_audio.js",
+        "src/s_8bt26eu8yw0.js",
+        "src/s_ltkdk1j2lfg.js",
+        "src/s_ook6l8sdyki.js",
+        "src/s_vey93apm8aq.js"
+      ],
+      "symbols": [
+        "s_8bt26EU8yW0",
+        "s_LtkDK1J2lfg",
+        "s_Ook6l8SDYkI",
+        "s_vEy93aPm8AQ"
       ]
     },
     "q-bae398e5.js": {
@@ -7325,6 +7381,17 @@
       ],
       "origins": [
         "src/routes/menu/skills/crafts/smithing/index.mdx"
+      ]
+    },
+    "q-bbe62bdd.js": {
+      "size": 2607,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-f1617c30.js",
+        "q-fcb479e2.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/canons/flatria/meyrad/index.mdx"
       ]
     },
     "q-bc7fee73.js": {
@@ -7447,21 +7514,6 @@
         "src/components/containers/blockquote-box/blockquote-box.tsx"
       ]
     },
-    "q-c076cbaf.js": {
-      "size": 9644,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js",
-        "q-c0f73b80.js",
-        "q-dd92002a.js",
-        "q-f1617c30.js"
-      ],
-      "origins": [
-        "src/routes/menu/history/outgoing-age/recovery-period/index.mdx"
-      ]
-    },
     "q-c07d83b2.js": {
       "size": 1018,
       "imports": [
@@ -7499,6 +7551,19 @@
       ],
       "symbols": [
         "s_D0g9d1reegc"
+      ]
+    },
+    "q-c338244b.js": {
+      "size": 12889,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-8e27b816.js",
+        "q-c0f73b80.js",
+        "q-dc45940e.js",
+        "q-f1617c30.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/outgoing-age/resistentia/index.mdx"
       ]
     },
     "q-c35253af.js": {
@@ -7540,22 +7605,6 @@
         "src/routes/menu/history/timeline/index.mdx"
       ]
     },
-    "q-c55398a5.js": {
-      "size": 18830,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-2f0e0425.js",
-        "q-4631a7c6.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-ab9676d6.js",
-        "q-c037a95c.js",
-        "q-dd92002a.js"
-      ],
-      "origins": [
-        "src/routes/menu/guidebook/races/besties/index.mdx"
-      ]
-    },
     "q-c5811cf7.js": {
       "size": 21430,
       "origins": [
@@ -7565,18 +7614,17 @@
         "src/routes/menu/characters/wanted/wanted.js"
       ]
     },
-    "q-c60fa108.js": {
-      "size": 10719,
+    "q-c7dcc968.js": {
+      "size": 2827,
       "imports": [
         "q-0a61ba82.js",
-        "q-51bee478.js",
+        "q-5e344562.js",
         "q-8e27b816.js",
         "q-c037a95c.js",
-        "q-c0f73b80.js",
-        "q-f1617c30.js"
+        "q-dc45940e.js"
       ],
       "origins": [
-        "src/routes/menu/history/outgoing-age/stillborn-indict/index.mdx"
+        "src/routes/menu/plot/main/apotheosis/index.mdx"
       ]
     },
     "q-c8036e13.js": {
@@ -7673,6 +7721,22 @@
         "src/routes/menu/magic/basics/theory/index.mdx"
       ]
     },
+    "q-c95d6b2c.js": {
+      "size": 787,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-f30dae64.js"
+      ],
+      "origins": [
+        "src/entry_QwikCityMockProvider.js",
+        "src/s_bubtvtyvvre.js",
+        "src/s_wmyc5h00wti.js"
+      ],
+      "symbols": [
+        "s_BUbtvTyvVRE",
+        "s_WmYC5H00wtI"
+      ]
+    },
     "q-c9c0f330.js": {
       "size": 3660,
       "imports": [
@@ -7690,30 +7754,6 @@
       ],
       "origins": [
         "src/routes/menu/navigation/locations/location_49226363/index.mdx"
-      ]
-    },
-    "q-ca65d1d3.js": {
-      "size": 2496,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-f1617c30.js",
-        "q-fcb479e2.js"
-      ],
-      "origins": [
-        "src/routes/menu/characters/canons/flatria/meyrad/index.mdx"
-      ]
-    },
-    "q-cc4127c5.js": {
-      "size": 1787,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-5e344562.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js"
-      ],
-      "origins": [
-        "src/routes/menu/plot/local/shards/index.mdx"
       ]
     },
     "q-cc623b83.js": {
@@ -7794,6 +7834,17 @@
         "s_2PZ8C55ZLkI"
       ]
     },
+    "q-ce4d0a79.js": {
+      "size": 785,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-8e27b816.js",
+        "q-dc45940e.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/guilds/inferdormis/index.mdx"
+      ]
+    },
     "q-ce84c20c.js": {
       "size": 2619,
       "imports": [
@@ -7826,6 +7877,22 @@
       ],
       "origins": [
         "src/routes/menu/magic/places/index.mdx"
+      ]
+    },
+    "q-cf9b3ae1.js": {
+      "size": 1032,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-f30dae64.js"
+      ],
+      "origins": [
+        "src/entry_GetForm.js",
+        "src/s_nk9plpjqm9y.js",
+        "src/s_p9msze0ojs4.js"
+      ],
+      "symbols": [
+        "s_Nk9PlpjQm9Y",
+        "s_p9MSze0ojs4"
       ]
     },
     "q-d000b81f.js": {
@@ -7865,6 +7932,19 @@
       ],
       "symbols": [
         "s_Sw5k4t8ghmA"
+      ]
+    },
+    "q-d0617517.js": {
+      "size": 2517,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js",
+        "q-f1617c30.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/occultism/enigma/index.mdx"
       ]
     },
     "q-d0cb239f.js": {
@@ -7977,21 +8057,6 @@
         "src/routes/menu/guidebook/books/herbarium/herbs/glace/index.mdx"
       ]
     },
-    "q-d510fe06.js": {
-      "size": 15831,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-2f0e0425.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-ab9676d6.js",
-        "q-c037a95c.js",
-        "q-dd92002a.js"
-      ],
-      "origins": [
-        "src/routes/menu/guidebook/races/kharfirs/index.mdx"
-      ]
-    },
     "q-d56124bf.js": {
       "size": 1822,
       "imports": [
@@ -8011,6 +8076,23 @@
       ],
       "origins": [
         "src/routes/menu/navigation/locations/location_49194167/index.mdx"
+      ]
+    },
+    "q-d5ef09dd.js": {
+      "size": 46778,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-1d659ccd.js",
+        "q-2f0e0425.js",
+        "q-abdbbbff.js",
+        "q-b919d193.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js",
+        "q-f1617c30.js",
+        "q-fcb479e2.js"
+      ],
+      "origins": [
+        "src/routes/menu/characters/heroes/maev-tinkera/index.mdx"
       ]
     },
     "q-d665e589.js": {
@@ -8064,22 +8146,6 @@
         "src/routes/menu/navigation/cosmology/index.mdx"
       ]
     },
-    "q-d881dbe9.js": {
-      "size": 13346,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-2f0e0425.js",
-        "q-4631a7c6.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-ab9676d6.js",
-        "q-c037a95c.js",
-        "q-dd92002a.js"
-      ],
-      "origins": [
-        "src/routes/menu/guidebook/races/dwarves/index.mdx"
-      ]
-    },
     "q-d8ea9b3c.js": {
       "size": 431,
       "imports": [
@@ -8127,6 +8193,25 @@
         "src/routes/menu/guidebook/books/bestiary/elementals/wind/index.mdx"
       ]
     },
+    "q-da557757.js": {
+      "size": 16358,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-35a024c7.js",
+        "q-4631a7c6.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js",
+        "q-f1617c30.js"
+      ],
+      "dynamicImports": [
+        "q-b9c77197.js"
+      ],
+      "origins": [
+        "src/components/controls/button-text/button-text.tsx",
+        "src/routes/menu/skills/occultism/index.mdx"
+      ]
+    },
     "q-da691d44.js": {
       "size": 1416,
       "imports": [
@@ -8158,6 +8243,18 @@
         "s_ESv2Hk3iXJ4"
       ]
     },
+    "q-dc45940e.js": {
+      "size": 283,
+      "imports": [
+        "q-0a61ba82.js"
+      ],
+      "dynamicImports": [
+        "q-ba7132e3.js"
+      ],
+      "origins": [
+        "src/components/audio/audio.tsx"
+      ]
+    },
     "q-dd350f45.js": {
       "size": 638,
       "imports": [
@@ -8168,19 +8265,6 @@
       ],
       "origins": [
         "src/routes/menu/characters/canons/teyel/mattor/index.mdx"
-      ]
-    },
-    "q-dd66610a.js": {
-      "size": 9276,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-4631a7c6.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js"
-      ],
-      "origins": [
-        "src/routes/menu/skills/science/mechanics/index.mdx"
       ]
     },
     "q-dd92002a.js": {
@@ -8249,6 +8333,18 @@
         "s_tqu3xU0aKl0"
       ]
     },
+    "q-de3d878f.js": {
+      "size": 9028,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js"
+      ],
+      "origins": [
+        "src/routes/menu/skills/science/chimerology/index.mdx"
+      ]
+    },
     "q-deae0b29.js": {
       "size": 3412,
       "imports": [
@@ -8273,6 +8369,18 @@
         "src/routes/menu/manual/quick-start/index.mdx"
       ]
     },
+    "q-e06be201.js": {
+      "size": 17239,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/vampires/index.mdx"
+      ]
+    },
     "q-e098ec22.js": {
       "size": 179,
       "imports": [
@@ -8283,23 +8391,6 @@
       ],
       "origins": [
         "src/components/controls/button-header/button-header.tsx"
-      ]
-    },
-    "q-e0fd6495.js": {
-      "size": 870,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-9f0f295b.js",
-        "q-ec811e49.js"
-      ],
-      "origins": [
-        "src/entry_sidebar_button.js",
-        "src/s_1jnt10l8gmi.js",
-        "src/s_zfe0f5obaac.js"
-      ],
-      "symbols": [
-        "s_1jNt10l8gMI",
-        "s_zFe0f5obaAc"
       ]
     },
     "q-e130efbe.js": {
@@ -8333,6 +8424,20 @@
       ],
       "origins": [
         "src/components/controls/button-lore/button-lore.tsx"
+      ]
+    },
+    "q-e301aa55.js": {
+      "size": 12622,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-8e27b816.js",
+        "q-c037a95c.js",
+        "q-c0f73b80.js",
+        "q-dc45940e.js",
+        "q-f1617c30.js"
+      ],
+      "origins": [
+        "src/routes/menu/history/outgoing-age/ruins-haze/index.mdx"
       ]
     },
     "q-e34fecfe.js": {
@@ -8471,6 +8576,19 @@
         "s_mvDTzX13elA"
       ]
     },
+    "q-e75cfa4d.js": {
+      "size": 128,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-f30dae64.js"
+      ],
+      "origins": [
+        "src/s_ebq0vfsfksk.js"
+      ],
+      "symbols": [
+        "s_eBQ0vFsFKsk"
+      ]
+    },
     "q-e7db6629.js": {
       "size": 3427,
       "imports": [
@@ -8581,18 +8699,6 @@
         "src/components/side-toc/disable-toc.tsx"
       ]
     },
-    "q-ebc1dc68.js": {
-      "size": 1375,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-5e344562.js",
-        "q-8e27b816.js"
-      ],
-      "origins": [
-        "src/routes/menu/plot/global/heromantia/index.mdx"
-      ]
-    },
     "q-ec3aa2e5.js": {
       "size": 626,
       "imports": [
@@ -8615,19 +8721,6 @@
         "src/routes/menu/guidebook/books/herbarium/herbs/mirflower/index.mdx"
       ]
     },
-    "q-ec811e49.js": {
-      "size": 376,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-9f0f295b.js"
-      ],
-      "dynamicImports": [
-        "q-2fb87382.js"
-      ],
-      "origins": [
-        "src/routes/layout.tsx"
-      ]
-    },
     "q-ecc8e6a8.js": {
       "size": 1175,
       "imports": [
@@ -8646,19 +8739,6 @@
       ],
       "origins": [
         "src/routes/menu/magic/index.mdx"
-      ]
-    },
-    "q-edf8e33e.js": {
-      "size": 2517,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-c037a95c.js",
-        "q-f1617c30.js"
-      ],
-      "origins": [
-        "src/routes/menu/skills/occultism/enigma/index.mdx"
       ]
     },
     "q-ee1a07be.js": {
@@ -8707,6 +8787,21 @@
         "src/routes/menu/navigation/locations/location_49194142/index.mdx"
       ]
     },
+    "q-eee601a7.js": {
+      "size": 15831,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-2f0e0425.js",
+        "q-8e27b816.js",
+        "q-ab9676d6.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js",
+        "q-dd92002a.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/kharfirs/index.mdx"
+      ]
+    },
     "q-ef3aefe7.js": {
       "size": 2695,
       "imports": [
@@ -8726,21 +8821,6 @@
       ],
       "origins": [
         "src/routes/menu/guidebook/races/gallery/index.tsx"
-      ]
-    },
-    "q-f020588d.js": {
-      "size": 36317,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-2f0e0425.js",
-        "q-4631a7c6.js",
-        "q-51bee478.js",
-        "q-c037a95c.js",
-        "q-f1617c30.js",
-        "q-fcb479e2.js"
-      ],
-      "origins": [
-        "src/routes/menu/characters/heroes/muru-muru/index.mdx"
       ]
     },
     "q-f07d889c.js": {
@@ -8786,18 +8866,6 @@
         "src/components/visuals/niheria-ruler/niheria-ruler.tsx"
       ]
     },
-    "q-f22eabae.js": {
-      "size": 1845,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-51bee478.js",
-        "q-5e344562.js",
-        "q-8e27b816.js"
-      ],
-      "origins": [
-        "src/routes/menu/plot/main/wanderers/index.mdx"
-      ]
-    },
     "q-f2a059c0.js": {
       "size": 28389,
       "imports": [
@@ -8808,6 +8876,22 @@
       ],
       "origins": [
         "src/routes/menu/characters/heroes/kragah/index.mdx"
+      ]
+    },
+    "q-f30dae64.js": {
+      "size": 8432,
+      "imports": [
+        "q-0a61ba82.js"
+      ],
+      "dynamicImports": [
+        "q-620ee464.js",
+        "q-663033b0.js",
+        "q-6942e5bb.js",
+        "q-7d303717.js"
+      ],
+      "origins": [
+        "@qwik-city-sw-register",
+        "node_modules/@builder.io/qwik-city/index.qwik.mjs"
       ]
     },
     "q-f37d3b5e.js": {
@@ -8902,41 +8986,6 @@
         "src/routes/menu/skills/crafts/warfare/index.mdx"
       ]
     },
-    "q-fa595808.js": {
-      "size": 889,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-9f0f295b.js"
-      ],
-      "origins": [
-        "src/entry_serverQrl.js",
-        "src/s_woipfiq04l4.js"
-      ],
-      "symbols": [
-        "s_wOIPfiQ04l4"
-      ]
-    },
-    "q-fa676d18.js": {
-      "size": 1212,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-9f0f295b.js",
-        "q-fc4b8dc4.js"
-      ],
-      "origins": [
-        "src/entry_search.js",
-        "src/s_g8lfxwebubw.js",
-        "src/s_ljykqywyxxw.js",
-        "src/s_skbxl1s6cpk.js",
-        "src/s_t06m6uzoxbw.js"
-      ],
-      "symbols": [
-        "s_g8LFxWebubw",
-        "s_LJyKQyWyxxw",
-        "s_sKbxL1s6cpk",
-        "s_T06M6uZoXbw"
-      ]
-    },
     "q-faba4956.js": {
       "size": 77,
       "origins": [
@@ -8944,17 +8993,6 @@
       ],
       "symbols": [
         "s_jiLRJA0hKXE"
-      ]
-    },
-    "q-fac5272e.js": {
-      "size": 2733,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-f1617c30.js",
-        "q-fcb479e2.js"
-      ],
-      "origins": [
-        "src/routes/menu/characters/canons/mordwin/wbargah/index.mdx"
       ]
     },
     "q-fae4eefe.js": {
@@ -8965,20 +9003,6 @@
       ],
       "origins": [
         "src/routes/menu/skills/crafts/hunting/index.mdx"
-      ]
-    },
-    "q-fb20b74a.js": {
-      "size": 15113,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-2f0e0425.js",
-        "q-51bee478.js",
-        "q-8e27b816.js",
-        "q-ab9676d6.js",
-        "q-c037a95c.js"
-      ],
-      "origins": [
-        "src/routes/menu/guidebook/races/humans/index.mdx"
       ]
     },
     "q-fb2ea131.js": {
@@ -9006,57 +9030,6 @@
       ],
       "symbols": [
         "s_9OpJcZqTkSc"
-      ]
-    },
-    "q-fc4801f4.js": {
-      "size": 663,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-9f0f295b.js"
-      ],
-      "origins": [
-        "src/entry_RouterHead.js",
-        "src/s_0vphqyqodzi.js"
-      ],
-      "symbols": [
-        "s_0vphQYqOdZI"
-      ]
-    },
-    "q-fc4b8dc4.js": {
-      "size": 69871,
-      "imports": [
-        "q-0a61ba82.js",
-        "q-9f0f295b.js"
-      ],
-      "dynamicImports": [
-        "q-fa676d18.js"
-      ],
-      "origins": [
-        "node_modules/.prisma/client/index-browser.js",
-        "node_modules/@orama/orama/dist/components/algorithms.js",
-        "node_modules/@orama/orama/dist/components/defaults.js",
-        "node_modules/@orama/orama/dist/components/documents-store.js",
-        "node_modules/@orama/orama/dist/components/hooks.js",
-        "node_modules/@orama/orama/dist/components/index.js",
-        "node_modules/@orama/orama/dist/components/internal-document-id-store.js",
-        "node_modules/@orama/orama/dist/components/levenshtein.js",
-        "node_modules/@orama/orama/dist/components/sorter.js",
-        "node_modules/@orama/orama/dist/components/sync-blocking-checker.js",
-        "node_modules/@orama/orama/dist/components/tokenizer/diacritics.js",
-        "node_modules/@orama/orama/dist/components/tokenizer/english-stemmer.js",
-        "node_modules/@orama/orama/dist/components/tokenizer/index.js",
-        "node_modules/@orama/orama/dist/components/tokenizer/languages.js",
-        "node_modules/@orama/orama/dist/errors.js",
-        "node_modules/@orama/orama/dist/methods/create.js",
-        "node_modules/@orama/orama/dist/methods/insert.js",
-        "node_modules/@orama/orama/dist/trees/avl.js",
-        "node_modules/@orama/orama/dist/trees/radix.js",
-        "node_modules/@orama/orama/dist/types.js",
-        "node_modules/@orama/orama/dist/utils.js",
-        "node_modules/@prisma/client/index-browser.js",
-        "node_modules/@prisma/client/runtime/index-browser.js",
-        "src/orama/index.ts",
-        "src/routes/search/search.tsx"
       ]
     },
     "q-fcb479e2.js": {
@@ -9090,6 +9063,33 @@
       ],
       "origins": [
         "src/routes/menu/magic/branches/black/index.mdx"
+      ]
+    },
+    "q-fdf6b55a.js": {
+      "size": 31429,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-4631a7c6.js",
+        "q-8e27b816.js",
+        "q-ab9676d6.js",
+        "q-c037a95c.js",
+        "q-dc45940e.js",
+        "q-dd92002a.js"
+      ],
+      "origins": [
+        "src/routes/menu/guidebook/races/lamah/index.mdx"
+      ]
+    },
+    "q-fe1f529a.js": {
+      "size": 1375,
+      "imports": [
+        "q-0a61ba82.js",
+        "q-5e344562.js",
+        "q-8e27b816.js",
+        "q-dc45940e.js"
+      ],
+      "origins": [
+        "src/routes/menu/plot/global/heromantia/index.mdx"
       ]
     },
     "q-fe587a72.js": {
