@@ -1,0 +1,16 @@
+---
+title: Шаблоны
+---
+
+import Board from '~/components/containers/board/board';
+import ButtonRect from '~/components/controls/button-rect/button-rect';
+
+<Board columns={2}>
+    <ButtonRect title="Анкета" href="quenta" src="quenta\pic.jpg" />
+    <ButtonRect title="Поиск игрока" href="search-coop" src="search-coop\pic.jpg" />
+</Board>
+<Board columns={3}>
+    <ButtonRect title="Локация" href="location" src="location\pic.jpg"/>
+    <ButtonRect title="Существо" href="beast" src="beast\pic.jpg"/>
+    <ButtonRect title="Растение" href="plant" src="plant\pic.jpg"/>
+</Board>

@@ -1,0 +1,26 @@
+---
+title: Сюжет
+---
+import ButtonHeader from "~/components/controls/button-header/button-header";
+import ButtonRect from "~/components/controls/button-rect/button-rect";
+import Board from "~/components/containers/board/board";
+
+<ButtonHeader size={1} title="Главные квесты" subtitle="Квесты всесторонне влияющие на главный сюжет Нихерии"/>
+<Board columns={3}>
+    <ButtonRect title="Апофеоз Войны" src="main/apotheosis/pic.jpg" href="main/apotheosis" />
+    <ButtonRect title="Херомантия" src="global/heromantia/pic.jpg" href="global/heromantia" />
+    <ButtonRect title="Сакральный Хладагент" src="main/sacral/pic.jpg" href="main/sacral" />
+</Board>
+<ButtonHeader size={1} title="Глобальные квесты" subtitle="Внутренняя политика, проблемы рас и территорий, пути развития, фрагменты истории и т.д."/>
+<Board columns={3}>
+    <ButtonRect title="Блаженство Пустоты" src="global/emptiness/pic.jpg" href="global/emptiness" />
+    <ButtonRect title="Скитальцы" src="main/wanderers/pic.jpg" href="main/wanderers" />
+    <ButtonRect title="Локомотив Забытых Истин" src="global/lokomotiv/pic.jpg" href="global/lokomotiv" />
+   {/* title="Молоты и Наковальни" src="global/hammers-and-anvils/pic.jpg" href="global/hammers-and-anvils" */}
+</Board>
+<ButtonHeader size={1} title="Локальные квесты" subtitle="Как правило, небольшие квесты, привязанные к конкретной локации"/>
+<Board columns={3}>
+    {/* <ButtonRect title="Раскаты Драмы" src="local/drama/pic.jpg" href="local/drama" /> */}
+    <ButtonRect title="Осколки Будущего" src="local/shards/pic.jpg" href="local/shards" />
+    <ButtonRect title="Femme Fatale" src="local/femme-fatale/pic.jpg" href="local/femme-fatale" />
+</Board>

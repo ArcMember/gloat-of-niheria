@@ -1,0 +1,28 @@
+---
+title: Минералы
+---
+import BlockquoteBox from "~/components/containers/blockquote-box/blockquote-box";
+import Board from "~/components/containers/board/board";
+import ButtonHerbarium from "~/components/controls/button-lore/button-herbarium";
+
+<BlockquoteBox warning>
+**Условные обозначения:**  
+« <i class="fa fa-exclamation-triangle"/> » — ядовитые.  
+« <i class="fa fa-heart"/> » — лекарственные.  
+« <i class="fa fa-bed"/> » — седативные.  
+« <i class="fa fa-eye"/> » — галлюциногенные.  
+« <i class="fa fa-bomb"/> » — горючие.  
+« <i class="fa fa-industry"/> » — промышленные.  
+« <i class="fa fa-cutlery"/> » — употребляются в пищу.  
+« <i class="fa fa-search"/> » — нуждается в исследовании.  
+
+**Степени качества:**  
+« <i class="fa fa-heart lvl1"/> » — приемлемый.  
+« <i class="fa fa-heart lvl2"/> » — хороший.  
+« <i class="fa fa-heart lvl3"/> » — лучший.  
+</BlockquoteBox>
+
+<Board columns={4} mobileColumns={3}>
+    <ButtonHerbarium href="raitarit" industrial={2} src="/menu/guidebook/books/herbarium/minerals/raitarit/pic.jpg" title="Райтарит" />
+    <ButtonHerbarium href="dairad" industrial={2} src="/menu/guidebook/books/herbarium/minerals/dairad/pic.jpg" title="Дайрад" />
+</Board>

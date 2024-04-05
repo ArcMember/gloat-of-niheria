@@ -1,0 +1,209 @@
+---
+title: Народы
+---
+import Board from "/src/components/containers/board/board";
+import ButtonRect from "/src/components/controls/button-rect/button-rect";
+import BlockquoteBox from "~/components/containers/blockquote-box/blockquote-box";
+
+<a href="gallery"><BlockquoteBox attention>
+    <div center style="font-size: 20px; font-family: robotoSlab;">Галерея артов</div>
+</BlockquoteBox></a>
+
+<Board columns={3}>
+    <ButtonRect title="Бестийцы" href="besties" src="besties/pic.jpg" />
+    <ButtonRect title="Дворфы" href="dwarves" src="dwarves/pic.jpg" />
+    <ButtonRect title="Кхарфиры" href="kharfirs" src="kharfirs/pic.jpg" />
+    <ButtonRect title="Редрехан" href="redrehan" src="redrehan/pic.jpg" />
+    <ButtonRect title="Люди" href="humans" src="humans/pic.jpg" />
+    <ButtonRect title="Мерии" href="meries" src="meries/pic.jpg" />
+    <ButtonRect title="Ламах" href="lamah" src="lamah/pic.jpg" />
+    <ButtonRect title="Загрузка..." />
+    <ButtonRect title="Загрузка..." />
+</Board>
+
+# Проклятые
+<Board columns={2}>
+    <ButtonRect title="Вампиры" href="vampires" src="vampires/pic.jpg" />
+    <ButtonRect title="Оборотни" href="werewolves" src="werewolves/pic.jpg" />
+</Board>
+
+### Таблица вероятности рождения полукровок
+И успешного обращения или посмертия
+<div class="halfbloods-table-container">
+    <table class="halfbloods-table">
+        <thead>
+            <tr>
+                <td></td>
+                <th>Люди</th>
+                <th>Бестийцы</th>
+                <th>Дворфы</th>
+                <th>Кхарфиры</th>
+                <th>Редрехан</th>
+                <th>Мерии</th>
+                <th>Ибэ</th>
+                <th>Виден</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>Люди</th>
+                <td class="middle"></td>
+                <td> + </td>
+                <td> + </td>
+                <td class="percent0">Биология</td>
+                <td class="percent50">Менталитет<br/>Идеология</td>
+                <td> + </td>
+                <td> + </td>
+                <td> + </td>
+                <th class="mobile">Люди</th>
+            </tr>
+            <tr>
+                <th>Бестийцы</th>
+                <td> + </td>
+                <td class="middle"></td>
+                <td class="percent0">Менталитет<br/>Идеология</td>
+                <td class="percent0">Биология</td>
+                <td> + </td>
+                <td> + </td>
+                <td> + </td>
+                <td class="percent50">Менталитет<br/>Идеология</td>
+                <th class="mobile">Бестийцы</th>
+            </tr>
+            <tr>
+                <th>Дворфы</th>
+                <td> + </td>
+                <td class="percent0">Менталитет<br/>Идеология</td>
+                <td class="middle"></td>
+                <td class="percent0">Биология</td>
+                <td class="percent50">Менталитет<br/>Идеология</td>
+                <td> + </td>
+                <td> + </td>
+                <td> + </td>
+                <th class="mobile">Дворфы</th>
+            </tr>
+            <tr>
+                <th>Кхарфиры</th>
+                <td class="percent0">Биология</td>
+                <td class="percent0">Биология</td>
+                <td class="percent0">Биология</td>
+                <td class="middle"></td>
+                <td class="percent0">Биология</td>
+                <td class="percent0">Биология</td>
+                <td class="percent0">Биология</td>
+                <td class="percent0">Биология</td>
+                <th class="mobile">Кхарфиры</th>
+            </tr>
+            <tr>
+                <th>Редрехан</th>
+                <td class="percent50">Менталитет<br/>Идеология</td>
+                <td> + </td>
+                <td class="percent50">Менталитет<br/>Идеология</td>
+                <td class="percent0">Биология</td>
+                <td class="middle"></td>
+                <td> + </td>
+                <td class="percent0">Менталитет<br/>Идеология</td>
+                <td class="percent0">Менталитет<br/>Идеология</td>
+                <th class="mobile">Редрехан</th>
+            </tr>
+            <tr>
+                <th>Мерии</th>
+                <td> + </td>
+                <td> + </td>
+                <td> + </td>
+                <td class="percent0">Биология</td>
+                <td> + </td>
+                <td class="middle"></td>
+                <td> + </td>
+                <td> + </td>
+                <th class="mobile">Мерии</th>
+            </tr>
+            <tr>
+                <th>Ибэ</th>
+                <td> + </td>
+                <td> + </td>
+                <td> + </td>
+                <td class="percent0">Биология</td>
+                <td class="percent0">Менталитет<br/>Идеология</td>
+                <td> + </td>
+                <td class="middle"></td>
+                <td> + </td>
+                <th class="mobile">Ибэ</th>
+            </tr>
+            <tr>
+                <th>Виден</th>
+                <td> + </td>
+                <td class="percent50">Менталитет<br/>Идеология</td>
+                <td> + </td>
+                <td class="percent0">Биология</td>
+                <td class="percent0">Менталитет<br/>Идеология</td>
+                <td> + </td>
+                <td> + </td>
+                <td class="middle"></td>
+                <th class="mobile">Виден</th>
+            </tr>
+        </tbody>
+        <thead>
+            <tr>
+                <td></td>
+                <th>Люди</th>
+                <th>Бестийцы</th>
+                <th>Дворфы</th>
+                <th>Кхарфиры</th>
+                <th>Редрехан</th>
+                <th>Мерии</th>
+                <th>Ибэ</th>
+                <th>Виден</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>Вампир</th>
+                <td> + </td>
+                <td class="percent0">Иммунитет</td>
+                <td> + </td>
+                <td class="percent0">Иммунитет</td>
+                <td> + </td>
+                <td class="percent0">Иммунитет</td>
+                <td> + </td>
+                <td> + </td>
+                <th class="mobile">Вампир</th>
+            </tr>
+            <tr>
+                <th>Оборотень</th>
+                <td> + </td>
+                <td class="percent0">Иммунитет</td>
+                <td> + </td>
+                <td class="percent0">Иммунитет</td>
+                <td> + </td>
+                <td class="percent0">Иммунитет</td>
+                <td class="percent0">Иммунитет</td>
+                <td> + </td>
+                <th class="mobile">Оборотень</th>
+            </tr>
+            <tr>
+                <th>Нежить</th>
+                <td> + </td>
+                <td class="percent0">Кремация</td>
+                <td> + </td>
+                <td> + </td>
+                <td> + </td>
+                <td> + </td>
+                <td> + </td>
+                <td> + </td>
+                <th class="mobile">Нежить</th>
+            </tr>
+            <tr>
+                <th>Призрак</th>
+                <td> + </td>
+                <td> + </td>
+                <td> + </td>
+                <td class="percent0">Иммунитет</td>
+                <td> + </td>
+                <td> + </td>
+                <td> + </td>
+                <td> + </td>
+                <th class="mobile">Призрак</th>
+            </tr>
+        </tbody>
+    </table>
+</div>

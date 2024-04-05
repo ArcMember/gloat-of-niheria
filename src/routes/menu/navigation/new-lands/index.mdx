@@ -1,0 +1,22 @@
+---
+title: Новые земли
+---
+import ButtonCover from "~/components/controls/button-cover/button-cover";
+import BlockquoteBox from "~/components/containers/blockquote-box/blockquote-box";
+import Board from "~/components/containers/board/board";
+import ButtonRect from "~/components/controls/button-rect/button-rect";
+import NiheriaRuler from "~/components/visuals/niheria-ruler/niheria-ruler";
+
+<ButtonCover cover src="pic.jpg" title="Новые земли" authorHref="https://www.artstation.com/andreasrocha" author="Andreas Rocha"/>
+<BlockquoteBox>
+    **Здесь находятся локации, открытые игроками в процессе игры.**   
+    *Не все обозначены на основной карте Нихерии.*
+
+    Для того, чтобы открыть такие земли, необходимо **проконсультироваться с администрацией**, решить, что будет открыто, отыграть это и описать локации по шаблону из уже имеющихся здесь разделов.
+</BlockquoteBox>
+<NiheriaRuler/>
+<Board columns={3}>
+    <ButtonRect/>
+    <ButtonRect/>
+    <ButtonRect/>
+</Board>

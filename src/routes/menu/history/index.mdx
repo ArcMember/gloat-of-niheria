@@ -1,0 +1,17 @@
+---
+title: История
+---
+
+import ButtonCover from "~/components/controls/button-cover/button-cover";
+import ButtonRect from "~/components/controls/button-rect/button-rect";
+import Board from "~/components/containers/board/board";
+import NiheriaRuler from "~/components/visuals/niheria-ruler/niheria-ruler";
+
+<ButtonCover title="Свежие Новости" href="news" src="news/pic.jpg" short />
+<NiheriaRuler/>
+<Board columns={3}>
+    <ButtonRect title="Иссякающая Эпоха" href="outgoing-age" src="outgoing-age.jpg"/>
+    <ButtonRect title="Старое время" href="old-time" src="old-time/red-dawn/pic.png"/>
+    <ButtonRect title="Ветхие эпохи" href="elder-ages" src="elder-ages.jpg"/>
+</Board>
+<ButtonCover title="Таймлайн" href="timeline" src="timeline/pic.jpg" shorter />

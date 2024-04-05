@@ -1,0 +1,235 @@
+[
+{
+"name":  "Идеограмма Магии",
+"baseName":  "Б И Белой Магии",
+"src":  "/menu/magic/runes/Б И Белой Магии.png",
+"branch":  "Белая"
+},
+{
+"name":  "Идеограмма Жизни",
+"baseName":  "Б И Жизни",
+"src":  "/menu/magic/runes/Б И Жизни.png",
+"branch":  "Белая"
+},
+{
+"name":  "Идеограмма Крепости",
+"baseName":  "Б И Крепости",
+"src":  "/menu/magic/runes/Б И Крепости.png",
+"branch":  "Белая"
+},
+{
+"name":  "Руна Воли",
+"baseName":  "Б Р Воли",
+"src":  "/menu/magic/runes/Б Р Воли.png",
+"branch":  "Белая"
+},
+{
+"name":  "Руна Выносливости",
+"baseName":  "Б Р Выносливости",
+"src":  "/menu/magic/runes/Б Р Выносливости.png",
+"branch":  "Белая"
+},
+{
+"name":  "Руна Гибкости",
+"baseName":  "Б Р Гибкости",
+"src":  "/menu/magic/runes/Б Р Гибкости.png",
+"branch":  "Белая"
+},
+{
+"name":  "Руна Исцеления",
+"baseName":  "Б Р Исцеления",
+"src":  "/menu/magic/runes/Б Р Исцеления.png",
+"branch":  "Белая"
+},
+{
+"name":  "Руна Легкости",
+"baseName":  "Б Р Легкости",
+"src":  "/menu/magic/runes/Б Р Легкости.png",
+"branch":  "Белая"
+},
+{
+"name":  "Руна Покоя",
+"baseName":  "Б Р Покоя",
+"src":  "/menu/magic/runes/Б Р Покоя.png",
+"branch":  "Белая"
+},
+{
+"name":  "Идеограмма Влияния",
+"baseName":  "В И Влияния",
+"src":  "/menu/magic/runes/В И Влияния.png",
+"branch":  "Влияния"
+},
+{
+"name":  "Идеограмма Внимания",
+"baseName":  "В И Внимания",
+"src":  "/menu/magic/runes/В И Внимания.png",
+"branch":  "Влияния"
+},
+{
+"name":  "Идеограмма Единства",
+"baseName":  "В И Единства",
+"src":  "/menu/magic/runes/В И Единства.png",
+"branch":  "Влияния"
+},
+{
+"name":  "Руна Вести",
+"baseName":  "В Р Вести",
+"src":  "/menu/magic/runes/В Р Вести.png",
+"branch":  "Влияния"
+},
+{
+"name":  "Руна Вмешательства",
+"baseName":  "В Р Вмешательства",
+"src":  "/menu/magic/runes/В Р Вмешательства.png",
+"branch":  "Влияния"
+},
+{
+"name":  "Руна Духа",
+"baseName":  "В Р Духа",
+"src":  "/menu/magic/runes/В Р Духа.png",
+"branch":  "Влияния"
+},
+{
+"name":  "Руна Истока",
+"baseName":  "В Р Истока",
+"src":  "/menu/magic/runes/В Р Истока.png",
+"branch":  "Влияния"
+},
+{
+"name":  "Руна Притока",
+"baseName":  "В Р Притока",
+"src":  "/menu/magic/runes/В Р Притока.png",
+"branch":  "Влияния"
+},
+{
+"name":  "Руна Пути",
+"baseName":  "В Р Пути",
+"src":  "/menu/magic/runes/В Р Пути.png",
+"branch":  "Влияния"
+},
+{
+"name":  "Руна Роста",
+"baseName":  "В Р Роста",
+"src":  "/menu/magic/runes/В Р Роста.png",
+"branch":  "Влияния"
+},
+{
+"name":  "Руна Фокуса",
+"baseName":  "В Р Фокуса",
+"src":  "/menu/magic/runes/В Р Фокуса.png",
+"branch":  "Влияния"
+},
+{
+"name":  "Идеограмма Звука",
+"baseName":  "С И Звука",
+"src":  "/menu/magic/runes/С И Звука.png",
+"branch":  "Созидания"
+},
+{
+"name":  "Идеограмма Пелены",
+"baseName":  "С И Пелены",
+"src":  "/menu/magic/runes/С И Пелены.png",
+"branch":  "Созидания"
+},
+{
+"name":  "Идеограмма Силы",
+"baseName":  "С И Силы",
+"src":  "/menu/magic/runes/С И Силы.png",
+"branch":  "Созидания"
+},
+{
+"name":  "Идеограмма Созидания",
+"baseName":  "С И Созидания",
+"src":  "/menu/magic/runes/С И Созидания.png",
+"branch":  "Созидания"
+},
+{
+"name":  "Руна Воды",
+"baseName":  "С Р Воды",
+"src":  "/menu/magic/runes/С Р Воды.png",
+"branch":  "Созидания"
+},
+{
+"name":  "Руна Воздуха",
+"baseName":  "С Р Воздуха",
+"src":  "/menu/magic/runes/С Р Воздуха.png",
+"branch":  "Созидания"
+},
+{
+"name":  "Руна Земли",
+"baseName":  "С Р Земли",
+"src":  "/menu/magic/runes/С Р Земли.png",
+"branch":  "Созидания"
+},
+{
+"name":  "Руна Льда",
+"baseName":  "С Р Льда",
+"src":  "/menu/magic/runes/С Р Льда.png",
+"branch":  "Созидания"
+},
+{
+"name":  "Руна Молнии",
+"baseName":  "С Р Молнии",
+"src":  "/menu/magic/runes/С Р Молнии.png",
+"branch":  "Созидания"
+},
+{
+"name":  "Руна Огня",
+"baseName":  "С Р Огня",
+"src":  "/menu/magic/runes/С Р Огня.png",
+"branch":  "Созидания"
+},
+{
+"name":  "Идеограмма Слабости",
+"baseName":  "Ч И Слабости",
+"src":  "/menu/magic/runes/Ч И Слабости.png",
+"branch":  "Чёрная"
+},
+{
+"name":  "Идеограмма Смерти",
+"baseName":  "Ч И Смерти",
+"src":  "/menu/magic/runes/Ч И Смерти.png",
+"branch":  "Чёрная"
+},
+{
+"name":  "Идеограмма Магии",
+"baseName":  "Ч И Черной Магии",
+"src":  "/menu/magic/runes/Ч И Черной Магии.png",
+"branch":  "Чёрная"
+},
+{
+"name":  "Руна Жесткости",
+"baseName":  "Ч Р Жесткости",
+"src":  "/menu/magic/runes/Ч Р Жесткости.png",
+"branch":  "Чёрная"
+},
+{
+"name":  "Руна Несчастья",
+"baseName":  "Ч Р Несчастья",
+"src":  "/menu/magic/runes/Ч Р Несчастья.png",
+"branch":  "Чёрная"
+},
+{
+"name":  "Руна Разрушения",
+"baseName":  "Ч Р Разрушения",
+"src":  "/menu/magic/runes/Ч Р Разрушения.png",
+"branch":  "Чёрная"
+},
+{
+"name":  "Руна Тяжести",
+"baseName":  "Ч Р Тяжести",
+"src":  "/menu/magic/runes/Ч Р Тяжести.png",
+"branch":  "Чёрная"
+},
+{
+"name":  "Руна Хаоса",
+"baseName":  "Ч Р Хаоса",
+"src":  "/menu/magic/runes/Ч Р Хаоса.png",
+"branch":  "Чёрная"
+},
+{
+"name":  "Руна Ярости",
+"baseName":  "Ч Р Ярости",
+"src":  "/menu/magic/runes/Ч Р Ярости.png",
+"branch":  "Чёрная"
+}]

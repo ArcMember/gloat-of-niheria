@@ -1,0 +1,16 @@
+---
+title: Руководство
+---
+import Board from "~/components/containers/board/board";
+import ButtonRect from "~/components/controls/button-rect/button-rect";
+import ButtonCover from "~/components/controls/button-cover/button-cover";
+
+<Board columns={3}>
+    <ButtonRect title="Быстрый старт" href="quick-start" src="quick-start/pic.jpg" />
+    <ButtonRect title="О Ролевой" href="about" src="about/pic.jpg" />
+    <ButtonRect title="Правила" href="rules" src="rules/pic.jpg" />
+    <ButtonRect title="Шаблоны" subtitle="Анкета" href="templates" src="templates/pic.jpg"/>
+    <ButtonRect title="Штаб Мастеров" subtitle="И причастных" href="masters" src="masters/pic.jpg"/>
+    <ButtonRect title="Прокачка" subtitle="Ещё правила" href="leveling" src="leveling/pic.jpg" />
+</Board>
+<ButtonCover short title="Шпаргалка" href="cheat-sheet" src="cheat-sheet/pic.jpg"/>

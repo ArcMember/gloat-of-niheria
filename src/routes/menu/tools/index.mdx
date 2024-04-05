@@ -1,0 +1,13 @@
+---
+title: Инструменты
+---
+import ButtonRect from "~/components/controls/button-rect/button-rect";
+import Board from "~/components/containers/board/board";
+import ButtonCover from "~/components/controls/button-cover/button-cover";
+
+<Board columns={3}>
+    <ButtonRect title="Возраст" subtitle="События с момента рождения" src="age/pic.jpg" href="age"/>
+    <ButtonRect title="Банкинг" subtitle="Конвертация и вклад" src="banking/pic.jpg" href="banking"/>
+    <ButtonRect title="Карты" subtitle="География и в деталях" src="maps/pic2.jpg" href="maps"/>
+</Board>
+<ButtonCover short title="Магия" subtitle="Конструктор заклинаний" src="magic/pic.jpg" href="magic"/>

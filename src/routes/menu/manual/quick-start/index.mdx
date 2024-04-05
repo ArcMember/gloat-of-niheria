@@ -1,0 +1,30 @@
+---
+title: Быстрый старт
+---
+import ButtonHeader from "~/components/controls/button-header/button-header";
+import BlockquoteBox from "~/components/containers/blockquote-box/blockquote-box";
+import Board from "~/components/containers/board/board";
+import NiheriaHeading from "~/components/visuals/niheria-heading/niheria-heading";
+
+<NiheriaHeading center size={1}>Быстрый старт</NiheriaHeading>
+<BlockquoteBox text>
+    Для начала, познакомьтесь со Злорадством Нихерии и обменяйтесь парой теплых слов, а затем возвращайтесь.  
+    <ButtonHeader center size={1} title="О Ролевой" href="../about"/>
+    Познакомились? Ваш персонаж, скорее всего, будет представлять один из множества народов Нихерии. Познакомьтесь с ними, может, вдохновитесь и выберите тот, что зацепил струны вашей души.   
+    <ButtonHeader center size={2} title="Народы Нихерии →" href="../../guidebook/races" />
+    А теперь взгляните на гильдии. Основные гильдии так или иначе связаны с главным сюжетом, и в них вам не нужно знать историю, чтобы попасть в центр событий.
+    <ButtonHeader center size={2} title="Гильдии →" href="../../guidebook/guilds" />
+    Теперь скука. Ознакомьтесь с очерком последней истории, она подскажет вам основные конфликты и силы в Уходящей Эпохе.
+
+    Ничего не понимаете? В процессе чтения перекликайтесь с геополитикой и поглядывайте на карту.
+    <Board columns={2} mobileColumns={1}>
+        <ButtonHeader center size={2} title="История →" href="../../history/outgoing-age" />
+        <ButtonHeader center size={2} title="Державы →" href="../../navigation/states" />
+    </Board>
+    <ButtonHeader center size={2} title="Карта →" href="../../tools/maps/political" />
+    Ну и наконец, настало время для самого сложного и самого интересного. Приступайте к заполнению анкеты. В процессе вы, скорее всего, прочитаете еще немало статей. Подсказки при пунктах шаблона направят вас в нужное русло.
+    <ButtonHeader center size={2} title="Анкета →" href="../templates/quenta"/>
+    <div center>
+        «Быстрый старт» — это обман. Быстро не получится и быстро нельзя. Но мы надеемся, что эта статья подсказала вам, с чего начать.
+    </div>
+</BlockquoteBox>

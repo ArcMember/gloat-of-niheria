@@ -1,0 +1,16 @@
+---
+title: Гильдии
+---
+import ButtonCover from "~/components/controls/button-cover/button-cover";
+import ButtonRect from "~/components/controls/button-rect/button-rect";
+import Board from "~/components/containers/board/board";
+
+<ButtonCover title="Гильдии" src="pic.jpg" author="Silentfield" authorHref="https://www.artstation.com/silentfield"/>
+<Board columns={3} >
+    <ButtonRect title="Искра" src="sparkle/pic.jpg" href="sparkle"/>
+    <ButtonRect title="Железнодорожники" src="railworkers/pic.jpg" href="railworkers"/>
+    <ButtonRect title="Бюро Вычищения" src="purge-bureau/pic.jpg" href="purge-bureau"/>
+    <ButtonRect title="Ассоциация С'Итш'Тас" src="association/pic.jpg" href="association"/>
+    <div class="opacity-glitch"><ButtonRect title="Инфердормис" src="inferdormis/pic.jpg" href="inferdormis"/></div>
+    <ButtonRect title="Адмиралтейство" src="admiralty/pic.jpg" href="admiralty"/>
+</Board>

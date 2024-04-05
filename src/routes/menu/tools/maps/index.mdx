@@ -1,0 +1,12 @@
+---
+title: Карты
+---
+
+import ButtonRect from "~/components/controls/button-rect/button-rect";
+import Board from "~/components/containers/board/board";
+
+<Board columns={3}>
+    <ButtonRect title="Географическая"  subtitle="Ландшафты Нихерии"            src="map-geographical/pic.jpg"  href="geographical"/>
+    <ButtonRect title="Политическая"    subtitle="Границы и столицы"            src="map-political/pic.jpg"     href="political"/>
+    <ButtonRect title="Расширенная"     subtitle="Города, локации и регионы"    src="map-extended/pic.jpg"      href="extended"/>
+</Board>

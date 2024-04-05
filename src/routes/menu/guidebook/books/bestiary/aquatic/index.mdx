@@ -1,0 +1,19 @@
+---
+title: Водные
+---
+import ButtonLore from "~/components/controls/button-lore/button-lore";
+import ButtonBestiary from "~/components/controls/button-lore/button-bestiary"
+import Board from "~/components/containers/board/board";
+
+# Водные
+**Водные** — обитатели сырых мест и водных массивов, по чьей вине появилось столько страшных сказок и суеверий, связанных с водой.
+
+* **Разнообразные рыбо-, змее- и крабоподобные существа**, обычно не выше полутора метров ростом, которые обитают близ воды, но при этом могут охотиться и на суше. Им хватает интеллекта, чтобы собираться в стаи и защищать определённую территорию от посягательств соседей. В случае, если добыча не по зубам, спасаются бегством. В воде очень быстры и проворны.
+* Большинство водных тварей можно **отогнать огнём или ярким светом**. Чувствительная к высушиванию кожа и привыкшие к сумраку глаза вынуждают эту нечисть теряться и слепо искать путь к отступлению.
+
+<Board columns={4} mobileColumns={3}>
+    <ButtonBestiary tameable dangerous href="jaskont" title="Ясконтий" src="jaskont/pic.jpg" contain scale="1.5" x="80%" y="50%"/>
+    <ButtonBestiary tameable dangerous href="jaskont-glacial" title="Ясконтий Хладный" src="jaskont-glacial/pic.jpg" scale="1.5" x="50%" y="50%"/>
+    <ButtonBestiary href="bitenia" title="Битения" src="bitenia/pic.jpg" scale="1" x="50%" y="50%"/>
+    <ButtonBestiary tameable href="khirda" title="Хирда" src="khirda/pic.jpg" scale="1.5" x="50%" y="30%"/>
+</Board>

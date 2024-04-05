@@ -1,0 +1,16 @@
+---
+title: Ветви Магии
+---
+import ButtonCover from "~/components/controls/button-cover/button-cover";
+import Board from "~/components/containers/board/board";
+import ButtonRect from "~/components/controls/button-rect/button-rect";
+
+<ButtonCover short src="pic.jpg" title="Ветви Магии" author="Dominik Mayer" authorHref="https://www.artstation.com/dtmayer" />
+<Board columns={3}>
+    <ButtonRect title="Белая магия"     href="white"        src="white/pic.jpg"/>
+    <ButtonRect title="Магия Созидания" href="creation"     src="creation/pic.jpg"/>
+    <ButtonRect title="Загрузка" disabled/>
+    <ButtonRect title="Чёрная магия"    href="black"        src="black/pic.jpg"/>
+    <ButtonRect title="Магия Влияния"   href="influence"    src="influence/pic.jpg"/>
+    <ButtonRect title="Загрузка" disabled/>
+</Board>

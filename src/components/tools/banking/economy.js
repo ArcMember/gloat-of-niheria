@@ -1,0 +1,1 @@
+export const tokenPrices = [50, 10, 10, 6]

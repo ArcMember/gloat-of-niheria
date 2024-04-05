@@ -3,6 +3,7 @@
 !/dist/
 !/server/
 !/node_modules/
+!/src/
 !/prisma/
 !/bot/
 !/startup/
