@@ -39,49 +39,63 @@ model MagicRune {
   advancedDescription String        
 }
 
-model CharacterCanon {
-  id  Int @id @default(autoincrement())
+// model Canon {
+//   id  Int @id @default(autoincrement())
+//   name        String @unique
+//   subtitle    String?
+//   filter      String?
+//   href        String?
+//   src         String?
+//   author      String?
+//   age         String?
+//   nation      String?
+//   class       String?
+//   occupation  String?
+//   quests      String?
+// }
+
+model Hero {
+  userId      BigInt
   name        String @unique
-  subtitle    String?
-  filter      String?
-  href        String?
-  src         String?
-  author      String?
-  age         String?
-  nation      String?
-  class       String?
-  occupation  String?
-  quests      String?
+  inventory   String @default("")
+  invLog      String @default("")
+  // subtitle    String?
+  // filter      String?
+  // href        String?
+  // src         String?
+  // age         String?
+  // nation      String?
+  // class       String?
+  // player      String?
+  // occupation  String?
+  // quests      String?
+  // relations   FactionRelation?
 }
 
-model CharacterHero {
-  id  Int @id @default(autoincrement())
-  name        String @unique
-  subtitle    String?
-  filter      String?
-  href        String?
-  src         String?
-  age         String?
-  nation      String?
-  class       String?
-  player      String?
-  occupation  String?
-  quests      String?
-  relations   FactionRelation?
+model AdRegistryEntry {
+  id        String  @unique
+  message   String  @default("")
+  date      String  @default("")
+  tags      String  @default("")
 }
 
-model FactionRelation {
-  hero CharacterHero? @relation(fields: [heroId], references: [id])
-  heroId Int @unique
-  RT  String
-  TY  String
-  AF  String
-  LT  String
-  KF  String
-  MW  String
-  FL  String
-  SX  String
-  SK  String
-  KL  String
-  HL  String
+model AdDistributor {
+  name          String    @default("")
+  id            String    @unique
+  lastSendTime  DateTime
 }
+// model FactionRelation {
+//   hero CharacterHero? @relation(fields: [heroId], references: [id])
+//   heroId Int @unique
+//   RT  String
+//   TY  String
+//   AF  String
+//   LT  String
+//   KF  String
+//   MW  String
+//   FL  String
+//   SX  String
+//   SK  String
+//   KL  String
+//   HL  String
+// }
