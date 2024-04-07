@@ -2891,12 +2891,16 @@ $card-opening-speed: 0.3s;
 	align-content: center;
 	flex-direction: column;
 	align-items: center;
+
 	div {
 		text-align: center;
+		font-weight: 600;
 	}
 	img {
 		aspect-ratio: 1 / 1 !important;
+		object-fit: contain;
 		filter: drop-shadow(0px 0px 1px $niheria-gold);
+		margin: 15px 0;
 	}
 
 	&:not(.inactive) {

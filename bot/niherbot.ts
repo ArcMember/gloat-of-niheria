@@ -562,6 +562,7 @@ export async function initBot() {
     // |   $$ \| $$  | $$| $$   \$$  $$
     //  \$$$$$$ \$$   \$$ \$$    \$$$$ 
                                     
+    // Niherbot token
     const bot = new Telegraf<InventoryContext>("6028430964:AAGhWnvKJlI6qG3xfLQ8hngsEtEoG0n_7kA")
     const stage = new Scenes.Stage<InventoryContext>([inventoryWizard, inventoryLookWizard]);
     
