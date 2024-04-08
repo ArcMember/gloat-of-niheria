@@ -1,0 +1,3 @@
+import{d as n,x as a,y as t,g as c}from"./q-0a61ba82.js";import"./q-b09a974c.js";import{N as o}from"./q-f1617c30.js";import{B as s}from"./q-c037a95c.js";const h={title:"Глерней",meta:[],styles:[],links:[],scripts:[],frontmatter:{}},f={title:"Глерней"};function i(r){return t(c,{children:[t(o,{}),`
+`,t(s,{children:[t("br",{}),t("div",{center:!0,children:"Информация отсутствует"}),t("br",{})]}),`
+`,t(o,{})]})}function l(r={}){const{wrapper:e}=r.components||{};return e?t(e,Object.assign({},r,{children:t(i,r)})):i()}const x=()=>n(a,{children:n(l,{},3,null)},3,"cVheyp8R");export{x as default,f as frontmatter,h as head};
