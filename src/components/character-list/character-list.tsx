@@ -26,7 +26,7 @@ interface CharacterList {
     columns?: number,
     data?: string,
     wanted?: boolean,
-    dead?: boolean,
+    dead: boolean,
 
     sexFilter?: boolean | string,
     classFilter?: boolean | string,
@@ -56,8 +56,11 @@ export default component$((props: CharacterList) => {
 
     if (props.wanted == true)
         data = data.filter(char => char.wanted != undefined && char.wanted != "")
+
     if (props.dead == true)
-        data = data.filter(char => char.dead != undefined && char.dead != "")
+        data = data.filter(char => char.dead == true)
+    else
+        data = data.filter(char => char.dead != true)
 
     const filtersStore = useStore({
         sex: "",

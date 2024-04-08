@@ -22,7 +22,7 @@ export const heroes = [
         },
 
         "wanted" : "",
-        "dead" : ""
+        "dead" : true
     },
     {
         "name": "Кризен Благовест",
@@ -48,7 +48,7 @@ export const heroes = [
         },
 
         "wanted" : "",
-        "dead" : ""
+        "dead" : false
     },
     {
         "name": "Муру-Муру",
@@ -74,7 +74,7 @@ export const heroes = [
         },
 
         "wanted" : "",
-        "dead" : ""
+        "dead" : true
     },
     {
         "name": "Крагах",
@@ -100,7 +100,7 @@ export const heroes = [
         },
         
         "wanted" : "",
-        "dead" : ""
+        "dead" : true
     },
     {
         "name": "Мэйв Катрин Агнетт Тинкера",
@@ -126,7 +126,7 @@ export const heroes = [
         },
 
         "wanted" : "",
-        "dead" : ""
+        "dead" : false
     },
     {
         "name": "Стедд Саутвелл",
@@ -152,7 +152,7 @@ export const heroes = [
         },
 
         "wanted" : "Разыскивается во Флатрии. Убийство. Награда за взятого живьем - 15 золота.",
-        "dead" : ""
+        "dead" : false
     },
     {
         "name": "Марнис",
@@ -179,7 +179,7 @@ export const heroes = [
         },
 
         "wanted" : "",
-        "dead" : ""
+        "dead" : false
     },
     {
         "name": "Мануил Шарбонне",
@@ -206,7 +206,7 @@ export const heroes = [
         },
 
         "wanted" : "",
-        "dead" : ""
+        "dead" : false
     },
     {
         "name": "Майя Феникс",
@@ -233,6 +233,6 @@ export const heroes = [
         },
 
         "wanted" : "",
-        "dead" : ""
+        "dead" : false
     },
 ]

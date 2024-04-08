@@ -45,14 +45,16 @@ export default component$(() => {
     const heading: string = titleUrl.values().next().value;
 
     useVisibleTask$(() => {
-        console.log(heading)
-        if (heading != undefined) {
+        // console.log(heading)
+        if (location.hash !== "") {
+            const heading = decodeURI(location.hash).slice(1).toLowerCase();
+            // console.log(heading)
             const content = document.getElementById("content");
 			const headings = content.querySelectorAll("h1, h2, h3, h4, h5, h6");
+            // console.log(headings)
             if (headings.length > 0) {
                 headings.forEach((h: Element) => {
-                    console.log(h.id)
-                    if (h.id === heading.toLowerCase()) {
+                    if (h.id === heading) {
                         h.scrollIntoView()
                     }
                 })

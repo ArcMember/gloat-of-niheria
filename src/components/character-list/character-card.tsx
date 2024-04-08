@@ -72,7 +72,7 @@ export default component$((props: CharacterData) => {
                     <h4>Деятельность</h4>
                     <div class="char-property">{charData.data.occupation}</div>
                     {charData.data.quests !== "" &&
-                    <div class="char-property"><b>Завершены глобальные квесты:</b>{charData.data.quests}</div>
+                    <div class="char-property"><br/><b>Завершены глобальные квесты:</b><br/>{charData.data.quests}</div>
                     }
                     <br/>
                     <Details summary="Отношение фракций">
