@@ -46,8 +46,9 @@ export default component$((props: NiheriaButton) => {
                 { ((props.title != undefined) || (props.subtitle != undefined)) &&
                     <div class="title-container">
                         <div class={`button-title 
-                                    ${props.title?.length > 10 ? "smaller" : ""}
-                                    ${props.title?.length > 20 ? "smallest" : ""}
+                                    ${props.title.length > 10 ? "smaller" : ""}
+                                    ${props.title.length > 20 ? "smallest" : ""}
+                                    ${props.title.length > 25 ? "microscopic" : ""}
                                     `}
                             style={ props.title == undefined ? "height: 0; padding: 0;" : ""}>{props.title}</div>
                         { props.subtitle == undefined &&

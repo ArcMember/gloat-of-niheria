@@ -9,7 +9,7 @@ interface Details {
 export default component$((props: Details) => {
     return (
         <details open={props.open} class={ props.border == undefined || props.border == true ? "border" : ""}>
-            <summary>{props.summary}</summary>
+            <summary dangerouslySetInnerHTML={props.summary}></summary>
             <Slot/>
         </details>
     );

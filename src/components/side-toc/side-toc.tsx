@@ -1,4 +1,5 @@
-import { component$, useSignal, useStore, useVisibleTask$ } from '@builder.io/qwik';
+import { component$, useContext, useSignal, useStore, useVisibleTask$ } from '@builder.io/qwik';
+import { SidebarContext } from '~/routes/layout';
 
 export default component$(() => {
 	const disableToc = useSignal("false");
@@ -6,6 +7,8 @@ export default component$(() => {
 	const store = useStore({
 		items: []
 	});
+
+	const sidebarState = useContext(SidebarContext);
 
 	useVisibleTask$(() => {
 		hidden.value = localStorage.getItem("toc-hidden");
@@ -37,9 +40,11 @@ export default component$(() => {
 				onClick$={() => { 
 					hidden.value = (hidden.value === "true") ? "false" : "true";
 					localStorage.setItem("toc-hidden", hidden.value);
-				}}></div>
+				}}
+				opened={sidebarState.value}
+			></div>
 			}
-			<div class={"side-toc " + (hidden.value === "true" ? "hidden " : "")} id="side-toc">
+			<div class={"side-toc " + (hidden.value === "true" ? "hidden " : "")} opened={sidebarState.value} id="side-toc">
 				{store.items.map((item) => (
 					<Child key={item.href} tag={item.tag} href={item.href}/>
 				))}

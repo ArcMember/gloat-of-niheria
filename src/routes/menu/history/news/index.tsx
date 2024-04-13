@@ -1,8 +1,8 @@
 import type { RequestEvent } from '@builder.io/qwik-city';
  
-export const onGet = async ({ params, redirect }: RequestEvent) => {
+export const onGet = async ({ redirect }: RequestEvent) => {
 //   const isAuthorized = checkAuthorization(cookie.get('cookie'));
-    console.log(params)
+    // console.log(params)
     throw redirect(302, '../news/04-24?fresh');
 
 };

@@ -329,7 +329,14 @@ table {
 	display: flex;
 	justify-content: center;
 	table {
+		transition: width 0.2s;
 		width: 80%;
+		@media only screen and (max-width: 600px) {
+			width: 100%;
+		}
+	}
+	td {
+		padding: 4px 8px;
 	}
 }
 .inventory {
@@ -457,9 +464,10 @@ table {
 
 code {
 	display: inline-block;
-	background: rgba($fg-a, 0.02);
-	padding: 3px 10px;
-	border-radius: 3px;
+	background: rgba($fg-a, 0.08);
+	padding: 2px 4px;
+	border-radius: 2px;
+	outline: 1px rgba($niheria-gold, 0.12) solid;
 	@media screen and (max-width: 600px) {
 		text-wrap: wrap;
 	}
@@ -502,6 +510,9 @@ ul {
 li {
 	&:not(:first-child) {
 		padding-top: 10px;
+	}
+	&:last-child {
+		padding-bottom: 10px;
 	}
 }
 ol {
@@ -881,6 +892,9 @@ button.flat {
 			}
 			.button-title.smallest {
 				font-size: clamp($small, 2.9vw, $large);
+			}
+			.button-title.microscopic {
+				font-size: clamp($small, 2.5vw, $big);
 			}
 
 			.button-subtitle {
@@ -2111,6 +2125,10 @@ blockquote {
 //..SSSSSSSSSS..iiii.dddddddddd.eeeeeeee...............TTTT...Toooooooo..occccccc..
 //...SSSSSSSS...iiii..ddddddddd..eeeeee................TTTT....oooooo.....cccccc...
 
+.side-toc[opened=true], .show-toc[opened=true] {
+	margin-left: calc(1 * var(--sidebar-width));
+	transition: margin-left 0.4s;
+}
 .side-toc, .show-toc {
 	position: fixed;
 	top: 150px;
@@ -2118,6 +2136,7 @@ blockquote {
 	left: 15px;
 	opacity: 1;
 	transition: 0.2s;
+	transition: margin-left 0.4s !important;
 	@media only screen and (max-width: 1000px) {
 		display: none !important;
 	}
@@ -2886,6 +2905,7 @@ $card-opening-speed: 0.3s;
 	}
 }
 
+//MARK: Magic Rune
 .magic-rune {	
 	display: flex;
 	align-content: center;
@@ -3516,7 +3536,9 @@ _______                                           __        __              __
 }
 $arcane-text-anim: arcane-text infinite linear alternate-reverse;
 
+
 .arcane-text {
+	display: inline-block;
 	&:after {
 		animation: $arcane-text-anim 3s;
 		content: "^";

@@ -1,8 +1,5 @@
 import { component$, createContextId, Signal, Slot, useContextProvider, useSignal, useVisibleTask$, } from '@builder.io/qwik';
-import { routeLoader$, useLocation, } from '@builder.io/qwik-city';
-import { PrismaClient } from '@prisma/client';
-import { URLSearchParams } from 'url';
-// import { PrismaClient } from '@prisma/client';
+import { routeLoader$, } from '@builder.io/qwik-city';
 
 import ContentMenu from '~/components/content-menu/content-menu';
 import SideToc from '~/components/side-toc/side-toc';
@@ -30,19 +27,9 @@ export const useSidebarCookie = routeLoader$(async ({ cookie }) => {
     };
 });
 
-export const useGetHeroes = routeLoader$(async () => {
-    const prisma = new PrismaClient();
-    const heroes = await prisma.hero.findMany({});
-    return heroes;
-});
-
-
 export default component$(() => {
     const sidebarStore = useSignal(useSidebarCookie().value.sidebarCookie);
     useContextProvider(SidebarContext, sidebarStore);
-
-    const titleUrl: URLSearchParams = useLocation().url.searchParams;
-    const heading: string = titleUrl.values().next().value;
 
     useVisibleTask$(() => {
         // console.log(heading)

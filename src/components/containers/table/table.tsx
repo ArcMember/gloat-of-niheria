@@ -2,6 +2,7 @@ import { Slot, component$ } from '@builder.io/qwik';
 
 interface Table {
     content: string[][],
+    center?: boolean,
 }
 
 export default component$((props: Table) => {
@@ -14,13 +15,16 @@ export default component$((props: Table) => {
     for (let i = 1; i < props.content.length; i++) {
         const bodyElement = []
         for (let j = 0; j < props.content[i].length; j++) {
-            bodyElement.push(<td>{props.content[i][j]}</td>);
+            bodyElement.push(<td dangerouslySetInnerHTML={props.content[i][j]}></td>);
         }
         body.push(<tr>{bodyElement}</tr>)
     }
 
     return (
-        <div class={props.content[0].length < 3 ? "two-columns" : ""}>
+        <div class={[
+            props.content[0].length < 3 ? "two-columns" : "", 
+            props.center != undefined ? "center" : ""
+            ]}>
             <table>
                 <thead>{head}</thead>
                 <tbody>{body}</tbody>

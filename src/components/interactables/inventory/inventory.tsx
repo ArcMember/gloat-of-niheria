@@ -1,12 +1,18 @@
-import { component$, useSignal } from '@builder.io/qwik';
-import { useGetHeroes } from '~/routes/layout';
+import { component$, useResource$, useSignal, useStore, useTask$ } from '@builder.io/qwik';
+import { RequestHandler } from '@builder.io/qwik-city';
+import { useGetHeroes } from '~/routes/menu/characters/layout';
 
 interface InventoryProps {
     name?: string,
 }
 
+export const onGet: RequestHandler = async ({cookie}) => {
+    console.log(cookie)
+};
+
 export default component$((props: InventoryProps) => {
     const heroes = useGetHeroes().value
+
     const heroInv: (string | undefined)[] | undefined = heroes.find(hero => hero.name === props.name)?.inventory.split("||");
     let heroHistoryJSON;
     try {

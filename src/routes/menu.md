@@ -37,8 +37,6 @@
 - [Ассоциация С'Итш'Тас](menu/guidebook/guilds/association/index.mdx)
 - [Инфердормис](menu/guidebook/guilds/inferdormis/index.mdx)
 - [Адмиралтейство](menu/guidebook/guilds/admiralty/index.mdx)
-### Армии
-- [Армии](menu/guidebook/army/index.mdx)
 ### Образование
 - [Образование](menu/guidebook/education/index.mdx)
 - [Военное](menu/guidebook/education/military/index.mdx)
@@ -61,6 +59,8 @@
 ### Основы Магии
 - [Основы Магии](menu/magic/basics/index.mdx)
 - [Матчасть](menu/magic/basics/theory/index.mdx)
+### Обучение магии
+- [Обучение магии](menu/magic/education/index.mdx)
 ### Ветви
 - [Ветви](menu/magic/branches/index.mdx)
 - [Белая магия](menu/magic/branches/white/index.mdx)
@@ -123,7 +123,7 @@
 - [Тёмный шаманизм](menu/skills/shamanism/dark/index.mdx)
 ## История
 - [История](menu/history/index.mdx)
-- [Свежие Новости](menu/history/news/index.mdx)
+- [Свежие Новости](/menu/history/news)
 ### Иссякающая Эпоха
 - [Иссякающая Эпоха](menu/history/outgoing-age/index.mdx)
 - [Индикт Мертворождения](menu/history/outgoing-age/stillborn-indict/index.mdx)

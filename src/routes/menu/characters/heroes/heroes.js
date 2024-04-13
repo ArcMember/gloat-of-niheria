@@ -235,4 +235,59 @@ export const heroes = [
         "wanted" : "",
         "dead" : false
     },
+    {
+        "name": "Жан де Романш",
+        "subname": "",
+        "subtitle": "Офицер Флатрии",
+        "filter": "Ж Мужчина Человек Воин",
+        "href": "jean-de-romanche",
+        "src": "jean-de-romanche/pic.jpg",
+        "property" : "4 золотых",
+
+        "data" : {
+            "age" : "21 год. 27-го числа месяца Хлебосола, созвездие Синаран.",
+            "nation" : "человек, флатриец.",
+            "class" : "воин, подкласс - разбойник.",
+            "player" : "Михаил Попов",
+            "occupation" : 'Ротмистр III роты II батальона V "Флатрихского" стрелкового полка.',
+            "quests" : "",
+            "factions" : {
+                "RT" : "sus",   "TY" : "neu",   "AF" : "sus",
+                "LT" : "neu",   "KF" : "neu",   "MW" : "gud",
+                "FL" : "gud",   "SX" : "gud",   "SK" : "gud",
+                "KL" : "neg",   "HL" : "neg"
+            }
+        },
+
+        "wanted" : "",
+        "dead" : false
+    },
+    {
+        "name": "Тальбот Карнаухий",
+        "subname": "",
+        "subtitle": "Флотский канонир и клерк",
+        "filter": "Т Мужчина Человек Воин",
+        "href": "talbot-karnauhiy",
+        "src": "talbot-karnauhiy/pic.jpg",
+        "property" : "5 золотых",
+
+        "data" : {
+            "age" : "46лет. Родился в 167 году, 3го Снегомеса, под созвездием Матери.",
+            "nation" : "человек, риафец.",
+            "class" : "воин, подкласс - разбойник.",
+            "player" : "Сонях",
+            "occupation" : "Служит по найму у ярлыков, ради славы Коркафта и личного обогащения. Предпочитает боевые походы, запах пороха и свист ядер поиску сокровищ и борьбе с морскими монстрами.",
+            "quests" : "",
+            "factions" : {
+                "RT" : "sus",   "TY" : "neu",   "AF" : "sus",
+                "LT" : "neu",   "KF" : "gud",   "MW" : "neu",
+                "FL" : "neu",   "SX" : "neu",   "SK" : "neu",
+                "KL" : "neg",   "HL" : "neg"
+            }
+        },
+
+        "wanted" : "",
+        "dead" : false
+    },
+    
 ]
