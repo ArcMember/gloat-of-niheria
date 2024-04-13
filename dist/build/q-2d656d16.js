@@ -1,1 +1,0 @@
-import{a as n,m as e,d as u,q as a}from"./q-0a61ba82.js";const d=l=>n("details",null,{class:e(r=>r.border==null||r.border==!0?"border":"",[l]),open:e(r=>r.open,[l])},[n("summary",null,null,e(r=>r.summary,[l]),3,null),u(a,null,3,"ph_0")],1,"ph_1");export{d as s_97YuglSRCtc};
