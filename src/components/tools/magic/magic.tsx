@@ -8,6 +8,7 @@ import spellsList from "~/routes/menu/magic/spellsList.json";
 import MagicRune from './magic-rune';
 import MagicSpell from './magic-spell';
 import SpellDuration from './spell-duration';
+import { RequestHandler } from '@builder.io/qwik-city';
 
 export const SpellContext = createContextId<object>('spell-context');
 
@@ -22,10 +23,11 @@ export const stringToSpell = (string: string, name = undefined) => {
     return {"runes": arr, "accent": accent, "name": spellName}
 }
 
-export default component$(() => {    
+export default component$(() => {
     const defaultSpell = stringToSpell("Ч И Черной Магии,Ч Р Хаоса+,В Р Роста", "Мерзкая опухоль")
+    const defaultDesc = "Инициация неуправляемого роста опухоли на теле жертвы, состоящей из жира, хрящей и вкраплений зубов. Опухоль достигает массы не более 500 грамм."
     const spell = useStore({runes: defaultSpell.runes, accent: defaultSpell.accent, name: defaultSpell.name});
-
+    
     const openRunebook = useSignal(false);
     const runes = []
     for (const rune of runeList) {
@@ -50,14 +52,23 @@ export default component$(() => {
         )
     }    
     
+    const spellName = useSignal(spell.name);
+    const spellDescription = useSignal(defaultDesc);
+
     return (
         <div class="magic" id="magic">
             <div class="spell">                
-                <div class="spell-runes" id="spell-runes">
+                <div class="spell-runes-container" id="spell-runes">
+                    <input type="text" class="spell-name-input" value={spell.name} onInput$={(e) => {
+                        spellName.value = e.target.value;
+                    }}/>                    
                     <MagicSpell spell={spell} name={spell.name} editing/>
+                    <textarea value={spellDescription.value} class="spell-description-input" placeholder='Описание заклинания' onInput$={(e) => {
+                        spellDescription.value = e.target.value
+                    }}/>
                 </div>
                 <div class="spell-duration-container">
-                    <SpellDuration spell={spell}/>
+                    <SpellDuration spell={spell} name={spellName.value} spellDescription={spellDescription.value}/>
                 </div>                
             </div>
             <div class={"menu runes " + (openRunebook.value ? "opened" : "")} id="runes">
@@ -80,6 +91,9 @@ export default component$(() => {
                         spell.runes = [];
                         spell.accent = undefined;
                         spell.name = "Новое заклинание"
+                        spellName.value = "Новое заклинание"
+
+                        spellDescription.value = ""
                     }}><i class="fa fa-trash"/></button>
                     <button class="spellbookButton" onClick$={(e) => {
                         openSpellbook.value = !openSpellbook.value;

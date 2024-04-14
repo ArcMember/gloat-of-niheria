@@ -278,6 +278,17 @@ div[p] {
 	color: $active;
 }
 
+textarea, input[type="text"] {
+	outline: 1px solid $niheria-gold;
+	border: none;
+	border-radius: 3px;
+	background: none;
+	caret-color: $fg;
+	color: $fg;
+	font-size: $small;
+	padding: 6px;
+}
+
 details {
 	margin: 2px 0;
 }
@@ -289,6 +300,7 @@ details[border], details.border {
 	padding: 10px;
 	border-radius: 5px;
 }
+
 img {
 	width: 100%;
 }
@@ -2823,6 +2835,25 @@ $card-opening-speed: 0.3s;
 	position: relative;
 	.spell {
 		min-height: 700px;		
+
+		.spell-runes-container {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+
+			.spell-name-input {
+				margin-top: 14px;
+				text-align: center;
+				width: 400px;
+			}
+			.spell-description-input {
+				width: 400px;
+				height: 6rem;
+				margin-bottom: 20px;
+				resize: vertical;
+			}
+		}
+
 		.spell-duration-container {
 			display: flex;
 			justify-content: center;
@@ -3077,7 +3108,11 @@ $card-opening-speed: 0.3s;
 }
 .magic-spell.presenting {
 	display: inline-block;
-	float: right; 
+	@media only screen and (min-width: 600px) {
+		&.float {
+			float: right; 
+		}
+	}
 	padding: 10px;
 	.spell-name {
 		display: none;

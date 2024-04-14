@@ -4,7 +4,7 @@ import {getRuneList} from "~/routes/menu/magic/runesList.jsx";
 const runeList = getRuneList()
 
 import MagicRune from './magic-rune';
-import ClipboardJS from "clipboard";
+
 import { stringToSpell } from './magic';
 import { ObjectEncodingOptions } from 'node:fs';
 
@@ -13,6 +13,7 @@ interface Spell {
     spell: object | string;
     editing?: boolean;
     list?: boolean;
+    float?: boolean;
 }
 
 
@@ -22,36 +23,31 @@ export default component$((props: Spell) => {
         spellContext = stringToSpell(props.spell);
 
     return (
-        <div class={"magic-spell " + (props.list ? "list " : "") + (!props.editing ? "presenting " : "") + spellContext.runes}>
+        <div class={"magic-spell " 
+            + (props.list ? "list " : "") 
+            + (!props.editing ? "presenting " : "") 
+            + (props.float == undefined || props.float ? "float " : "")
+            + spellContext.runes}>
             <div class="spell-formula" id="spell-formula">{spellToString(spellContext)}</div>
             <div class="spell-name">
-                <div>{props.name}</div>
-                <button class="copy-spell-button flat" id="copy-spell-button" data-clipboard-target={"#spell-formula"} onClick$={(ev) => {
-                    const clipboard = new ClipboardJS('.copy-spell-button');
+                {props.editing != true && 
+                    <div>{props.name}</div>
+                }
+                <button class="copy-spell-button flat" id="copy-spell-button" onClick$={(ev) => {
+                    navigator.clipboard.writeText(spellToString(spellContext))
+                    .then(() => {
+                        const copyBtn = document.getElementById("copy-spell-button")
 
-                    clipboard.on('success', function(e) {
-                        console.info('Action:', e.action);
-                        console.info('Text:', e.text);
-                        console.info('Trigger:', e.trigger);   
-
-                        const successEl = e.trigger
-                        successEl.classList.remove("success");
-                        void successEl.offsetWidth;
-                        successEl.classList.add("success");
-
-                        e.clearSelection();
-                        clipboard.destroy();
-                    });
-                    
-                    clipboard.on('error', function(e) {
-                        console.error('Action:', e.action);
-                        console.error('Trigger:', e.trigger);
-                    });                    
-                }}>
+                        copyBtn.classList.remove("success");
+                        void copyBtn.offsetWidth;
+                        copyBtn.classList.add("success");
+                    });                 
+                    }}>
                     <i class="fa fa-clipboard"></i> 
-                     скопировать формулу 
-                    <i class="fa fa-check"></i></button>
-                </div>
+                    скопировать формулу
+                    <i class="fa fa-check"></i>
+                </button>
+            </div>
             <div class="spell-runes">
                 {constructRunes(props, spellContext)}
             </div>
@@ -60,7 +56,7 @@ export default component$((props: Spell) => {
     );
 });
 
-function constructRunes(props, spellContext) {
+function constructRunes(props, spellContext) {    
     const runes = []
     if (spellContext.runes.length == 0) {
         runes.push(<i>Добавьте руны в заклинание</i>)
@@ -108,6 +104,7 @@ function constructRunes(props, spellContext) {
         } 
         i++;
     }
+
     return runes;
 }
 

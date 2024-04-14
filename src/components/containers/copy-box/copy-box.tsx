@@ -1,5 +1,4 @@
 import { component$, Slot } from '@builder.io/qwik';
-import ClipboardJS from "clipboard";
 
 interface CopyBoxProps {
     readonly?: boolean;

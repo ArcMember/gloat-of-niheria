@@ -8,6 +8,7 @@ const runeList = getRuneList()
 interface SpellDuration {
     name?: string;
     spell: object;
+    spellDescription?: string;
 }
 
 export default component$((props: SpellDuration) => {
@@ -118,7 +119,10 @@ export default component$((props: SpellDuration) => {
                 <b>Каст:</b> {cast}<br/>            
             </div>
             <CopyBox>
-                <div>{type}<br/><b>«{props.spell.name}»</b></div>
+                <div style="font-size: 12px;"><i>{spellToString(props.spell)}</i>{"\n"}</div>
+                <div style="word-break: break-word">«{props.name}»</div>
+                <div style="word-break: break-word">{props.spellDescription != "" ? props.spellDescription : <i style="color: red;">{"Напишите описание!"}</i>}<br/></div>
+                <span>```</span><div>Тип: {type}</div>
                 {props.spell.runes.map((item, id) => (
                     <div key={Math.random()}>
                         - {getRuneName(item)}{id == props.spell.accent ? " ✨" : ""}{" (" + actions[id] + ")"}
@@ -127,7 +131,8 @@ export default component$((props: SpellDuration) => {
                 { penaltyActive &&
                     <span><b>Коэффициент потерь:</b> {extendedSpellPenalty}<br/></span>
                 }       
-                <b>Длительность:</b> {Math.floor(duration)} секунд <br/>         
+                <b>Длительность:</b> {Math.floor(duration)} секунд <br/>
+                <span>```</span>
             </CopyBox>
         </Board>
     );
@@ -150,4 +155,10 @@ function getRuneName(baseName: string): string | null {
         }
     });
     return runeName != undefined ? runeName : null;
+}
+
+function spellToString(spell: object) {
+    const arr = [...spell.runes];
+    arr[spell.accent] += "+";
+    return arr.join(',');
 }

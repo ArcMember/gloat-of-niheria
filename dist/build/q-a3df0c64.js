@@ -1,1 +1,0 @@
-import{P as s,v as o,i as t,_ as e}from"./q-0a61ba82.js";import{E as r}from"./q-8ac4b9e0.js";const i=r(o("s_66qHP9lKv0Q")),l=s(t(()=>e(()=>import("./q-7e4f518d.js"),["build/q-7e4f518d.js","build/q-0a61ba82.js","build/q-815ec26a.js","build/q-8c3d8839.js","build/q-8ac4b9e0.js"]),"s_iT0dste4z1Q"));export{l as default,i as useGetHeroes};
