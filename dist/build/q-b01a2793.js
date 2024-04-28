@@ -1,3 +1,0 @@
-import{d as n,x as i,y as t,g as s}from"./q-0a61ba82.js";import"./q-3a604158.js";import{N as o}from"./q-f1617c30.js";import{B as c}from"./q-c037a95c.js";const f={title:"Ийроно",meta:[],styles:[],links:[],scripts:[],frontmatter:{}},h={title:"Ийроно"};function a(r){return t(s,{children:[t(o,{}),`
-`,t(c,{children:[t("br",{}),t("div",{center:!0,children:"Информация отсутствует"}),t("br",{})]}),`
-`,t(o,{})]})}function l(r={}){const{wrapper:e}=r.components||{};return e?t(e,Object.assign({},r,{children:t(a,r)})):a()}const x=()=>n(i,{children:n(l,{},3,null)},3,"X4aOgw2J");export{x as default,h as frontmatter,f as head};
