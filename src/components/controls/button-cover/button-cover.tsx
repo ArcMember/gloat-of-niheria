@@ -13,6 +13,7 @@ interface NiheriaButton {
     shorter?: boolean;
     cover?: boolean;
     noZoom?: boolean;
+    top?: boolean;
 }
 
 export default component$((props: NiheriaButton) => {
@@ -23,6 +24,7 @@ export default component$((props: NiheriaButton) => {
                 + (props.shorter != undefined ? "shorter " : "")
                 + (props.cover != undefined ? "cover " : "")
                 + (props.noZoom != undefined ? "noZoom " : "")
+                + (props.top != undefined ? "top " : "")
             } href={props.href}>
                 { props.src != undefined &&
                     <img 

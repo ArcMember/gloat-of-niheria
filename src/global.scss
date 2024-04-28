@@ -178,6 +178,15 @@ body {
 
 	margin: 0;
 	overflow-x: hidden;
+	overflow-y: scroll;
+	scrollbar-width: auto;
+
+}
+
+@media only screen and (max-width: 600px) {
+	body.menu-opened {
+		overflow-y: hidden;
+	}
 }
 
 hr {
@@ -199,6 +208,10 @@ h5,
 .h3,
 .h4,
 .h5 {
+	@extend .heading;
+}
+
+.h {
 	@extend .heading;
 }
 
@@ -305,9 +318,18 @@ img {
 	width: 100%;
 }
 
+.table-container {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	@media only screen and (max-width: 600px) {
+		overflow-x: scroll;
+	}
+}
 table {
 	width: 100%;
-	margin: 20px;
+	min-width: 600px;
+	// margin: 20px;
 	border-spacing: 0;
 	@media only screen and (max-width: 600px) {
 		margin: 0;
@@ -327,7 +349,7 @@ table {
 	}
 	th, td {		
 		p {
-			padding: 2px;
+			padding: 4px 2px;
 			margin: 0;
 		}
 		border: 1px solid $table-border-color;
@@ -335,6 +357,12 @@ table {
 	}
 	th {
 		border: none;
+	}
+
+	&[top] {
+		td {
+			vertical-align: top;
+		}
 	}
 }
 .two-columns {
@@ -795,6 +823,7 @@ button.flat {
 		filter: none;
 
 		max-height: 400px;
+		height: 400px;
 		transition: 0.5s;
 		@media screen and (max-width: 450px) {
 			max-height: 300px;
@@ -836,6 +865,15 @@ button.flat {
 			img.main {
 				scale: 1;
 				transition: 0;
+			}
+		}
+		&.top {
+			img.main {
+				transform-origin: top;
+				max-width: 100%;
+				display: block;
+				object-fit: contain;
+				top: 0px;
 			}
 		}
 		
@@ -1391,8 +1429,9 @@ Classes */
 Custom*/
 
 header {
-	position: sticky;
+	position: fixed;
 	top: 0;
+	right: 0; left: 0;
 	z-index: 10;
 
 	display: flex;
@@ -1400,6 +1439,19 @@ header {
 	align-items: center;
 	max-height: 30px;
 	padding-top: 10px;
+
+	&::before {
+		content: "";
+		top: 0;
+		right: 0; left: 0;
+		position: fixed;
+		height: 80px;
+		backdrop-filter: blur(30px);
+		background-color: rgba($bg, 80%);
+		mask-image: linear-gradient(to top, transparent, black 50%);
+		pointer-events: none;
+		z-index: -15;
+	}
 
 	.left {
 		display: flex;
@@ -1428,13 +1480,14 @@ footer {
 
 .page {
 	transition: 0.5s;
-	width: 100%;
+	width: 100vw;
+	overflow: hidden;
 }
 
 .content {
 	display: flex;
 	justify-content: center;
-	padding: 0 0 30px 0;
+	padding: 40px 0 30px 0;
 	transition: 0.5s;
 
 	.content-wrapper {
@@ -1452,7 +1505,12 @@ footer {
 	}
 }
 
+
 .page-header {
+	position: sticky;
+	top: 40px;
+	z-index: 5;
+
 	box-sizing: border-box;
 	width: 100%;
 	min-height: 60px;
@@ -1462,10 +1520,6 @@ footer {
 	border-bottom: 2px solid $niheria-gold;
 	background: none;
 	
-	position: sticky;	
-	top: 40px;
-	z-index: 5;
-
 	div {
 		//background: linear-gradient($bg-a 60%, $fg-niheria-a);
 		@media only screen and (max-width: 600px) {
@@ -1474,7 +1528,7 @@ footer {
 	}
 }
 
-.page-header::after {	
+.page-header::before {	
 	content: " ";
 	position: absolute;
 	right: -100px; left: -100px;
@@ -1658,11 +1712,170 @@ footer {
 	}
 }
 
+// MARK: Timeline
 .timeline {
 	.timeline-event {
 		margin: 10px 0;
 	}
 }
+
+// MARK: Timeline State
+.timeline-container {
+	display: flex;
+	justify-content: center;	
+	padding: 20px 0;
+
+	@media screen and (max-width: 500px) {
+		overflow-x: scroll;
+		background-color: $bg-sidebar;
+		border-top: 1px solid $active;
+		border-bottom: 1px solid $active;
+	}
+
+	.timeline-state {
+		margin: 0;
+		width: 100%;
+		min-width: 500px !important;
+
+		table-layout: fixed;
+		
+		.top-row, .bottom-row {
+			display: table-row;
+			width: auto;
+			background: none;
+			position: relative;
+			
+			&> td {
+				border: none;
+				.stamp {
+					display: flex;
+					align-items: center;
+					flex-direction: column;
+					// height: 40px;
+					.name {
+						text-align: center;
+						overflow: visible;
+						display: flex;
+						justify-content: center;
+					}
+				}
+				
+			}
+		}
+
+		.top-row {
+			td { border-bottom: 1px solid $niheria-gold; }
+			td.used {
+				position: relative;
+				.stamp {
+					display: flex;
+					justify-content: center;
+
+				}
+				
+				// Uneven shift
+				&:nth-child(even) > .stamp {			
+					&::before {
+						// transform: translateY(+15px);
+						// min-height: 5px  !important;
+					}
+					&::after {
+						// transform: translateY(-4px);
+					}
+				}
+				&:nth-child(odd) > .stamp {
+					// padding-bottom: 30px;
+				}
+				.stamp {
+					padding-bottom: 15px;
+					// position: relative;
+					width: 100%;
+					&::before {
+						content: "";
+						position: absolute;
+						width: 0px;
+						bottom: -10px;
+						// top: -1px;
+						min-height: 20px;
+						border: 1px solid $active;
+					}
+					// &::after {
+					// 	content: "";
+					// 	background-color: $active;
+					// 	border-radius: 100%;
+					// 	width: 7px;
+					// 	height: 7px;
+					// 	position: absolute;
+					// 	top: 0;
+					// 	color: $active;
+					// 	transform: translateY(+38px);
+					// }
+				}
+				.stamp > .year {
+					font-size: 12px;
+					// padding-bottom: 5px;
+					// position: absolute;
+					// bottom: -20px;
+					// text-align: center;
+					// display: flex;
+					// justify-content: center;
+					// width: 100%;
+				}
+			}
+		}
+		.bottom-row {
+			td.used {				
+				// Uneven shift
+				&:nth-child(even) > .stamp > .name {			
+					&::before {
+						// transform: translateY(-16px);
+						// min-height: 15px  !important;
+					}
+				}
+				&:nth-child(odd) > .stamp > .name {
+					// padding-top: 30px;
+				}
+				.stamp { 
+					padding-top: 10px;
+					.name {
+						width: 100%;
+						&::before {
+							content: "";
+							position: absolute;
+							width: 0px;
+							top: -10px;
+							// bottom: 0px;
+							min-height: 20px;
+							border: 1px solid $active;
+						}
+					}
+					// &::after {
+					// 	content: "";
+					// 	background-color: $active;
+					// 	border-radius: 100%;
+					// 	width: 7px;
+					// 	height: 7px;
+					// 	position: absolute;
+					// 	top: 0;
+					// 	color: $active;
+					// 	transform: translateY(+20px);
+					// }
+				}
+				.stamp > .year {
+					font-size: 12px;
+					text-align: center;
+					// position: absolute;
+					// top: -20px;
+					// display: flex;
+					// justify-content: center;
+					// width: 100%;
+				}
+			}
+		}
+	}
+}
+
+
 
 .quest-tags {
 	display: flex;
@@ -1731,18 +1944,17 @@ footer {
 	}
 }
 .sidebar {
-	position: sticky;
+	position: fixed;
+	top: 40px;
 	@media only screen and (max-width: 600px) {
 		overflow-x: hidden;
-		position: fixed;
+		overflow-y: scroll;
 		width: 100%;
 		max-width: unset;
-
 	}
 
 	font-size: 1rem;
 
-	top: 0;
 	bottom: 0;
 	height: 100vh;
 	z-index: 10;
@@ -1983,6 +2195,11 @@ Containers */
 //.AAAA.....AAAA.ttttttttttteeeeeeeee..nnnn..nnnn.tttttiiiii.ooooooooo..nnnn..nnn..
 //.AAAA.....AAAA.ttttttttttte.eeeeee...nnnn..nnnn.tttttiiiii...oooooo...nnnn..nnn..
 
+[attention] {
+	border-left: 2px solid $niheria-gold;
+	padding-left: 4px;
+	display: inline-block;
+}
 blockquote {
 	box-sizing: border-box;
 	background: $fg-a;
@@ -2421,6 +2638,49 @@ blockquote {
 //...CCCCCCCCCC..hhhh..hhhhaaaaaaaaaaarrr...raaaaaaaaa.ccccccccc.tttttteeeeeeee.errr...rssssssss...
 //....CCCCCCC....hhhh..hhhh.aaaaaaaaaarrr....aaaaaaaaa..cccccc...tttttt.eeeeee..errr.....ssssss....
 
+.filter-key {
+	font-family: bookAntiquaBlack;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 5px 9px;			
+	cursor: pointer;
+	position: relative;
+	&.sel {
+		color: $fg-niheria;			
+		&::after {
+			transition: transform 0.25s ease-out;
+			transform: scaleX(1);
+			transform-origin: bottom left;
+		}
+	}
+}
+.filter-key::after {
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 2px;
+	bottom: 0; left: 0;
+	background-color: $active;
+	transform-origin: bottom right;
+	transition: transform 0.25s ease-out;
+	transform: scaleX(0);
+}
+.filter-key:hover {			
+	&::after {
+		transition: transform 0.25s ease-out;
+		transform: scaleX(1);
+		transform-origin: bottom left;
+	}
+}	
+.filter-list {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+
+	padding: 20px 15px;
+}
+
 .character-list-container {
 	.filter-container {
 		display: flex;
@@ -2429,49 +2689,6 @@ blockquote {
 		@media only screen and (max-width: 600px) {
 			flex-direction: column;
 		}			
-	}
-	div > .filter-list {
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		flex-wrap: wrap;
-
-		padding: 20px 15px;
-
-		.filter-key {
-			font-family: bookAntiquaBlack;
-			font-weight: bold;
-			font-size: 20px;
-			padding: 5px 9px;			
-			cursor: pointer;
-			position: relative;
-			&.sel {
-				color: $fg-niheria;			
-				&::after {
-					transition: transform 0.25s ease-out;
-					transform: scaleX(1);
-					transform-origin: bottom left;
-				}
-			}
-		}
-		.filter-key::after {
-			content: '';
-			position: absolute;
-			width: 100%;
-			height: 2px;
-			bottom: 0; left: 0;
-			background-color: $active;
-			transform-origin: bottom right;
-			transition: transform 0.25s ease-out;
-			transform: scaleX(0);
-		}
-		.filter-key:hover {			
-			&::after {
-				transition: transform 0.25s ease-out;
-				transform: scaleX(1);
-				transform-origin: bottom left;
-			}
-		}		
 	}
 	.character-list {
 		display: grid;
@@ -2551,6 +2768,7 @@ blockquote {
 		.char-factions {
 			margin: 0;
 			font-family: robotoSlab;
+			min-width: unset !important;
 			tbody {
 				tr {
 					background: none;

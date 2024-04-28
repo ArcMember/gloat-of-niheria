@@ -1,0 +1,9 @@
+import{d as t,x as a,y as n,g as d}from"./q-0a61ba82.js";import{B as c}from"./q-c3da5cf7.js";const h=[{text:"Внешний вид",id:"внешний-вид",level:2},{text:"Свойства",id:"свойства",level:2},{text:"Обитание",id:"обитание",level:2},{text:"Рецепты",id:"рецепты",level:2}],p={title:"Дайрад",meta:[],styles:[],links:[],scripts:[],frontmatter:{}},m={title:"Дайрад"};function r(i){const e=Object.assign({h2:"h2",a:"a",span:"span",p:"p",em:"em"},i.components);return n(d,{children:[n(c,{src:"/menu/guidebook/books/herbarium/minerals/dairad/pic.jpg",title:"Дайрад"}),`
+`,n(e.h2,{id:"внешний-вид",children:[n(e.a,{"aria-hidden":"true",tabindex:"-1",href:"#внешний-вид",children:n(e.span,{class:"icon icon-link"})}),"Внешний вид"]}),`
+`,n(e.p,{children:"Кристалл тёмно-синего цвета, заряженный слегка светится изнутри."}),`
+`,n(e.h2,{id:"свойства",children:[n(e.a,{"aria-hidden":"true",tabindex:"-1",href:"#свойства",children:n(e.span,{class:"icon icon-link"})}),"Свойства"]}),`
+`,n(e.p,{children:["Поглощает свет, который испускает при применении на него некоторой силы, а разбившись — ярко вспыхивает. ",n(e.em,{children:"Мало изучен."})]}),`
+`,n(e.h2,{id:"обитание",children:[n(e.a,{"aria-hidden":"true",tabindex:"-1",href:"#обитание",children:n(e.span,{class:"icon icon-link"})}),"Обитание"]}),`
+`,n(e.p,{children:"Редко встречается на островах Риафийского архипелага."}),`
+`,n(e.h2,{id:"рецепты",children:[n(e.a,{"aria-hidden":"true",tabindex:"-1",href:"#рецепты",children:n(e.span,{class:"icon icon-link"})}),"Рецепты"]}),`
+`,n(e.p,{children:"Иногда используется как светильник, но в основном применяется в лабораторных экспериментах для создания ярких вспышек света."})]})}function l(i={}){const{wrapper:e}=i.components||{};return e?n(e,Object.assign({},i,{children:n(r,i)})):r(i)}const u=()=>t(a,{children:t(l,{},3,null)},3,"-Loj49p0");export{u as default,m as frontmatter,p as head,h as headings};

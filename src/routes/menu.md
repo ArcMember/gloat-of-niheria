@@ -110,9 +110,7 @@
 - [Обращение](menu/skills/druidism/transformation/index.mdx)
 ### Оккультизм
 - [Оккультизм](menu/skills/occultism/index.mdx)
-- [Энигма](menu/skills/occultism/enigma/index.mdx)
-- [Метка](menu/skills/occultism/mark/index.mdx)
-- [Таро](menu/skills/occultism/tarot/index.mdx)
+- [Таропрактика](menu/skills/occultism/tarot/index.mdx)
 - [Эзотеры](menu/skills/occultism/esoter/index.mdx)
 - [Синкреты](menu/skills/occultism/syncret/index.mdx)
 - [Энигматы](menu/skills/occultism/enigmat/index.mdx)

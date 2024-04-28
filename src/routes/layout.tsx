@@ -32,6 +32,7 @@ export default component$(() => {
     useContextProvider(SidebarContext, sidebarStore);
 
     useVisibleTask$(() => {
+
         // console.log(heading)
         if (location.hash !== "") {
             const heading = decodeURI(location.hash).slice(1).toLowerCase();

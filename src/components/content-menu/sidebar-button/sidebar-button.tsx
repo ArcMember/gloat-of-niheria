@@ -14,11 +14,13 @@ export default component$(() => {
 					if (sidebarState.value === "true") {
 						sidebarState.value = "false";
 						document.cookie = `sidebar=false;path=/`
+						document.body.classList.remove("menu-opened")
 						if (audio != null) audio.setAttribute("offset-menu", false);
 					}
 					else {						
 						sidebarState.value = "true";
 						document.cookie = `sidebar=true;path=/`
+						document.body.classList.add("menu-opened")
 						if (audio != null) audio.setAttribute("offset-menu", true);
 					}
 				}}>
