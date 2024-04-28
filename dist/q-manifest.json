@@ -1,5 +1,5 @@
 {
-  "manifestHash": "tg9vox",
+  "manifestHash": "cyn735",
   "symbols": {
     "s_0vWA1CcTeVI": {
       "origin": "components/tools/magic/magic-spell.tsx",
@@ -6164,7 +6164,7 @@
     "q-7110ffd8.js": {
       "size": 118,
       "origins": [
-        "src/routes/menu/history/news/index.tsx"
+        "src/routes/menu/skills/crafts/tarot/index.tsx"
       ]
     },
     "q-712bf1de.js": {
@@ -7988,7 +7988,7 @@
     "q-c31a0420.js": {
       "size": 118,
       "origins": [
-        "src/routes/menu/skills/crafts/tarot/index.tsx"
+        "src/routes/menu/history/news/index.tsx"
       ]
     },
     "q-c347d37b.js": {
@@ -9520,7 +9520,7 @@
       "location": "head",
       "attributes": {
         "rel": "stylesheet",
-        "href": "/build/q-308900cd.css"
+        "href": "/build/q-25dd9e1a.css"
       }
     }
   ],

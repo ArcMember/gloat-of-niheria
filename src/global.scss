@@ -1499,10 +1499,10 @@ footer {
 			transition: 0.5s;
 		}
 	}
-	@media only screen and (max-width: 750px) {
-		padding: 0 25px;
-		transition: 0.5s;
-	}
+	// @media only screen and (max-width: 750px) {
+	// 	padding: 0 25px;
+	// 	transition: 0.5s;
+	// }
 }
 
 
@@ -3053,7 +3053,9 @@ $card-opening-speed: 0.3s;
 	position: relative;
 	.spell {
 		min-height: 700px;		
-
+		@media screen and (max-width: 600px) {
+			padding: 0 15px;
+		}
 		.spell-runes-container {
 			display: flex;
 			flex-direction: column;
@@ -3061,31 +3063,61 @@ $card-opening-speed: 0.3s;
 
 			.spell-name-input {
 				margin-top: 14px;
+				box-sizing: border-box;
 				text-align: center;
 				width: 400px;
+				max-width: 100%;
+				transition: 0.2s;
+				
+				@media screen and (max-width: 600px) {
+					width: 100%;
+					transition: 0.2s;
+				}
 			}
 			.spell-description-input {
 				width: 400px;
+				max-width: 100%;
+				box-sizing: border-box;
 				height: 6rem;
 				margin-bottom: 20px;
 				resize: vertical;
+				transition: 0.2s;
+
+				@media screen and (max-width: 600px) {
+					height: 150px;
+					width: 100%;
+					transition: 0.2s;
+				}
 			}
 		}
 
 		.spell-duration-container {
 			display: flex;
 			justify-content: center;
+
 			.spell-duration {
 				border: 2px dashed $fg-a;
 				padding: 5px 10px 5px 15px;
 				margin: 4px;
 				border-radius: 10px;
 				width: 300px;
+				box-sizing: border-box;
+
+				@media screen and (max-width: 600px) {
+					width: 100%;
+					margin: 0px;
+				}
 
 				.accent-warning {
 					height: 20px;
 					font-style: italic;
 					color: $red;
+				}
+			}
+			.copy-box {
+				width: 300px;
+				@media screen and (max-width: 600px) {
+					width: 100%;
 				}
 			}
 		}
