@@ -207,11 +207,16 @@ h5,
 .h2,
 .h3,
 .h4,
-.h5 {
+.h5,
+[h1],
+[h2],
+[h3],
+[h4],
+[h5] {
 	@extend .heading;
 }
 
-.h {
+.h, [h] {
 	@extend .heading;
 }
 
@@ -221,34 +226,30 @@ h5,
 	font-weight: 200;
 	margin-bottom: 0.8rem;
 	scroll-margin-top: 6.5rem;
+	display: block;
 }
-h1,
-.h1 {
+h1, .h1, [h1] {
 	margin-top: 2rem;
 	font-size: 3rem;
 }
 
-h2,
-.h2 {
+h2, .h2, [h2]  {
 	margin-top: 1rem;
 	font-size: 2rem;
 }
 
-h3,
-.h3 {
+h3, .h3, [h3]  {
 	margin-top: 1rem;
 	font-size: 1.8rem;
 }
 
-h4,
-.h4 {
+h4, .h4, [h4]  {
 	margin-top: 1rem;
 	font-size: var(--big);
 
 }
 
-h5,
-.h5 {
+h5, .h5, [h5]  {
 	margin-top: 0.5rem;
 	font-size: 1.3rem;
 }
@@ -3459,6 +3460,11 @@ _______                                           __        __              __
 				margin-bottom: 3px;
 			}
 			.advancedDescription {}
+		}
+		.side-effects {
+			i {
+				color: $active;
+			}
 		}
 		&.ideogram {
 			.rune-description .main {

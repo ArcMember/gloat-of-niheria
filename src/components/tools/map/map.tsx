@@ -37,7 +37,7 @@ export default component$((props: Map) => {
         lengthUnit: {                 // You can use custom length units. Default unit is kilometers.
             display: 'km',              // This is the display value will be shown on the screen. Example: 'meters'
             decimal: 2,                 // Distance result will be fixed to this value. 
-            factor: 0.0179,               // This value will be used to convert from kilometers. Example: 1000 (from kilometers to meters)  
+            factor: 0.0179/2,               // This value will be used to convert from kilometers. Example: 1000 (from kilometers to meters)  
             label: 'Расстояние:'           
         },
         angleUnit: {
@@ -53,6 +53,16 @@ export default component$((props: Map) => {
         const marks = L.layerGroup()
         const bounds = [[-256, 256], [0, 0]];
         const niheriaCRS = L.CRS.Simple
+        console.log(niheriaCRS)
+        console.log(niheriaCRS.distance)
+        const dist = (latlng1, latlng2) => {
+            var dx = (latlng2.lng - latlng1.lng)/2,
+                dy = (latlng2.lat - latlng1.lat)/2;
+  
+            return Math.sqrt(dx * dx + dy * dy);
+        }
+        niheriaCRS.distance = dist
+        console.log(niheriaCRS.distance)
 
         const map = L.map('map', {
             attributionControl: false,

@@ -24,8 +24,11 @@ export default component$(() => {
 					<MenuElement menu={menu} url={url} level="0" />
 				</div>
 				<div class="sidebar-filler" onClick$={ () => {
-					document.cookie = `sidebar=false;path=/`;
 					sidebarState.value = "false";
+					document.cookie = `sidebar=false;path=/`
+					document.body.classList.remove("menu-opened")
+					const audio = document.getElementById("audio-fixed");
+					if (audio != null) audio.setAttribute("offset-menu", "false");
 				}} 
 				id="sidebar-filler"/>
 			<div class="sidebar-resize-handle"/>

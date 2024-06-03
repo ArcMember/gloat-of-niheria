@@ -171,7 +171,7 @@
 ## Экономика
 - [Экономика](menu/economy/index.mdx)
 - [О деньгах](menu/economy/about-money/index.mdx)
-- [Заработок](menu/economy/earning/index.mdx)
+- [Заработок и траты](menu/economy/earning/index.mdx)
 ## Персонажи
 - [Персонажи](menu/characters/index.mdx)
 - [Герои](menu/characters/heroes/index.mdx)
