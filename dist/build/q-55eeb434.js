@@ -1,1 +1,0 @@
-import{P as o,W as t,v as s,i as a,_ as e}from"./q-0a61ba82.js";import{E as r}from"./q-3bb2d08e.js";const d=t("niheria.sidebar-context"),l=r(s("s_ltXEYcy1UYw")),n=o(a(()=>e(()=>import("./q-56e8f0c0.js"),["build/q-56e8f0c0.js","build/q-0a61ba82.js","build/q-a690ea7b.js","build/q-3bb2d08e.js"]),"s_VKFlAWJuVm8"));export{d as SidebarContext,n as default,l as useSidebarCookie};
