@@ -89,7 +89,7 @@ export const runeList = [
     },
     {
         "name":  "Идеограмма Могучести",
-        "baseName":  "Б И Крепости",
+        "baseName":  "Б И Могучести",
         "src":  "/menu/magic/runes/Б И Могучести.png",
         "branch":  "Белая Магия",
         "sideEffects": [
@@ -477,7 +477,7 @@ export const runeList = [
     },
     {
         "name":  "Идеограмма Формы",
-        "baseName":  "В И Внимания",
+        "baseName":  "В И Формы",
         "src":  "/menu/magic/runes/В И Внимания.png",
         "branch":  "Магия Влияния",
         "sideEffects": [
@@ -492,7 +492,7 @@ export const runeList = [
     },
     {
         "name":  "Руна Концентрации",
-        "baseName":  "В Р Духа",
+        "baseName":  "В Р Концентрации",
         "src":  "/menu/magic/runes/В Р Духа.png",
         "branch":  "Магия Влияния",
         "sideEffects": [

@@ -3,13 +3,20 @@ title: Книги
 ---
  
 import ButtonBook from "~/components/controls/button-book/button-book";
+import NiheriaRuler from "~/components/visuals/niheria-ruler/niheria-ruler";
 
 <ButtonBook href="bestiary" title="Бестиарий" subtitle="Бестии, твари, сущности" picNum={0} styleNum={2} />
 <ButtonBook href="herbarium" title="Гербарий" subtitle="Рестения, грибы и водоросли" picNum={0} styleNum={0} />
 {/* <ButtonBook href="alchemy" title="Алхимия" subtitle="Яды, припарки и настойки" picNum={3} styleNum={0} /> */}
 <ButtonBook href="diseases" title="Болезни" subtitle="Недуги плоти и духа" picNum={3} styleNum={1} />
 <ButtonBook href="mechanics" title="Инженерия" subtitle="И паромеханика" author="Фонд Фелинварда" picNum={1} styleNum={0} />
+<ButtonBook href="artifacts" title="Артефакты" subtitle="Серийные образцы, популярные схемы" picNum={4} styleNum={0} />
 <ButtonBook href="weapon" title="Вооружён до зубов" picNum={2} styleNum={1} />
+
+<NiheriaRuler/>
+
+<ButtonBook chapter href="misc/wbargon" title="Вбаргоновая революция" subtitle="Предвосхищение будущего" author="Адгард Верзийский" picNum={3} styleNum={2} />
+
 {/* <ButtonBook href="magic" title="Магия и Теургия" picNum={4} styleNum={0} /> */}
 
 {/* <ButtonBook title="Бестиарий" subtitle="Бестии, твари, сущности" chapter/>

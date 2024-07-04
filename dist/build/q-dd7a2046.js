@@ -1,0 +1,15 @@
+import{d as t,x as r,y as n,g as c}from"./q-0a61ba82.js";import{B as d}from"./q-4631a7c6.js";const o=[{text:"Атсадский протез",id:"атсадский-протез",level:2},{text:"Для чего создано?",id:"для-чего-создано",level:4},{text:"Как выглядит?",id:"как-выглядит",level:4},{text:"Как работает?",id:"как-работает",level:4},{text:"Цена",id:"цена",level:4}],p={title:"Атсадский протез",meta:[],styles:[],links:[],scripts:[],frontmatter:{}},u={title:"Атсадский протез"};function l(e){const i=Object.assign({h2:"h2",a:"a",span:"span",h4:"h4",p:"p",ul:"ul",li:"li"},e.components);return n(c,{children:[n(i.h2,{id:"атсадский-протез",children:[n(i.a,{"aria-hidden":"true",tabindex:"-1",href:"#атсадский-протез",children:n(i.span,{class:"icon icon-link"})}),"Атсадский протез"]}),`
+`,n(i.h4,{id:"для-чего-создано",children:[n(i.a,{"aria-hidden":"true",tabindex:"-1",href:"#для-чего-создано",children:n(i.span,{class:"icon icon-link"})}),"Для чего создано?"]}),`
+`,n(i.p,{children:"Атсадский протез — это революционное устройство, предназначенное для замены гражданам утерянных конечностей и частичного восстановления их функций. Атсадский протез позволяет вернуть мобильность, независимость и качество жизни."}),`
+`,n(i.h4,{id:"как-выглядит",children:[n(i.a,{"aria-hidden":"true",tabindex:"-1",href:"#как-выглядит",children:n(i.span,{class:"icon icon-link"})}),"Как выглядит?"]}),`
+`,n(i.p,{children:"Протез изготавливается на заказ и как правило состоит из двух основных частей: механической и косметической. Механическая часть изготавливается из прочных и легких металлов в зависимости от предпочтений клиента, таких как сталь и латунь. Косметическая часть изготавливается из каучука или дерева, из кожи, для придачи протезу желаемого вида."}),`
+`,n(i.h4,{id:"как-работает",children:[n(i.a,{"aria-hidden":"true",tabindex:"-1",href:"#как-работает",children:n(i.span,{class:"icon icon-link"})}),"Как работает?"]}),`
+`,n(i.p,{children:"Атсадский протез работает за счет сложной системы приводов и пружин. Косметические протезы решают проблемы мобильности в меньшей степени, но значительно дешевле в производстве и легче в обслуживании. Кабельные протезы соединяются с оставшейся частью конечности при помощи кабелей и шарниров, которые передают движения мускулов для сглаживания движения протеза — такие протезы могут быть очень дорогими."}),`
+`,n(i.h4,{id:"цена",children:[n(i.a,{"aria-hidden":"true",tabindex:"-1",href:"#цена",children:n(i.span,{class:"icon icon-link"})}),"Цена"]}),`
+`,n(i.p,{children:"Рекомендуемая для продажи цена:"}),`
+`,n(i.ul,{children:[`
+`,n(i.li,{children:"Косметический протез — от 600 биллей"}),`
+`,n(i.li,{children:"Кабельный протез — от 4.000 биллей"}),`
+`]}),`
+`,n("br",{}),`
+`,n(d,{columns:2,mobileColumns:1,children:[n("img",{src:"pic.jpg",width:350,height:525,style:"object-fit: contain;"}),n("img",{src:"pic2.jpg",width:350,height:525,style:"object-fit: contain;"})]})]})}function a(e={}){const{wrapper:i}=e.components||{};return i?n(i,Object.assign({},e,{children:n(l,e)})):l(e)}const m=()=>t(r,{children:t(a,{},3,null)},3,"8lOnFwKQ");export{m as default,u as frontmatter,p as head,o as headings};

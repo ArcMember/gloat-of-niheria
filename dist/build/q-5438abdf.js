@@ -1,0 +1,3 @@
+import{d as n,x as s,y as t,g as a}from"./q-0a61ba82.js";import"./q-a972c05a.js";import{N as o}from"./q-f1617c30.js";import{B as c}from"./q-c037a95c.js";const f={title:"Диткрик",meta:[],styles:[],links:[],scripts:[],frontmatter:{}},h={title:"Диткрик"};function i(r){return t(a,{children:[t(o,{}),`
+`,t(c,{children:[t("br",{}),t("div",{center:!0,children:"Информация отсутствует"}),t("br",{})]}),`
+`,t(o,{})]})}function l(r={}){const{wrapper:e}=r.components||{};return e?t(e,Object.assign({},r,{children:t(i,r)})):i()}const x=()=>n(s,{children:n(l,{},3,null)},3,"jMsZCHeI");export{x as default,h as frontmatter,f as head};

@@ -14,19 +14,22 @@
 //....VVVVV....Vaaaaaaaaaarr....riii.iaaaaaaaaaabbbbbbb...blll..eeeeee....ssssss....
 Variables */
 
-#qwik-image-warning-container {
-	display: none;
-}
-[data-qwik-cls] {
-	all: unset;
-}
-[data-qwik-cls]::after {
-	all: unset;
-}
+// #qwik-image-warning-container {
+// 	display: none;
+// }
+// [data-qwik-cls] {
+// 	all: unset;
+// }
+// [data-qwik-cls]::after {
+// 	all: unset;
+// }
 
 @font-face {
 	font-family: bookAntiqua;
 	src: url(./fonts/BKANT.TTF);
+}
+[antiqua] {
+	font-family: bookAntiqua;
 }
 
 @font-face {
@@ -47,6 +50,9 @@ Variables */
 @font-face {
 	font-family: robotoSlab;
 	src: url(./fonts/RobotoSlab-VariableFont_wght.ttf);
+}
+[robotoSlab] {
+	font-family: robotoSlab;
 }
 
 $bg: hsl(210, 25%, 8%);
@@ -224,33 +230,42 @@ h5,
 	color: $active !important;
 	font-family: bookAntiqua;
 	font-weight: 200;
-	margin-bottom: 0.8rem;
+	margin-top: 12px;
+	margin-bottom: 4px;
 	scroll-margin-top: 6.5rem;
 	display: block;
 }
 h1, .h1, [h1] {
-	margin-top: 2rem;
-	font-size: 3rem;
+	margin-top: 12px;
+	margin-bottom: 4px;
+	font-size: $large;
+	@media only screen and (max-width: 600px) {
+		font-size: $bigger;
+	}
 }
 
 h2, .h2, [h2]  {
-	margin-top: 1rem;
-	font-size: 2rem;
+	margin-top: 12px;
+	margin-bottom: 4px;
+	font-size: $bigger;
 }
 
 h3, .h3, [h3]  {
-	margin-top: 1rem;
+	margin-top: 12px;
+	margin-bottom: 4px;
 	font-size: 1.8rem;
 }
 
 h4, .h4, [h4]  {
-	margin-top: 1rem;
+	margin-top: 12px;
+	margin-bottom: 4px;
 	font-size: var(--big);
 
 }
 
 h5, .h5, [h5]  {
-	margin-top: 0.5rem;
+	margin-top: 12px;
+	margin-bottom: 4px;
 	font-size: 1.3rem;
 }
 
@@ -280,6 +295,7 @@ a[href]:visited {
 
 p {
 	margin: 5px 0 15px 0;
+	text-align: justify;
 }
 div[p] {
 	text-indent: 20px;
@@ -313,6 +329,29 @@ details[border], details.border {
 	border: 1px solid $active;
 	padding: 10px;
 	border-radius: 5px;
+
+	summary {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		user-select: none;
+		* {
+			margin: 0;
+			padding: 0;
+			cursor: pointer;
+		}
+	}
+	summary::before {
+		width: 15px;
+		content: "▶";
+		margin-right: 10px;
+		color: $active;
+	}
+	&[open] summary::before {
+		content: "▼";
+		margin-right: 10px;
+		color: $active;
+	}
 }
 
 img {
@@ -328,10 +367,9 @@ img {
 	}
 }
 table {
-	width: 100%;
-	min-width: 600px;
+	// min-width: 600px;
 	// margin: 20px;
-	border-spacing: 0;
+	border-spacing: 1px;
 	@media only screen and (max-width: 600px) {
 		margin: 0;
 	}
@@ -339,6 +377,9 @@ table {
 	thead {
 		background: $fg-niheria;
 		color: $bg;
+		th {
+			padding: 0 20px;	
+		}
 	}
 	tbody {
 		tr:nth-child(2n + 1) {
@@ -348,7 +389,7 @@ table {
 	tr {
 		margin: 0;		
 	}
-	th, td {		
+	th, td {	
 		p {
 			padding: 4px 2px;
 			margin: 0;
@@ -369,13 +410,7 @@ table {
 .two-columns {
 	display: flex;
 	justify-content: center;
-	table {
-		transition: width 0.2s;
-		width: 80%;
-		@media only screen and (max-width: 600px) {
-			width: 100%;
-		}
-	}
+	overflow-x: auto;
 	td {
 		padding: 4px 8px;
 	}
@@ -549,6 +584,7 @@ ul {
 	box-sizing: border-box;
 }
 li {
+	// padding-top: 10px;
 	&:not(:first-child) {
 		padding-top: 10px;
 	}
@@ -877,6 +913,15 @@ button.flat {
 				top: 0px;
 			}
 		}
+		&.top.cover {
+			img.main {
+				transform-origin: top;
+				max-width: 100%;
+				display: block;
+				object-fit: cover;
+				top: 0px;
+			}
+		}
 		
 		img.main {
 			position: relative;
@@ -1181,6 +1226,9 @@ Mods */
 
 [center]        { text-align: center;   }
 div[center] {
+	p {
+		text-align: center;
+	}
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -1203,6 +1251,22 @@ span.center {
 [right]         { text-align: right;    }
 [float-left]    { float: left;     }
 [float-right]   { float: right;    }
+[img-left] { 
+	float: left;
+	padding: 0 15px;   
+}
+[img-right] { 
+	float: right; 
+	padding: 0 15px;   
+}
+[img-left], [img-right] {
+	@media screen and (max-width: 600px) {
+		float: none;
+		object-fit: cover;
+		width: 100% !important;
+		padding: 0 !important;
+	}
+}
 
 [giant]         { font-size: $giant;    }
 [largest]       { font-size: $largest;  }
@@ -1490,6 +1554,9 @@ footer {
 	justify-content: center;
 	padding: 40px 0 30px 0;
 	transition: 0.5s;
+	@media only screen and (max-width: 800px) {
+		padding: 40px 10px 30px 10px;
+	}
 
 	.content-wrapper {
 		max-width: 700px;
@@ -1900,8 +1967,10 @@ footer {
 
 
 .cover-heading {
-	text-align: center;
 	margin: 20px 0;
+	.center {
+		text-align: center;
+	}
 	.header {
 		@extend .text-gold-gradient-shadow;
 		font-size: $largest;
@@ -2144,6 +2213,10 @@ Containers */
 
 .board {
 	display: grid;
+
+	&.center {
+		justify-items: center;
+	}
 }
 .board1 {
 	grid-template-columns: repeat(1, 1fr);
@@ -2963,7 +3036,17 @@ $card-opening-speed: 0.3s;
 	z-index: 0;
 	transition: 0.3s;
 	cursor: pointer;
-	img {}
+	&.short {
+		img {
+			height: 100px;
+		}
+	}
+	&.left {
+		.book-title, .book-subtitle {
+			text-align: left !important;
+			margin-left: 25px;
+		}
+	}
 	.book-spine {
 		position: absolute;
 		top: 15%; bottom: 15%;
@@ -2977,11 +3060,29 @@ $card-opening-speed: 0.3s;
 			color: $active;
 		}
 		.book-title {
-			font-size: clamp($smallest, 5vw, $large);
+			font-size: $large;
+			transition: 0.3s;
+			@media screen and (max-width: 1400px) {
+				font-size: calc($bigger + $big/4);
+				transition: 0.3s;
+			}
+			@media screen and (max-width: 600px) {
+				font-size: $bigger;
+				transition: 0.3s;
+			}
+			@media screen and (max-width: 450px) {
+				font-size: $big;
+				transition: 0.3s;
+			}
 		}
 		.book-subtitle {
 			line-height: 14px;
-			font-size: clamp($microscopic, 3vw, $default);
+			font-size: $default;
+			transition: 0.3s;
+			@media screen and (max-width: 400px) {
+				font-size: $small;
+				transition: 0.3s;
+			}
 		}		
 	}
 	.book-author {
@@ -3052,6 +3153,7 @@ $card-opening-speed: 0.3s;
 
 .magic {
 	position: relative;
+	margin-bottom: 40px;
 	.spell {
 		min-height: 700px;		
 		@media screen and (max-width: 600px) {

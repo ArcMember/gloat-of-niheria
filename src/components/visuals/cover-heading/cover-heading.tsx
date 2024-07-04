@@ -5,6 +5,7 @@ interface NiheriaHeader {
     title?: string;
     subtitle?: string;
     bottomSubtitle?: string;
+    text?: string;
 
     center?: boolean;
 }
@@ -19,6 +20,8 @@ export default component$((props: NiheriaHeader) => {
             <h4 class={"header-subtitle" + (props.center ? " center" : "")}>{props.subtitle}</h4> }
             {props.bottomSubtitle != undefined &&
             <h2 class={"subheader" + (props.center ? " center" : "")}>{props.bottomSubtitle}</h2> }
+            {props.text != undefined &&
+            <div class={"subtext" + (props.center ? " center" : "")}>{props.text}</div> }
         </div>     
     );
 });

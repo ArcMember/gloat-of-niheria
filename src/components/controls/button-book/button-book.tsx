@@ -10,6 +10,8 @@ interface Book {
     styleNum: number,    
 
     chapter?: boolean,
+    short?: boolean,
+    left?: boolean,
 }
 
 export default component$((props: Book) => {
@@ -50,7 +52,7 @@ export default component$((props: Book) => {
         {src: "/book-assets/5.jpg",
             style:[
                 "filter: none;",
-                "filter: none;",
+                "filter: hue-rotate(180deg) saturate(0.5);",
                 "filter: none;",
                 "filter: none;"
             ]
@@ -60,7 +62,7 @@ export default component$((props: Book) => {
 
     return (
         <a class="book-a" href={props.href}>
-            <div class={"book" + (props.chapter ? " chapter" : "")}>
+            <div class={`book ${props.chapter ? " chapter" : ""} ${props.short ? " short" : ""} ${props.left ? " left" : ""}`}>
                 { !props.chapter &&
                 <img width="900" height="105" src={bookPaths[props.picNum].src} style={bookPaths[props.picNum].style[props.styleNum]} />
                 }

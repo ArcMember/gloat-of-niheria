@@ -37,6 +37,18 @@
 - [Ассоциация С'Итш'Тас](menu/guidebook/guilds/association/index.mdx)
 - [Инфердормис](menu/guidebook/guilds/inferdormis/index.mdx)
 - [Адмиралтейство](menu/guidebook/guilds/admiralty/index.mdx)
+### Индустрия
+- [Индустрия](menu/guidebook/industry/index.mdx)
+- [Конгломерат Атсад-Барсел](menu/guidebook/industry/atsad-barsel/index.mdx)
+- [Артефактория «Вестник»](menu/guidebook/industry/herald/index.mdx)
+- [Коммерческая Палата](menu/guidebook/industry/commercial-chamber/index.mdx)
+- [Ребелийский Торговый Дом](menu/guidebook/industry/rebeli/index.mdx)
+- [Промышленный Комплекс Икрит](menu/guidebook/industry/ikrit/index.mdx)
+- [Артефактории С'Итш'Тас](menu/guidebook/industry/s-itsh-tas/index.mdx)
+- [Анна-эрд-Рия](menu/guidebook/industry/anna-erd-ria/index.mdx)
+- [Алхимический Парк Ваната](menu/guidebook/industry/vanat/index.mdx)
+- [Осберутские Мегафактории](menu/guidebook/industry/osberut/index.mdx)
+- [Храм-артефакторий](menu/guidebook/industry/guran/index.mdx)
 ### Образование
 - [Образование](menu/guidebook/education/index.mdx)
 - [Военное](menu/guidebook/education/military/index.mdx)
@@ -51,6 +63,7 @@
 - [Гербарий](menu/guidebook/books/herbarium/index.mdx)
 - [Болезни](menu/guidebook/books/diseases/index.mdx)
 - [Инженерия](menu/guidebook/books/mechanics/index.mdx)
+- [Артефакты](menu/guidebook/books/artifacts/index.mdx)
 - [Вооружён до зубов](menu/guidebook/books/weapon/index.mdx)
 ### Конкурсы
 - [Конкурсы](menu/guidebook/contests/index.mdx)
@@ -137,25 +150,31 @@
 - [Таймлайн](menu/history/timeline/index.mdx)
 ### Архив
 - [Архив](menu/history/archive/index.mdx)
-## Сюжет
-- [Сюжет](menu/plot/index.mdx)
+## Квесты
+- [Квесты](menu/plot/index.mdx)
 ## Навигация
 - [Навигация](menu/navigation/index.mdx)
 ### Державы
 - [Державы](menu/navigation/states/index.mdx)
 - [Реабор-Тхаес](./menu/navigation/states/reabor-thaes/index.mdx)
-- [Вече Тейель](./menu/navigation/states/teyel/index.mdx)
-- [Великая Афитра](./menu/navigation/states/afitra/index.mdx)
-- [Последняя Республика Луат](./menu/navigation/states/luat/index.mdx)
+- [Тейель](./menu/navigation/states/teyel/index.mdx)
+- [Афитра](./menu/navigation/states/afitra/index.mdx)
+- [Луат](./menu/navigation/states/luat/index.mdx)
 - [Коркафт](./menu/navigation/states/korkaft/index.mdx)
-- [Древняя Великая Мордвинская империя](./menu/navigation/states/mordwin/index.mdx)
-- [Доминион Флатрия](./menu/navigation/states/flatria/index.mdx)
-- [Сикстиннский Доминион](./menu/navigation/states/sixtinna/index.mdx)
-- [Доминион Секри](./menu/navigation/states/sekri/index.mdx)
-- [Кланы Золотого Гребня](./menu/navigation/states/clans/index.mdx)
+- [Мордвин](./menu/navigation/states/mordwin/index.mdx)
+- [Флатрия](./menu/navigation/states/flatria/index.mdx)
+- [Сикстинна](./menu/navigation/states/sixtinna/index.mdx)
+- [Секри](./menu/navigation/states/sekri/index.mdx)
+- [Кланы](./menu/navigation/states/clans/index.mdx)
 - [Хельгеран](./menu/navigation/states/helgeran/index.mdx)
 ### Гильдии
 - [Гильдии](menu/guidebook/guilds/index.mdx)
+- [Искра](menu/guidebook/guilds/sparkle/index.mdx)
+- [Железнодорожники](menu/guidebook/guilds/railworkers/index.mdx)
+- [Бюро Вычищения](menu/guidebook/guilds/purge-bureau/index.mdx)
+- [Ассоциация С'Итш'Тас](menu/guidebook/guilds/association/index.mdx)
+- [Инфердормис](menu/guidebook/guilds/inferdormis/index.mdx)
+- [Адмиралтейство](menu/guidebook/guilds/admiralty/index.mdx)
 ### Транспорт
 - [Транспорт](menu/navigation/transport/index.mdx)
 - [Железная дорога](menu/navigation/transport/railroad/index.mdx)
@@ -164,8 +183,6 @@
 - [Новые Земли](menu/navigation/new-lands/index.mdx)
 ### Космология
 - [Космология](menu/navigation/cosmology/index.mdx)
-### Локации
-- [Локации](menu/navigation/locations/index.mdx)
 ### Закон
 - [Закон](menu/navigation/law/index.mdx)
 ## Экономика

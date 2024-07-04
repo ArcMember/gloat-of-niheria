@@ -72,18 +72,6 @@ model Hero {
   // relations   FactionRelation?
 }
 
-model AdRegistryEntry {
-  id        String  @unique
-  message   String  @default("")
-  date      String  @default("")
-  tags      String  @default("")
-}
-
-model AdDistributor {
-  name          String    @default("")
-  id            String    @unique
-  lastSendTime  DateTime
-}
 // model FactionRelation {
 //   hero CharacterHero? @relation(fields: [heroId], references: [id])
 //   heroId Int @unique
