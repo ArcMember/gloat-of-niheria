@@ -2,7 +2,7 @@
 // learn more about it in the docs: https://pris.ly/d/prisma-schema
 
 generator client {
-  provider = "prisma-client-js"
+  provider      = "prisma-client-js"
   binaryTargets = ["native", "debian-openssl-3.0.x"]
 }
 
@@ -12,10 +12,10 @@ datasource db {
 }
 
 model User {
-  id        Int     @id @default(autoincrement())
-  login     String  @unique
-  role      String  @default("user")
-  password  String
+  id       Int    @id @default(autoincrement())
+  login    String @unique
+  role     String @default("user")
+  password String
 }
 
 model Page {
@@ -26,8 +26,8 @@ model Page {
 }
 
 model GalleryImage {
-  title   String
-  url     String @unique
+  title String
+  url   String @unique
 }
 
 model MagicRune {
@@ -36,7 +36,7 @@ model MagicRune {
   src                 String
   branch              String
   description         String
-  advancedDescription String        
+  advancedDescription String
 }
 
 // model Canon {
@@ -55,10 +55,10 @@ model MagicRune {
 // }
 
 model Hero {
-  userId      BigInt
-  name        String @unique
-  inventory   String @default("")
-  invLog      String @default("")
+  userId    BigInt
+  name      String @unique
+  inventory String @default("")
+  invLog    String @default("")
   // subtitle    String?
   // filter      String?
   // href        String?
