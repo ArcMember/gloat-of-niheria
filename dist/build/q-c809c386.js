@@ -1,1 +1,0 @@
-import{a as l,m as n}from"./q-0a61ba82.js";const m=a=>{let s;return a.noheading?s=l("div",null,{class:"time"},l("span",null,{class:"data"},n(t=>t.text,[a]),3,null),3,"fY_0"):s=l("h5",null,{class:"time"},l("span",null,{class:"data"},n(t=>t.text,[a]),3,null),3,"fY_1"),l("div",null,{class:"timestamp"},s,1,"fY_2")};export{m as s_lcbnr0h4g7c};

@@ -1,0 +1,1 @@
+import{Y as l,a9 as a,d as r,S as u}from"./q-1df74882.js";const _=s=>l("a",null,{class:"news-url",href:a(n=>n.href,[s])},[r(u,null,3,"7A_0"),l("span",null,{class:"line"},null,3,null)],1,"7A_1");export{_ as s_ls0uN8peKU0};

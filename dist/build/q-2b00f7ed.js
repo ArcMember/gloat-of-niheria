@@ -1,1 +1,0 @@
-import{a as s,m as o,d as m,q as e}from"./q-0a61ba82.js";const a=n=>s("div",null,{class:o(l=>"board board"+(l.columns==null?2:l.columns)+(l.mobileColumns==null?" mobileColumns"+l.columns:" mobileColumns"+l.mobileColumns),[n]),style:o(l=>l.gap!=null?"gap: "+l.gap+";":"",[n])},m(e,null,3,"Al_0"),1,"Al_1");export{a as s_VFZWQYZXHos};

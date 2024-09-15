@@ -1,0 +1,1 @@
+import{W as d,d as e,Y as l,S as t,Z as s}from"./q-1df74882.js";const a=n=>(d(),e(s,{children:[n.locked!=null&&n.showLabel!=null&&l("div",null,{center:!0,style:"padding: 20px;"},l("i",null,null,"Содержание скрыто с глаз долой",3,null),3,"nO_0"),n.locked!=!0&&e(t,null,3,"nO_1")]},1,"nO_2"));export{a as s_Sw5k4t8ghmA};

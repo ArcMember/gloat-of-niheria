@@ -1,0 +1,1 @@
+import{Y as l}from"./q-1df74882.js";const t=()=>l("div",null,null,l("div",null,{style:"margin: 40px auto; text-align: center; font-size: 36px; font-family: bookAntiqua;"},["404 сами знаете кто",l("br",null,null,null,3,null),":("],3,null),3,"oq_0");export{t as s_JuTI5XnqLy0};

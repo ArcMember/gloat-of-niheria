@@ -1990,6 +1990,17 @@ footer {
 	}
 }
 
+.navigation-star {
+	float: left; 
+	margin: 15px; 
+	width: 45%;
+
+	@media screen and (max-width: 600px) {
+		margin: 15px 0;
+		width: 100%;
+	}
+}
+
 //...SSSSSSS....iiii.......dddd..........ebbb..........................
 //..SSSSSSSSS...iiii.......dddd..........ebbb..........................
 //..SSSSSSSSSS.............dddd..........ebbb..........................

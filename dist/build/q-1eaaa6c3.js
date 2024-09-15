@@ -1,0 +1,5 @@
+import{d as i,ak as a,al as e,Z as c}from"./q-1df74882.js";import{B as o}from"./q-6b4784da.js";import{B as r}from"./q-baeddcd9.js";import{B as l}from"./q-319fab4e.js";import{N as d}from"./q-4f4939f3.js";const j={title:"История",meta:[],styles:[],links:[],scripts:[],frontmatter:{}},x={title:"История"};function s(t){return e(c,{children:[e(o,{title:"Свежие Новости",href:"news/",src:"news/pic.jpg",short:!0}),`
+`,e("div",{center:!0,style:"padding-top: 10px;",children:e("a",{href:"/updates",children:"» История обновлений «"})}),`
+`,e(d,{}),`
+`,e(l,{columns:3,children:[e(r,{title:"Иссякающая Эпоха",href:"outgoing-age",src:"outgoing-age.jpg"}),e(r,{title:"Старое время",href:"old-time",src:"old-time/red-dawn/pic.png"}),e(r,{title:"Ветхие эпохи",href:"elder-ages",src:"elder-ages.jpg"})]}),`
+`,e(o,{title:"Таймлайн",href:"timeline",src:"timeline/pic.jpg",shorter:!0})]})}function p(t={}){const{wrapper:n}=t.components||{};return n?e(n,Object.assign({},t,{children:e(s,t)})):s()}const B=()=>i(a,{children:i(p,{},3,null)},3,"NFtKxc3w");export{B as default,x as frontmatter,j as head};

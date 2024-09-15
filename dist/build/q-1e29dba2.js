@@ -1,1 +1,0 @@
-import{a as i}from"./q-0a61ba82.js";const n="/build/q-80d9f20f.webp 200w, /build/q-e16aa4ed.webp 400w, /build/q-6e744d98.webp 600w, /build/q-d44e779c.webp 800w, /build/q-8e180e62.webp 1200w",t=1200,w=800,b={srcSet:n,width:t,height:w};function s(e,d,c,o){return i("img",{decoding:"async",loading:"lazy",...e},b,void 0,3,d)}export{s as I};

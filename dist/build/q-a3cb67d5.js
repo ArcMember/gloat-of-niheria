@@ -1,0 +1,1 @@
+const c=t=>{const e=t.target.children,o=e[0].children[0].textContent+" "+e[0].children[2].textContent;navigator.clipboard.writeText(o).then(()=>{t.target.classList.add("copied"),setTimeout(()=>{t.target.classList.remove("copied")},300)}).catch(r=>{console.error("failed to copy",r)})};export{c as s_UyGKimy3k9k};

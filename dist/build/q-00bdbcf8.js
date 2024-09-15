@@ -1,1 +1,0 @@
-import{a as l,m as n,d as r,q as u}from"./q-0a61ba82.js";const t=s=>l("a",null,{class:"news-url",href:n(a=>a.href,[s])},[r(u,null,3,"7A_0"),l("span",null,{class:"line"},null,3,null)],1,"7A_1");export{t as s_ls0uN8peKU0};

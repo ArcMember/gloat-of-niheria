@@ -1,0 +1,9 @@
+import{d as i,ak as a,al as n,Z as c}from"./q-1df74882.js";import{B as d}from"./q-6b4784da.js";const h=[{text:"Внешний вид",id:"внешний-вид",level:2},{text:"Свойства",id:"свойства",level:2},{text:"Обитание",id:"обитание",level:2},{text:"Рецепты",id:"рецепты",level:2}],p={title:"Крептофера",meta:[],styles:[],links:[],scripts:[],frontmatter:{}},u={title:"Крептофера"};function r(t){const e=Object.assign({h2:"h2",a:"a",span:"span",p:"p"},t.components);return n(c,{children:[n(d,{src:"/menu/guidebook/books/herbarium/herbs/kreptophere/pic.jpg",title:"Крептофера"}),`
+`,n(e.h2,{id:"внешний-вид",children:[n(e.a,{"aria-hidden":"true",tabindex:"-1",href:"#внешний-вид",children:n(e.span,{class:"icon icon-link"})}),"Внешний вид"]}),`
+`,n(e.p,{children:"Высокий узкий куст, листья которого чёрные снаружи и ярко оранжевые с изнанки. Питается оно живописным закатами риафийского архипелага и полуденным теплом."}),`
+`,n(e.h2,{id:"свойства",children:[n(e.a,{"aria-hidden":"true",tabindex:"-1",href:"#свойства",children:n(e.span,{class:"icon icon-link"})}),"Свойства"]}),`
+`,n(e.p,{children:"При доведении до температуры кипения воды крептофера взрывается, оставляя после себя лишь тёмно-фиолетовые лепестки-ошмётки."}),`
+`,n(e.h2,{id:"обитание",children:[n(e.a,{"aria-hidden":"true",tabindex:"-1",href:"#обитание",children:n(e.span,{class:"icon icon-link"})}),"Обитание"]}),`
+`,n(e.p,{children:"Произрастает на редких островах Риафийского архипелага."}),`
+`,n(e.h2,{id:"рецепты",children:[n(e.a,{"aria-hidden":"true",tabindex:"-1",href:"#рецепты",children:n(e.span,{class:"icon icon-link"})}),"Рецепты"]}),`
+`,n(e.p,{children:"Используется в изготовлении кустарной взрывчатки пиратами Адмиралтейства."})]})}function s(t={}){const{wrapper:e}=t.components||{};return e?n(e,Object.assign({},t,{children:n(r,t)})):r(t)}const m=()=>i(a,{children:i(s,{},3,null)},3,"ZbtC99vt");export{m as default,u as frontmatter,p as head,h as headings};

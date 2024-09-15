@@ -478,4 +478,31 @@ export const heroes = [
         "wanted" : "",
         "dead" : false
     },
+    {
+        "name": "Любовь Фламмифер",
+        "subname": "Лав",
+        "subtitle": "Легионер Бюро Вычищения",
+        "filter": "Л Женщина Человек Маг",
+        "href": "love-flammifer",
+        "src": "love-flammifer/pic.jpg",
+        "property" : "5 золотых",
+
+        "data" : {
+            "age" : "28 лет, родилась 13 го Снегомеса в 180 г. под созвездием Матери.",
+            "nation" : "человек, луатка.",
+            "class" : "Маг, подкласс - разбойник.",
+            "player" : "Сонях",
+            "occupation" : "Официально - легионер Бюро Вычищения Последней республики Луат. В данный момент выполняет специальные задания Бюро пребывая вне штата.",
+            "quests" : "",
+            "factions" : {
+                "RT" : "sus",   "TY" : "neu",   "AF" : "sus",
+                "LT" : "gud",   "KF" : "neu",   "MW" : "neu",
+                "FL" : "neu",   "SX" : "neu",   "SK" : "neu",
+                "KL" : "neg",   "HL" : "neg"
+            }
+        },
+
+        "wanted" : "",
+        "dead" : false
+    },
 ]

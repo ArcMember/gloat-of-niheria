@@ -22,7 +22,7 @@ const partnersPost = {
         [Markup.button.url("🦎 твои текстовые ролевые🦎", "t.me/rolevaya1")],
         [
             Markup.button.url("Ouroboros", "t.me/ouroborosrp"),
-            Markup.button.url("Traveler's House", "t.me/TravelerHouse")
+            Markup.button.url("postchat // поиск ролевиков", "t.me/postchatrp")
         ],
         [
             Markup.button.url("Поиск ролевых", "t.me/rolevye"), 

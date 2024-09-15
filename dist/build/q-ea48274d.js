@@ -1,0 +1,9 @@
+import{d as a,ak as s,al as n,Z as c}from"./q-1df74882.js";import{C as o}from"./q-e8b8021f.js";import{N as r}from"./q-4f4939f3.js";const p=[{text:"Персона",id:"персона",level:2},{text:"Образ",id:"образ",level:2}],u={title:"Тильф Грохолес",meta:[],styles:[],links:[],scripts:[],frontmatter:{}},f={title:"Тильф Грохолес"};function i(t){const e=Object.assign({h2:"h2",a:"a",span:"span",p:"p"},t.components);return n(c,{children:[n(o,{data:"canons",name:"Тильф Грохолес"}),`
+`,n(r,{}),`
+`,`
+`,n(e.h2,{id:"персона",children:[n(e.a,{"aria-hidden":"true",tabindex:"-1",href:"#персона",children:n(e.span,{class:"icon icon-link"})}),"Персона"]}),`
+`,n(e.p,{children:"Немолодая, но пробивная, Тильф Грохолес сделала свою судьбу сама. Всю свою жизнь она занимается археологией и, разменяв более чем полвека, может уверенно заявить — равных ей мало, а в Мордвине — нет. Тильф - дворфийка, которой всегда нужно к чему-то идти, и её путь не закончился на хорошем посту и добрых финансовых потоках. Она впишет себя в историю той, кто эту историю открыл всему народу."}),`
+`,n(e.h2,{id:"образ",children:[n(e.a,{"aria-hidden":"true",tabindex:"-1",href:"#образ",children:n(e.span,{class:"icon icon-link"})}),"Образ"]}),`
+`,n(e.p,{children:"Властная, суровая, может даже где-то жестокая и вовсе коварная, но умеющая находить таланты среди подчинённых и толково распоряжаться умениями своих коллег. Тильф принято побаиваться, но с уважением, оказываемым ей даже верхушкой правящей элиты. Это уважение она она заслуживает более чем."}),`
+`,n("div",{right:!0,children:["Соавтор статьи - ",n("a",{href:"https://t.me/Potatoe_king",children:"@Potatoe_king"})]}),`
+`,n(r,{})]})}function d(t={}){const{wrapper:e}=t.components||{};return e?n(e,Object.assign({},t,{children:n(i,t)})):i(t)}const x=()=>a(s,{children:a(d,{},3,null)},3,"OgYsBFLz");export{x as default,f as frontmatter,u as head,p as headings};

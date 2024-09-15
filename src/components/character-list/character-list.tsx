@@ -249,7 +249,7 @@ export const Character = component$((props: Character) => {
 
     let filteredIn = false
     if (charFilter.includes(sexFilter) && 
-        (letterFilter == "" || charFilter.includes(" " + letterFilter + " ")) && 
+        (letterFilter == "" || charFilter.includes(letterFilter + " ")) && 
         charFilter.includes(classFilter) && 
         includesAny(charFilter, stateFilter) && 
         includesAny(charFilter, guildFilter) && 
@@ -265,4 +265,3 @@ export const Character = component$((props: Character) => {
         </div>
     );
 });
-

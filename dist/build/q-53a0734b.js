@@ -1,0 +1,1 @@
+import{Y as l,a9 as t}from"./q-1df74882.js";const i=a=>{let s;return a.noheading?s=l("div",null,{class:"time"},l("span",null,{class:"data"},t(n=>n.text,[a]),3,null),3,"fY_0"):s=l("h5",null,{class:"time"},l("span",null,{class:"data"},t(n=>n.text,[a]),3,null),3,"fY_1"),l("div",null,{class:"timestamp"},s,1,"fY_2")};export{i as s_lcbnr0h4g7c};

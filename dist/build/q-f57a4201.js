@@ -1,0 +1,3 @@
+import{d as n,ak as o,al as t,Z as s}from"./q-1df74882.js";import{a as i}from"./q-baeddcd9.js";import{D as c}from"./q-ae473387.js";import{C as l}from"./q-5d3b642a.js";import"./q-4f4939f3.js";const h={title:"Каноны",meta:[],styles:[],links:[],scripts:[],frontmatter:{}},x={title:"Каноны"};function a(e){return t(s,{children:[t(c,{}),`
+`,t(l,{center:!0,title:"Каноны"}),`
+`,t(i,{stateFilter:!0,letterFilter:!0})]})}function m(e={}){const{wrapper:r}=e.components||{};return r?t(r,Object.assign({},e,{children:t(a,e)})):a()}const D=()=>n(o,{children:n(m,{},3,null)},3,"KC1KDXnk");export{D as default,x as frontmatter,h as head};
